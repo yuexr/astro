@@ -1,3 +1,40 @@
 {
-  "mods": {}
+  "mods": {
+    "BackpackProMax": {
+      "latest_version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMax-1.0.0_P.pak",
+          "filename": "000-BackpackProMax-1.0.0_P.pak"
+        }
+      }
+    },
+    "BackpackProMaxAutoArmShield": {
+      "latest_version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMaxAutoArmShield-1.0.0_P.pak",
+          "filename": "000-BackpackProMaxAutoArmShield-1.0.0_P.pak"
+        }
+      }
+    },
+    "BackpackProMaxLuxe": {
+      "latest_version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMaxLuxe-1.0.0_P.pak",
+          "filename": "000-BackpackProMaxLuxe-1.0.0_P.pak"
+        }
+      }
+    },
+    "BackpackProMaxLuxeAutoArmShield": {
+      "latest_version": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMaxLuxeAutoArmShield-1.0.0_P.pak",
+          "filename": "000-BackpackProMaxLuxeAutoArmShield-1.0.0_P.pak"
+        }
+      }
+    }
+  }
 }
