@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Astroneer mod installation | yuexr</title>
+    <meta name="description" content=" " />
+  </head>
+
+  <body>
+    <header>
+      <nav aria-label="Main navigation"><a href="https://yuexr.github.io/">Home</a> | <a href="../../">Astroneer</a> | <a href="../">Mods</a></nav>
+    </header>
+    <main>
+      <h1>Page under construction, will be pretty soon!</h1>
+
+      <h1>Installing Astroneer mods</h1>
+      <p>These instructions are for my Astroneer mods on Windows PC</p>
+      <p>
+        Currently I recommend Vortex and AstroModLoader-Classic installation. <br />
+        Other mod loaders may be compatible but no support will be provided.
+      </p>
+
+      <h2 id="vortex">Vortex Mod Manager</h2>
+      <ol>
+        <li>Download and install <a href="https://www.nexusmods.com/vortex">Nexus Mods Vortex</a>.</li>
+        <li>Find Astroneer in Vortex's Games section and select <strong>Manage</strong>. Accept the required extension and dependency prompts. UE4SS and AutoIntegrator will be automatically installed.</li>
+        <li>
+          File download:
+          <ul>
+            <li>If downloading from Nexus Mods, select <i>Vortex</i> option or click <i>Mod Manager download</i>. The download will start automatically in Vortex.</li>
+            <li>If downloading from other direct sources, drag the mod's .zip file to the <i>Drop File</i> module at the bottom.</li>
+          </ul>
+        </li>
+        <li>Enable desired mods, deploy if prompted, and launch the game!</li>
+      </ol>
+      Mods downloaded directly from Nexus Mods through Vortex support automatic update detection.
+
+      <h2 id="aml-classic">AstroModLoader Classic</h2>
+      <ol>
+        <li>Download and open <a href="https://github.com/atenfyr/AstroModLoader-Classic/releases/latest">AstroModLoader Classic .exe file</a>.</li>
+        <li>Select your Astroneer installation if prompted.</li>
+        <li>Open <i>Settings</i> and click <i>Install UE4SS</i>. This will automatically install all UE4SS dependencies such as ConsoleCommandsMod.</li>
+        <li>Drag the downloaded mod's .zip into the loader window.</li>
+        <li>Enable desired mods and launch the game!</li>
+      </ol>
+      <p>
+        AstroModLoader Classic supports automatic update detection for my mods.<br />
+        Please ensure you are using <b>AstroModLoader Classic</b> and NOT AstroModLoader.
+      </p>
+
+      <hr />
+
+      <h2 id="manual-ue4ss">Manual UE4SS installation (not recommended)</h2>
+      <p>This method works only for UE4SS mods. Installation with Vortex or AML-C is still recommended.</p>
+      <ol>
+        <li>Download the latest <a href="https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/experimental-latest">UE4SS experimental release .zip file</a> (scroll to bottom under assets)</li>
+        <li>In Steam, right-click Astroneer → Manage → Browse local files. Open <code>Astro\Binaries\Win64</code>.</li>
+        <li>Extract UE4SS .zip content into <code>Astro\Binaries\Win64</code>.</li>
+        <li>Extract the mod's .zip into <code>Astro\Binaries\Win64\ue4ss\Mods</code>, keeping the included mod folder intact.</li>
+        <li>
+          Check that the mod folder sits directly inside <code>Mods</code>.
+          <ul>
+            <li>Your folder structure should look something like this: <code>ASTRONEER\Astro\Binaries\Win64\ue4ss\Mods\ModName</code>.</li>
+          </ul>
+        </li>
+      </ol>
+
+      <p><a href="../">Back to all mods</a></p>
+    </main>
+  </body>
+</html>
