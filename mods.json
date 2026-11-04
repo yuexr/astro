@@ -1,0 +1,121 @@
+{
+  "sections": [
+    {
+      "id": "released",
+      "title": "Released Mods",
+      "description": "Astroneer mods that have been tested and released for public use, and are published on my",
+      "link": {
+        "label": "Nexus Mods page",
+        "url": "https://www.nexusmods.com/profile/xiyuue/mods"
+      }
+    },
+    {
+      "id": "personal",
+      "title": "Personal Mods",
+      "description": "Created for my personal use. Posted publicly but not formally tested or released."
+    }
+  ],
+  "mods": [
+    {
+      "id": "backpack-pro-max",
+      "name": "Backpack Pro Max",
+      "section": "released",
+      "description": "Redesigned 16 slot backpack mod that is fully functional and multiplayer safe. Includes Base and Luxe models, printer controls, and optional Auto Arm Shield.",
+      "author": "yuexr",
+      "image": "assets/backpack-pro-max.png",
+      "imageAlt": "Backpack Pro Max",
+      "repository": "https://github.com/yuexr/astro-backpack-pro-max",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/yuexr/astro-backpack-pro-max/HEAD/metadata/BackpackProMax.json",
+          "format": "astroneer"
+        },
+        {
+          "url": "https://api.github.com/repos/yuexr/astro-backpack-pro-max/releases/latest",
+          "format": "github-release"
+        }
+      ],
+      "version": "1.0.0",
+      "gameBuild": "1.45.1.0",
+      "downloads": [
+        {
+          "label": "Backpack-Pro-Max-1.0.0.zip",
+          "url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/Backpack-Pro-Max-1.0.0.zip"
+        },
+        {
+          "label": "Backpack-Pro-Max-AutoArmShield-1.0.0.zip",
+          "url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/Backpack-Pro-Max-AutoArmShield-1.0.0.zip"
+        },
+        {
+          "label": "Backpack-Pro-Max-Luxe-1.0.0.zip",
+          "url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/Backpack-Pro-Max-Luxe-1.0.0.zip"
+        },
+        {
+          "label": "Backpack-Pro-Max-Luxe-AutoArmShield-1.0.0.zip",
+          "url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/Backpack-Pro-Max-Luxe-AutoArmShield-1.0.0.zip"
+        }
+      ],
+      "nexusUrl": "https://www.nexusmods.com/astroneer/mods/241"
+    },
+    {
+      "id": "baby-proof-explosions",
+      "name": "Baby-Proof Explosions",
+      "section": "released",
+      "description": "Reduce explosion damage and protect equipment, with optional vehicle protection.",
+      "author": "yuexr",
+      "image": "assets/baby-proof-explosions.png",
+      "imageAlt": "Baby-Proof Explosions",
+      "repository": "https://github.com/yuexr/astro-baby-proof-explosions",
+      "sources": [],
+      "nexusUrl": "https://www.nexusmods.com/astroneer/mods/235"
+    },
+    {
+      "id": "fractal-rose-selector",
+      "name": "Fractal Rose Selector",
+      "section": "released",
+      "description": "Choose which Fractal Rose variant grows.",
+      "author": "yuexr",
+      "image": "assets/fractal-rose-selector.png",
+      "imageAlt": "Fractal Rose Selector",
+      "repository": "https://github.com/yuexr/astro-fractal-rose-selector",
+      "sources": [],
+      "nexusUrl": "https://www.nexusmods.com/astroneer/mods/237"
+    },
+    {
+      "id": "faster-shredders",
+      "name": "Faster Shredders",
+      "section": "released",
+      "description": "Make shredders process items five times faster.",
+      "author": "yuexr",
+      "image": null,
+      "imageAlt": "Faster Shredders",
+      "repository": "https://github.com/yuexr/astro-faster-shredders",
+      "sources": [],
+      "nexusUrl": "https://www.nexusmods.com/astroneer/mods/232"
+    },
+    {
+      "id": "ghost-visibility",
+      "name": "Ghost Visibility",
+      "section": "personal",
+      "description": "Toggle visibility of your astronaut, backpack, and terrain tool.",
+      "author": "yuexr",
+      "image": null,
+      "imageAlt": "Ghost Visibility",
+      "repository": "https://github.com/yuexr/astro-ghost-visibility",
+      "sources": [],
+      "nexusUrl": null
+    },
+    {
+      "id": "noclip",
+      "name": "Noclip Collision Toggle",
+      "section": "released",
+      "description": "Pass through terrain and objects while flying.",
+      "author": "yuexr",
+      "image": "assets/noclip.png",
+      "imageAlt": "Noclip Collision Toggle",
+      "repository": "https://github.com/yuexr/astro-noclip",
+      "sources": [],
+      "nexusUrl": "https://www.nexusmods.com/astroneer/mods/238"
+    }
+  ]
+}

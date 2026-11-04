@@ -1,0 +1,838 @@
+@font-face {
+  font-family:Astroneer;
+  src:url('assets/A-Regular.woff2') format('woff2');
+  font-weight:400;
+  font-display:swap
+}
+
+@font-face {
+  font-family:Astroneer;
+  src:url('assets/A-Bold.woff2') format('woff2');
+  font-weight:700;
+  font-display:swap
+}
+
+@font-face {
+  font-family:Roboto;
+  src:url('assets/Roboto-Light.ttf') format('truetype');
+  font-weight:300;
+  font-display:swap
+}
+
+@font-face {
+  font-family:Roboto;
+  src:url('assets/Roboto-Bold.ttf') format('truetype');
+  font-weight:700;
+  font-display:swap
+}
+
+@font-face {
+  font-family:Roboto;
+  src:url('assets/Roboto-LightItalic.ttf') format('truetype');
+  font-weight:300;
+  font-style:italic;
+  font-display:swap
+}
+
+@font-face {
+  font-family:Roboto;
+  src:url('assets/Roboto-BoldItalic.ttf') format('truetype');
+  font-weight:700;
+  font-style:italic;
+  font-display:swap
+}
+
+:root {
+  --navy:#33517e;
+  --blue:#1e9ff1;
+  --pink:#e776ba;
+  --purple:#b188d4;
+  --yellow:#ffd444;
+  --lightblue:#cceaff;
+  --body:#606060;
+  --sidebar:280px
+}
+
+* {
+  box-sizing:border-box
+}
+
+html,body {
+  margin:0;
+  width:100%;
+  height:100%;
+  overflow:hidden
+}
+
+body {
+  font:300 16px/22px Roboto,sans-serif;
+  color:var(--body);
+  background:radial-gradient(ellipse at 20% 0,rgba(30,159,241,.12),transparent 60%),linear-gradient(135deg,#e2ebfa 12%,#dfe3f2 48%,#ccc6ee 100%)
+}
+
+a {
+  color:var(--pink);
+  text-decoration:none
+}
+
+main a:not(.mod-card) {
+  text-decoration:underline;
+  text-underline-offset:2px
+}
+
+a:hover {
+  color:white;
+  background:var(--purple);
+  cursor:crosshair
+}
+
+a:focus-visible {
+  outline:2px solid var(--navy);
+  outline-offset:4px
+}
+
+.skip-link {
+  position:fixed;
+  left:calc(var(--sidebar) + 12px);
+  top:-60px;
+  padding:10px;
+  background:white;
+  z-index:10
+}
+
+.skip-link:focus {
+  top:10px
+}
+
+.mobile-header,.menu-backdrop {
+  display:none
+}
+
+.sidebar {
+  position:fixed;
+  inset:0 auto 0 0;
+  width:var(--sidebar);
+  background:white;
+  box-shadow:6px 0 0 #33517e14;
+  z-index:2;
+  overflow:hidden
+}
+
+.yue {
+  display:block;
+  position:relative;
+  width:294px;
+  height:296px;
+  margin-left:calc((100% - 294px)/2);
+  color:var(--blue)
+}
+
+.yue:hover {
+  background:transparent
+}
+
+.avatar-ring {
+  position:absolute;
+  left:69px;
+  top:55px;
+  width:153px;
+  height:153px;
+  border:1px solid #d4dff0;
+  border-radius:50%;
+  padding:6px
+}
+
+.avatar {
+  display:block;
+  width:100%;
+  height:100%;
+  border-radius:50%;
+  background:url('assets/avatar.png') -32px 0/206px 165px no-repeat
+}
+
+.crown-backing {
+  position:absolute;
+  left:74px;
+  top:71px;
+  width:40px;
+  height:10px;
+  background:white;
+  rotate: 320deg;
+}
+
+.crown {
+  position:absolute;
+  left:61px;
+  top:42px;
+  width:44px;
+  height:44px;
+  color:#f5d333;
+  font:48px/44px 'Segoe UI Symbol',serif;
+  text-align:center;
+  rotate:-40deg
+}
+
+.yuelarge {
+  position:absolute;
+  left:39px;
+  top:243px
+}
+
+.yue-label {
+  position:absolute;
+  left:161px;
+  top:242px;
+  font:700 10px/12px Astroneer,sans-serif;
+  color:#5288c8
+}
+
+.yue-star {
+  position:absolute;
+  left:204px;
+  top:236px
+}
+
+.yue-star:hover,.yuelarge:hover~.yue-star,.yue-label:hover~.yue-star {
+  animation:star-sparkle .55s ease-out both
+}
+
+.yue-divider {
+  position:absolute;
+  left:32px;
+  top:287px
+}
+
+.sidebar-star {
+  display:block;
+  height:79px;
+  padding-top:29px;
+  text-align:center;
+  font:24px/24px 'Segoe UI Symbol',sans-serif;
+  color:var(--blue)
+}
+
+nav {
+  margin:0 20px
+}
+
+.nav-section {
+  margin:0 0 25px
+}
+
+.nav-section h2,.return-link {
+  margin:0;
+  background:var(--pink);
+  padding:6px 9px 5px;
+  height:31px;
+  color:white;
+  font:700 17px/20px Astroneer,sans-serif
+}
+
+.nav-section ul {
+  list-style:none;
+  margin:5px 0 0;
+  padding:0 0 0 18px
+}
+
+.nav-section li {
+  font:400 14px/22px Astroneer,sans-serif
+}
+
+.nav-section li::before {
+  content:'\2726';
+  display:inline-block;
+  color:var(--blue);
+  font-family:'Segoe UI Symbol',sans-serif;
+  margin-right:8px;
+  font-size:12px
+}
+
+.nav-section li:hover::before,.nav-section li:focus-within::before {
+  color:var(--yellow);
+  animation:star-sparkle .55s ease-out both
+}
+
+.nav-section a {
+  color:var(--blue)
+}
+
+.nav-section a:hover {
+  color:white
+}
+
+.nav-section:last-of-type {
+  margin-bottom:18px
+}
+
+.return-link {
+  display:block;
+  background:var(--lightblue);
+  color:var(--blue)
+}
+
+.return-link:hover {
+  background:var(--purple);
+  color:white
+}
+
+.scroll-pane {
+  position:absolute;
+  inset:0;
+  overflow-y:auto;
+  overflow-x:hidden;
+  overscroll-behavior:contain;
+  scrollbar-gutter:stable
+}
+
+main {
+  position:relative;
+  width:calc(906px + var(--sidebar));
+  max-width:100%;
+  min-height:100%;
+  padding:26px 46px 60px calc(var(--sidebar) + 46px);
+  background:linear-gradient(116deg,transparent 6%,rgba(255,255,255,.12) 17%,transparent 31%),linear-gradient(140deg,rgba(255,255,255,.26),rgba(255,255,255,.10) 48%,rgba(255,255,255,.05));
+  border:1px solid rgba(255,255,255,.3);
+  box-shadow:8px 8px 30px rgba(51,81,126,.13);
+  outline:none
+}
+
+.view {
+  position:relative;
+  z-index:1
+}
+
+.page-header {
+  margin:0 0 10px
+}
+
+h1,h2,h3 {
+  font-family:Astroneer,sans-serif;
+  font-weight:700
+}
+
+h1 {
+  margin:0;
+  color:var(--navy);
+  font-size:36px;
+  line-height:40px
+}
+
+.page-header p {
+  font-family:Astroneer,sans-serif;
+  color:var(--navy);
+  font-size: 14px;
+  font-weight:300;
+  line-height:18px;
+  margin:2px 0 0
+}
+
+.page-header p::before {
+  content:'\2726';
+  display:inline-block;
+  color:var(--pink);
+  font-family:'Segoe UI Symbol',sans-serif;
+  margin-right:6px
+}
+
+.page-header p:hover::before {
+  animation:star-sparkle .55s ease-out both
+}
+
+.mod-grid {
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:16px
+}
+
+.mod-card {
+  display:block;
+  padding:10px;
+  min-height:214px;
+  background:white;
+  box-shadow:6px 6px 0 #33517e14;
+  color:inherit;
+  text-decoration:none;
+  align-self:stretch;
+  transition:transform .22s ease,box-shadow .22s ease
+}
+
+.mod-card:hover,.mod-card:focus-visible {
+  background:white;
+  color:inherit;
+  box-shadow:6px 9px 0 #e776ba45;
+  transform:translateY(-4px)
+}
+
+.mod-image {
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:240/136;
+  object-fit:cover
+}
+
+.mod-image-wrap {
+  display:block;
+  position:relative
+}
+
+.mod-image-wrap::after {
+  content:'';
+  position:absolute;
+  inset:0;
+  background:var(--lightblue);
+  opacity:0;
+  pointer-events:none;
+  transition:opacity .2s ease
+}
+
+.mod-card:hover .mod-image-wrap::after {
+  opacity:.3
+}
+
+.modcardname {
+  text-transform: uppercase;
+  font:700 17px/18px Astroneer,sans-serif;
+  color:var(--blue);
+  margin:7px 0 6px
+}
+
+.modcardstar {
+  display:inline-block;
+  font-family:'Segoe UI Symbol',sans-serif;
+  color:var(--navy);
+  font-size:16px;
+  font-weight:400;
+  padding-right: 5px
+}
+
+.modcardname .modcardstar {
+  margin-right:2px
+}
+
+.modcarddesc {
+  font:300 12px/13px Roboto,sans-serif;
+  color:#8d8d8d;
+  margin:0
+}
+
+.mod-card:hover .modcardname,.mod-card:focus-visible .modcardname {
+  color:var(--purple)
+}
+
+.mod-card:hover .modcardstar,.mod-card:focus-visible .modcardstar {
+  color:var(--yellow);
+  animation:star-sparkle .55s ease-out both
+}
+
+@keyframes star-sparkle {
+  0%,100% {
+    transform:scale(1) rotate(0)
+  }
+  40% {
+    transform:scale(1.35) rotate(12deg)
+  }
+  70% {
+    transform:scale(.95) rotate(-8deg)
+  }
+}
+
+.mod-card .modcarddesc {
+  max-height:26px;
+  overflow:hidden
+}
+
+.paper {
+  background:white;
+  box-shadow:6px 6px 0 #33517e14;
+  padding:30px;
+  min-height:300px
+}
+
+.paper p {
+  margin:0 0 18px
+}
+
+.paper strong {
+  color:var(--purple);
+  font-weight: 300;
+}
+
+.paper h2 {
+  position:relative;
+  font-size:28px;
+  line-height:35px;
+  padding:5px 40px 5px 13px;
+  margin:10px 0 14px;
+  background:#e0f2ff;
+  color:var(--blue)
+}
+
+.paper h2::after {
+  content:'\2726';
+  position:absolute;
+  right:15px;
+  top:3px;
+  color:white;
+  font:30px/35px 'Segoe UI Symbol',sans-serif
+}
+
+.paper h2:hover::after {
+  color:var(--yellow);
+  animation:star-sparkle .55s ease-out both
+}
+
+.paper h3 {
+  margin:0 0 5px 4px;
+  font-size:24px;
+  line-height:29px;
+  color:var(--pink)
+}
+
+.paper ul,.paper ol {
+  margin:0 0 18px;
+  padding-left:34px
+}
+
+.paper ul {
+  list-style:none
+}
+
+.paper ul>li::before {
+  content:'\2726';
+  color:var(--blue);
+  font-family:'Segoe UI Symbol',sans-serif;
+  display:inline-block;
+  width:22px;
+  margin-left:-22px
+}
+
+.paper ul>li:hover::before {
+  color:var(--yellow);
+  animation:star-sparkle .55s ease-out both
+}
+
+.paper ol>li::marker {
+  color:var(--purple);
+  font-weight:700
+}
+
+.paper li {
+  margin-bottom:10px;
+  padding-left:5px
+}
+
+.paper code {
+  color:var(--purple);
+  font-size:14px;
+  overflow-wrap:anywhere;
+  background:#f3f6fb
+}
+
+.paper hr {
+  border:0;
+  height:1px;
+  background:#edf0f7;
+  margin:35px 0
+}
+
+.hover-example {
+  background:var(--purple);
+  color:white
+}
+
+mark {
+  background:#fff4cb;
+  color:var(--body);
+  padding:0
+}
+
+.card-type-sample {
+  margin-top:47px
+}
+
+.card-type-sample .modcardname {
+  margin:0;
+  line-height:16px
+}
+
+@media(prefers-reduced-motion:reduce) {
+  .yue-star:hover,.yuelarge:hover~.yue-star,.yue-label:hover~.yue-star,.mod-card:hover .modcardstar,.mod-card:focus-visible .modcardstar,.nav-section li:hover::before,.nav-section li:focus-within::before,.page-header p:hover::before,.paper h2:hover::after,.paper ul>li:hover::before {
+    animation:none
+  }
+  .mod-card,.mod-image-wrap::after {
+    transition:none
+  }
+}
+
+@media(max-width:1050px) {
+  main {
+    padding-left:calc(var(--sidebar) + 30px);
+    padding-right:30px
+  }
+  .mod-grid {
+    grid-template-columns:repeat(2,minmax(0,1fr))
+  }
+}
+
+@media(max-width:700px) {
+  :root {
+    --sidebar:0px
+  }
+  .mobile-header {
+    position:fixed;
+    inset:0 0 auto;
+    height:68px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+    padding:10px 20px;
+    border-bottom:4px solid #d8e2f3;
+    background:white;
+    z-index:5
+  }
+  .mobile-yue {
+    display:flex;
+    align-items:center;
+    gap:13px
+  }
+  .mobile-yue:hover {
+    background:transparent
+  }
+  .mobile-avatar {
+    width:42px;
+    height:42px;
+    border-radius:50%;
+    background:url('assets/avatar.png') -9.5px 0/61.4px 49.2px;
+    border:1px solid #d4dff0;
+    outline:3px solid white;
+    box-shadow:0 0 0 4px #d4dff0
+  }
+  .menu-toggle {
+    border:0;
+    background:#cceaff;
+    color:var(--blue);
+    padding:8px 12px;
+    font:700 16px/20px Astroneer,sans-serif;
+    cursor:crosshair
+  }
+  .menu-toggle:hover {
+    background:var(--pink);
+    color:white
+  }
+  .menu-toggle:focus-visible {
+    outline:2px solid var(--navy);
+    outline-offset:3px
+  }
+  .sidebar {
+    top:68px;
+    width:min(280px,86vw);
+    transform:translateX(-100%);
+    visibility:hidden;
+    z-index:4;
+    overflow-y:auto
+  }
+  .sidebar .yue,.sidebar-star {
+    display:none
+  }
+  nav {
+    width:auto;
+    margin:28px 26px
+  }
+  .nav-section ul {
+    padding-left:17px;
+    margin-top:10px
+  }
+  .nav-section li {
+    font-size:13px;
+    line-height:36px
+  }
+  .nav-section {
+    margin-bottom:26px
+  }
+  .menu-open .sidebar {
+    transform:translateX(0);
+    visibility:visible
+  }
+  .menu-open .menu-backdrop {
+    display:block;
+    position:fixed;
+    inset:68px 0 0;
+    background:#33517e55;
+    border:0;
+    z-index:3;
+    cursor:crosshair
+  }
+  .scroll-pane {
+    top:68px;
+    scrollbar-gutter:auto
+  }
+  main {
+    padding:23px 20px 40px;
+    border-right:0
+  }
+  h1 {
+    font-size:30px;
+    line-height:35px
+  }
+  .mod-grid {
+    grid-template-columns:1fr;
+    gap:18px
+  }
+  .page-header {
+    margin-bottom:17px
+  }
+  .page-header p {
+    font-size:13px;
+    line-height:18px;
+    margin-top:5px
+  }
+  .paper h2 {
+    font-size:24px;
+    line-height:29px
+  }
+  .paper h3 {
+    font-size:21px
+  }
+  .skip-link {
+    left:20px;
+    z-index:6
+  }
+  .skip-link:focus {
+    top:72px
+  }
+}
+
+@media(max-height:780px) and (min-width:701px) {
+  .yue {
+    transform:scale(.8);
+    transform-origin:top center;
+    height:246px
+  }
+  .sidebar-star {
+    height:40px;
+    padding-top:0
+  }
+  .nav-section {
+    margin-bottom:16px
+  }
+  .nav-section ul {
+    margin-top:8px
+  }
+}
+
+.mod-section + .mod-section {
+  margin-top: 40px;
+}
+
+.mod-placeholder {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 240 / 136;
+  background: linear-gradient(135deg, var(--lightblue), #e6dff5);
+  color: var(--blue);
+  font: 40px 'Segoe UI Symbol', sans-serif;
+}
+
+.mod-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 22px;
+  margin-bottom: 16px;
+  color: var(--navy);
+  font-size: 14px;
+}
+
+.mod-facts[hidden] {
+  display: none;
+}
+
+.back-link {
+  margin: 26px 0 0;
+}
+
+.paper img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 18px 0;
+}
+
+.paper pre {
+  padding: 16px;
+  overflow-x: auto;
+  background: #f3f6fb;
+}
+
+.paper pre code {
+  background: transparent;
+}
+
+.paper table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin-bottom: 18px;
+}
+
+.paper th, .paper td {
+  padding: 8px 12px;
+  text-align: left;
+  border-bottom: 1px solid #e7eaf2;
+}
+
+.paper th {
+  color: var(--navy);
+}
+
+.paper blockquote {
+  margin: 0 0 18px;
+  padding: 12px 18px;
+  border-left: 3px solid var(--pink);
+  background: #faf6fc;
+}
+
+.paper blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.paper details {
+  margin-bottom: 18px;
+}
+
+.paper summary {
+  color: var(--purple);
+  font-weight: 700;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.paper a, .paper code {
+  overflow-wrap: anywhere;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+main > .view {
+  flex: 1;
+}
+
+.site-footer {
+  position: relative;
+  z-index: 1;
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, .6);
+  color: var(--navy);
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.site-footer p {
+  margin: 0 0 8px;
+}

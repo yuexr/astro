@@ -3,24 +3,37 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Astroneer mods | yuexr</title>
-    <meta name="description" content=" " />
+    <meta name="description" content="Browse Astroneer mods!" />
+
+    <title>Astroneer Mods · Y.U.E.</title>
+    <link rel="stylesheet" href="../site.css" />
   </head>
-  <body>
-    <header>
-      <nav aria-label="Main navigation"><a href="https://yuexr.github.io/">Home</a> | <a href="../">Astroneer</a> | <a href="./installation/">Installation guide</a></nav>
-    </header>
-    <main>
-      <h1>Astroneer mods</h1>
-      <ul>
-        <li><a href="https://github.com/yuexr/astro-backpack-pro-max">Backpack Pro Max</a> — A redesigned 16-slot backpack with Base and Luxe models, printer controls, and optional Auto Arm Shield.</li>
-        <li><a href="https://github.com/yuexr/astro-baby-proof-explosions">Baby-Proof Explosions</a> — Reduce explosion damage and protect equipment, with optional vehicle protection.</li>
-        <li><a href="https://github.com/yuexr/astro-faster-shredders">Faster Shredders</a> — Make shredders process items five times faster.</li>
-        <li><a href="https://github.com/yuexr/astro-fractal-rose-selector">Fractal Rose Selector</a> — Choose which Fractal Rose variant grows.</li>
-        <li><a href="https://github.com/yuexr/astro-ghost-visibility">Ghost Visibility</a> — Toggle visibility of your astronaut, backpack, and terrain tool.</li>
-        <li><a href="https://github.com/yuexr/astro-noclip">Noclip Collision Toggle</a> — Pass through terrain and objects while flying.</li>
-      </ul>
-      <p><a href="./installation/">How to install mods</a></p>
-    </main>
+  <body data-page="mods" data-root="../">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div data-include="navbar.html">
+      <noscript
+        ><p><a href="../mods/">Mods list</a> · <a href="../mods/installation/">Installation guide</a></p></noscript
+      >
+    </div>
+    <div class="scroll-pane">
+      <main id="main" tabindex="-1">
+        <div class="view">
+          <div id="mod-sections" aria-busy="true">
+            <header class="page-header">
+              <h1>Astroneer Mods</h1>
+              <p>Loading mods…</p>
+            </header>
+          </div>
+          <noscript
+            ><article class="paper">
+              <p>Enable JavaScript to browse the mod catalog, or <a href="https://github.com/yuexr?tab=repositories">visit the repositories on GitHub</a>.</p>
+            </article></noscript
+          >
+        </div>
+        <div data-include="footer.html"></div>
+      </main>
+    </div>
+
+    <script type="module" src="../site.js"></script>
   </body>
 </html>
