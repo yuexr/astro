@@ -1,0 +1,5 @@
+I made this utility mod for holding more items. As I advanced further into playing Astroneer, I found that many upgrades rewarded to the player became a trade-off decision; backpack space was truly constraining the value of the rewards. Despite other existing backpack mods, I wanted something with a visually pleasing model that did not compromise function.
+
+When creating the 3D models, I wanted to make sure I stayed true to the vanilla Astroneer aesthetic so that the upgrade truly felt like an extension of the game. I designed a second model for personal use called Luxe (it was a joke at first!) that added additional cosmic elements and YUE branding.
+
+Honestly the most fun of creating this mod was designing the media. Once I settled on names, I was really inspired to make it an entire sales pitch. I really leaned into the bit with more humour. I imagined an iconic TV salesman voice saying things like: _"Don't wait, this offer won't last!"_. My partner laughed and said the whole thing reminded him of Cave Johnson's business pitches from Portal 2.

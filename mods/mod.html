@@ -7,12 +7,13 @@
 
     <title>Astroneer Mods · Y.U.E.</title>
     <link rel="stylesheet" href="../site.css" />
+    <link rel="stylesheet" href="mods.css" />
   </head>
   <body data-page="mod" data-root="../">
     <a class="skip-link" href="#main">Skip to content</a>
     <div data-include="navbar.html">
       <noscript
-        ><p><a href="../mods/">Mods list</a> · <a href="../mods/installation/">Installation guide</a></p></noscript
+        ><p><a href="../mods/">Mods list</a> · <a href="../mods/installation.html">Installation guide</a></p></noscript
       >
     </div>
     <div class="scroll-pane">
@@ -20,10 +21,21 @@
         <div class="view">
           <header id="mod-header" class="page-header"><h1>Loading mod…</h1></header>
           <article id="mod-paper" class="paper" aria-busy="true">
-            <div id="mod-facts" class="mod-facts" hidden></div>
-            <p id="mod-links"></p>
-            <div id="mod-downloads"></div>
+            <p id="mod-links" hidden></p>
+            <div id="mod-facts" class="mod-meta" hidden></div>
+            <section data-diary hidden class="margintop30">
+              <h2>Author's Diary</h2>
+              <div class="mod-diary"></div>
+            </section>
+            <section data-gallery hidden class="margintop30">
+              <h2>Media</h2>
+              <div class="media-gallery" aria-label="Mod images"></div>
+            </section>
           </article>
+          <section data-readme-section hidden>
+            <header class="page-header mod-readme-header"><p>Mod's detailed description from README.md file:</p></header>
+            <article class="paper" data-readme></article>
+          </section>
           <p class="back-link"><a href="./">Back to all mods</a></p>
           <noscript
             ><p>Enable JavaScript to load this mod, or <a href="https://github.com/yuexr?tab=repositories">browse the GitHub repositories</a>.</p></noscript
@@ -32,6 +44,12 @@
         <div data-include="footer.html"></div>
       </main>
     </div>
+    <dialog class="media-popup" aria-label="Image preview">
+      <button type="button" aria-label="Close image preview">×</button>
+      <img alt="" />
+    </dialog>
+    <script src="../assets/vendor/marked.js"></script>
+    <script src="../assets/vendor/purify.js"></script>
     <script type="module" src="../site.js"></script>
   </body>
 </html>

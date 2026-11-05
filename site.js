@@ -124,16 +124,15 @@ function normalizeMetadata(data, source) {
     if (typeof data.tag_name !== 'string') throw new Error('Invalid GitHub release');
     return {
       version: data.tag_name.replace(/^v(?=\d)/, ''),
-      downloads: (data.assets || []).filter(asset => /\.zip$/i.test(asset.name)).map(asset => ({
-        label: asset.name,
-        url: asset.browser_download_url
-      }))
+      publishedAt: data.published_at
     };
   }
+  if (source.format !== 'mod-metadata') throw new Error('Unknown metadata format');
   const result = {};
   for (const [field, remote] of Object.entries({name: 'name', description: 'description', version: 'version', author: 'author', gameBuild: 'game_build', nexusUrl: 'nexus_url'})) {
     if (typeof data[remote] === 'string' && data[remote].trim()) result[field] = data[remote];
   }
+  if (typeof data.enable_ue4ss === 'boolean') result.ue4ssRequired = data.enable_ue4ss;
   if (!Object.keys(result).length) throw new Error('No supported metadata fields');
   return result;
 }
@@ -144,7 +143,7 @@ async function hydrateMod(mod) {
 }
 
 async function catalog() {
-  const data = await fetchJSON(siteURL('mods.json'));
+  const data = await fetchJSON(siteURL('mods/mods.json'));
   if (!Array.isArray(data.mods) || !Array.isArray(data.sections)) throw new Error('Invalid mod catalog');
   const ids = new Set();
   for (const mod of data.mods) {
@@ -194,7 +193,7 @@ function card(mod) {
   if (imageURL) {
     const image = element('img', 'mod-image');
     image.src = imageURL;
-    image.alt = mod.imageAlt || mod.name;
+    image.alt = mod.name;
     image.width = 360;
     image.height = 203;
     image.loading = 'lazy';
@@ -262,39 +261,33 @@ function details(mod) {
   document.querySelector('meta[name="description"]').content = mod.summary || mod.description || mod.name;
   const header = document.querySelector('#mod-header');
   header.replaceChildren(...pageHeader(mod.name, mod.summary || mod.description).childNodes);
-  const facts = document.querySelector('#mod-facts');
-  facts.replaceChildren();
-  for (const [label, value] of [['Version', mod.version], ['By', mod.author], ['Game build', mod.gameBuild]]) {
-    if (value) facts.append(element('span', '', `${label}: ${value}`));
-  }
-  facts.hidden = !facts.childElementCount;
-  const downloads = document.querySelector('#mod-downloads');
-  downloads.replaceChildren();
-  if (mod.downloads?.length) {
-    downloads.append(element('h2', '', 'Downloads'));
-    const list = element('ul');
-    for (const download of mod.downloads) {
-      const anchor = link(download.label || 'Download', download.url);
-      if (!anchor) continue;
-      const item = element('li');
-      item.append(anchor);
-      list.append(item);
-    }
-    downloads.append(list);
-  }
   const links = document.querySelector('#mod-links');
   links.replaceChildren();
-  const destinations = [
-    ...(mod.nexusUrl ? [{label: 'Nexus Mods', url: mod.nexusUrl}] : []),
-    {label: 'Installation guide', url: siteURL('mods/installation/')},
-    ...(mod.repository ? [{label: 'GitHub', url: mod.repository}] : [])
-  ];
-  for (const destination of destinations) {
-    const anchor = link(destination.label, destination.url);
+  for (const [label, url] of [['Nexus Mod Page', mod.nexusUrl], ['GitHub Repo', mod.repository]]) {
+    const anchor = link(label, url);
     if (!anchor) continue;
+    anchor.target = '_blank';
+    anchor.rel = 'noopener noreferrer';
     if (links.childElementCount) links.append(' · ');
     links.append(anchor);
   }
+  links.hidden = !links.childElementCount;
+  const facts = document.querySelector('#mod-facts');
+  facts.replaceChildren();
+  const date = new Date(mod.publishedAt);
+  const updated = mod.publishedAt && !Number.isNaN(date.getTime())
+    ? date.toLocaleDateString('en-CA', {timeZone: 'UTC'}) : null;
+  const ue4ss = typeof mod.ue4ssRequired === 'boolean' ? (mod.ue4ssRequired ? 'Yes' : 'No') : null;
+  const status = {released: 'Released', personal: 'Personal (not released)'}[mod.section];
+  for (const [label, value] of [['Last updated', updated], ['Version', mod.version], ['Game build', mod.gameBuild], ['UE4SS required', ue4ss], ['Status', status]]) {
+    if (value === undefined || value === null || value === '') continue;
+    const row = element('div');
+    row.append(element('strong', '', `${label}: `), String(value));
+    facts.append(row);
+  }
+  facts.hidden = !facts.childElementCount;
+  document.querySelector('#mod-paper').hidden = links.hidden && !facts.childElementCount
+    && !document.querySelector('[data-diary]:not([hidden]), [data-gallery]:not([hidden])');
 }
 
 async function showMod() {
@@ -312,6 +305,10 @@ async function showMod() {
   }
   details(mod);
   hydrateMod(mod).then(details);
+  const {loadModContent} = await import('./mods/mod-content.js');
+  await loadModContent(mod);
+  const paper = document.querySelector('#mod-paper');
+  if (paper.querySelector('[data-diary]:not([hidden]), [data-gallery]:not([hidden])')) paper.hidden = false;
   document.querySelector('#mod-paper').removeAttribute('aria-busy');
 }
 
