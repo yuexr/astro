@@ -87,14 +87,6 @@
   animation: star-sparkle .55s ease-out both;
 }
 
-.card-type-sample {
-  margin-top: 47px;
-}
-
-.card-type-sample .modcardname {
-  margin: 0;
-  line-height: 16px;
-}
 
 .mod-section + .mod-section {
   margin-top: 40px;

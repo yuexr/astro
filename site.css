@@ -149,7 +149,7 @@ main {
   padding: 26px 46px 60px calc(var(--sidebar) + 46px);
   background: linear-gradient(116deg,transparent 6%,rgba(255,255,255,.12) 17%,transparent 31%),linear-gradient(140deg,rgba(255,255,255,.26),rgba(255,255,255,.10) 48%,rgba(255,255,255,.05));
   border: 1px solid rgba(255,255,255,.3);
-  box-shadow: 8px 8px 30px rgba(51,81,126,.13);
+  box-shadow: 5px 5px 20px rgba(65, 115, 158, 0.13);
   outline: none;
 }
 

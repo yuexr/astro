@@ -129,7 +129,7 @@ function normalizeMetadata(data, source) {
   }
   if (source.format !== 'mod-metadata') throw new Error('Unknown metadata format');
   const result = {};
-  for (const [field, remote] of Object.entries({name: 'name', description: 'description', version: 'version', author: 'author', gameBuild: 'game_build', nexusUrl: 'nexus_url'})) {
+  for (const [field, remote] of Object.entries({name: 'name', version: 'version', author: 'author', gameBuild: 'game_build', nexusUrl: 'nexus_url'})) {
     if (typeof data[remote] === 'string' && data[remote].trim()) result[field] = data[remote];
   }
   if (typeof data.enable_ue4ss === 'boolean') result.ue4ssRequired = data.enable_ue4ss;
@@ -208,7 +208,7 @@ function card(mod) {
   const star = element('span', 'modcardstar', '✦');
   star.setAttribute('aria-hidden', 'true');
   title.append(star, document.createTextNode(mod.name));
-  const description = element('p', 'modcarddesc', mod.summary || mod.description || '');
+  const description = element('p', 'modcarddesc', mod.description || '');
   descriptions.set(description, description.textContent);
   node.append(artwork, title, description);
   return node;
@@ -258,9 +258,9 @@ async function showMods() {
 
 function details(mod) {
   document.title = `${mod.name} | Y.U.E.`;
-  document.querySelector('meta[name="description"]').content = mod.summary || mod.description || mod.name;
+  document.querySelector('meta[name="description"]').content = mod.description || mod.name;
   const header = document.querySelector('#mod-header');
-  header.replaceChildren(...pageHeader(mod.name, mod.summary || mod.description).childNodes);
+  header.replaceChildren(...pageHeader(mod.name, mod.description).childNodes);
   const links = document.querySelector('#mod-links');
   links.replaceChildren();
   for (const [label, url] of [['Nexus Mod Page', mod.nexusUrl], ['GitHub Repo', mod.repository]]) {
