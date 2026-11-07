@@ -1,6 +1,6 @@
 .mod-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(3,minmax(0,1fr));
   gap: 16px;
 }
 
@@ -13,13 +13,10 @@
   color: inherit;
   text-decoration: none;
   align-self: stretch;
-  transition:
-    transform 0.22s ease,
-    box-shadow 0.22s ease;
+  transition: transform .22s ease,box-shadow .22s ease;
 }
 
-.mod-card:hover,
-.mod-card:focus-visible {
+.mod-card:hover,.mod-card:focus-visible {
   background: white;
   color: inherit;
   box-shadow: 6px 9px 0 #e776ba45;
@@ -47,27 +44,25 @@
   background: var(--lightblue);
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.2s ease;
+  transition: opacity .2s ease;
 }
 
 .mod-card:hover .mod-image-wrap::after,
 .media-gallery button:hover::after,
 .media-gallery button:focus-visible::after {
-  opacity: 0.3;
+  opacity: .3;
 }
 
 .modcardname {
   text-transform: uppercase;
-  font:
-    700 17px/18px Astroneer,
-    sans-serif;
+  font: 700 17px/18px Astroneer,sans-serif;
   color: var(--blue);
   margin: 7px 0 6px;
 }
 
 .modcardstar {
   display: inline-block;
-  font-family: 'Segoe UI Symbol', sans-serif;
+  font-family: 'Segoe UI Symbol',sans-serif;
   color: var(--navy);
   font-size: 16px;
   font-weight: 400;
@@ -76,25 +71,22 @@
 }
 
 .modcarddesc {
-  font:
-    300 12px/13px Roboto,
-    sans-serif;
+  font: 300 12px/13px Roboto,sans-serif;
   color: #8d8d8d;
   max-height: 26px;
   overflow: hidden;
   margin: 0;
 }
 
-.mod-card:hover .modcardname,
-.mod-card:focus-visible .modcardname {
+.mod-card:hover .modcardname,.mod-card:focus-visible .modcardname {
   color: var(--purple);
 }
 
-.mod-card:hover .modcardstar,
-.mod-card:focus-visible .modcardstar {
+.mod-card:hover .modcardstar,.mod-card:focus-visible .modcardstar {
   color: var(--yellow);
-  animation: star-sparkle 0.55s ease-out both;
+  animation: star-sparkle .55s ease-out both;
 }
+
 
 .mod-section + .mod-section {
   margin-top: 40px;
@@ -106,9 +98,7 @@
   aspect-ratio: 240 / 135;
   background: linear-gradient(135deg, var(--lightblue), #e6dff5);
   color: var(--blue);
-  font:
-    40px 'Segoe UI Symbol',
-    sans-serif;
+  font: 40px 'Segoe UI Symbol', sans-serif;
 }
 
 .mod-diary {
@@ -136,6 +126,10 @@
   margin: 0 0 24px;
 }
 
+.mod-actions[hidden] {
+  display: none;
+}
+
 .paper .mod-button {
   display: inline-flex;
   align-items: center;
@@ -144,9 +138,7 @@
   padding: 12px 20px;
   background: var(--blue);
   color: white;
-  font:
-    700 18px/22px Astroneer,
-    sans-serif;
+  font: 700 18px/22px Astroneer,sans-serif;
   text-align: center;
   text-decoration: none;
 }
@@ -218,7 +210,7 @@
 }
 
 .media-popup::backdrop {
-  background: rgba(26, 32, 55, 0.75);
+  background: rgba(26,32,55,.75);
 }
 
 .media-popup > img {
@@ -239,27 +231,24 @@
   cursor: pointer;
 }
 
-@media (max-width: 1050px) {
+@media(max-width:1050px) {
   .mod-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(2,minmax(0,1fr));
   }
 }
 
-@media (max-width: 700px) {
+@media(max-width:700px) {
   .mod-grid {
     grid-template-columns: 1fr;
     gap: 18px;
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .mod-card:hover .modcardstar,
-  .mod-card:focus-visible .modcardstar {
+@media(prefers-reduced-motion:reduce) {
+  .mod-card:hover .modcardstar,.mod-card:focus-visible .modcardstar {
     animation: none;
   }
-  .mod-card,
-  .mod-image-wrap::after,
-  .media-gallery button::after {
+  .mod-card,.mod-image-wrap::after,.media-gallery button::after {
     transition: none;
   }
 }
