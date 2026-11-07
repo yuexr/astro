@@ -1,0 +1,1338 @@
+{
+  "notes": {
+    "ASTRO RECRUIT": "Code redemption from PAX East 2019.",
+    "P.A.L.": "Code redemption from purchasing Astroneer merchandise at PAX West 2019.",
+    "SUNRISE": "Logging into the game between 2019/06/20 and 2019/11/15.",
+    "SUNSET": "Logging into the game between 2019/06/20 and 2019/11/15.",
+    "PARTY TIME": "Code redemption from purchasing the Party City collaboration \"Astroneer Inflatable Bubble Suit Costume\", released in Halloween 2019.",
+    "SAFETY FIRST": "Code redemption from PAX West 2025.",
+    "LEGENDARY GREEN": "Code redemption from the limited edition Nintendo Switch Physical Retail Edition in 2022.",
+    "VALUABLE VIEW": "Code redemption from the limited edition Nintendo Switch Physical Retail Edition in 2022."
+  },
+  "origins": [
+    {
+      "name": "EXO SUIT",
+      "category": "suit",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "BUBBLE SUIT",
+      "category": "suit",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "FLIGHT SUIT",
+      "category": "suit",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "BIO SUIT",
+      "category": "suit",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "RETRO SUIT",
+      "category": "suit",
+      "obtainment_method": "Special collection",
+      "obtained_through": "Unlocked by playing Astroneer during Early Access."
+    },
+    {
+      "name": "EXOTIC SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Vesania Awakened."
+    },
+    {
+      "name": "GALACTIC SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: ...And Beyond."
+    },
+    {
+      "name": "TERRAN SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Sylva Awakened."
+    },
+    {
+      "name": "TUNDRA SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Glacio Awakened."
+    },
+    {
+      "name": "ARID SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Calidor Awakened."
+    },
+    {
+      "name": "RADIATED SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Atrox Awakened."
+    },
+    {
+      "name": "WANDERER SUIT",
+      "category": "suit",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: The Wanderer's Way."
+    },
+    {
+      "name": "LAB SUIT",
+      "category": "suit",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by sending the final Galastropod transmission."
+    },
+    {
+      "name": "CONDUCTOR SUIT",
+      "category": "suit",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by confirming the final Logistics Depot shipment."
+    },
+    {
+      "name": "HARD SUIT",
+      "category": "suit",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "CAGE SUIT",
+      "category": "suit",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "CHRONOS SUIT",
+      "category": "suit",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by helping an old friend fulfill their purpose."
+    },
+    {
+      "name": "HACKER SUIT",
+      "category": "suit",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+    },
+    {
+      "name": "EXPEDITION SUIT",
+      "category": "suit",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating STARSEEKER."
+    },
+    {
+      "name": "CONTROL SUIT",
+      "category": "suit",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Available by default to PS4 players."
+    },
+    {
+      "name": "SPLIT SUIT",
+      "category": "suit",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Available by default to Nintendo Switch players."
+    },
+    {
+      "name": "EXO STANDARD",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO TEAL",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO GREEN",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO YELLOW",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO ORANGE",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO RED",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO FUCHSIA",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "EXO GREY",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "HEAVY ORANGE",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "PEACH OASIS",
+      "category": "palette",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "SPOOKY",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by playing Astroneer during Halloween 2019."
+    },
+    {
+      "name": "PARTY TIME",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "ASTRO RECRUIT",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "SUNRISE",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics."
+    },
+    {
+      "name": "SUNSET",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics."
+    },
+    {
+      "name": "P.A.L.",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "FROSTY",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "VINTAGE RED",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+    },
+    {
+      "name": "SALVAGE CHIC",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "NOIR",
+      "category": "palette",
+      "obtainment_method": "Unknown",
+      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    },
+    {
+      "name": "TOXIC DINO",
+      "category": "palette",
+      "obtainment_method": "Unknown",
+      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    },
+    {
+      "name": "MUTED DARKNESS",
+      "category": "palette",
+      "obtainment_method": "Unknown",
+      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    },
+    {
+      "name": "VERO VIOLET",
+      "category": "palette",
+      "obtainment_method": "Unknown",
+      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    },
+    {
+      "name": "GALACTIC",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: ...And Beyond."
+    },
+    {
+      "name": "OVERACHIEVER",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: EXO Dynamics Solar System Mastery."
+    },
+    {
+      "name": "CALIDOR",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Calidor Awakened."
+    },
+    {
+      "name": "DESOLO",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Desolo Awakened."
+    },
+    {
+      "name": "VESANIA",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Vesania Awakened."
+    },
+    {
+      "name": "NOVUS",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Novus Awakened."
+    },
+    {
+      "name": "ATROX",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Atrox Awakened."
+    },
+    {
+      "name": "GLACIO",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Glacio Awakened."
+    },
+    {
+      "name": "SYLVA",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Sylva Awakened."
+    },
+    {
+      "name": "WANDERER BLUE",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER TEAL",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER GREEN",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER YELLOW",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER ORANGE",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER RED",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER FUCHSIA",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    },
+    {
+      "name": "WANDERER GREY",
+      "category": "palette",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: The Wanderer's Way."
+    },
+    {
+      "name": "TINSEL TOWN",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "GOING GREEN",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "COPPER PLATE",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "POP CULTURE",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "POWER SUITED",
+      "category": "palette",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Unlocked by claiming as an Early Purchase Bonus for Nintendo Switch."
+    },
+    {
+      "name": "LEGENDARY GREEN",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "ON F-L33K",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "SAFETY ORANGE",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "DOT COM",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "CARBONATED",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "JEWEL",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "ROCKSTAR",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "CONTOUR",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+    },
+    {
+      "name": "OLD GOLD",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by completing the game in SES hardcore configuration."
+    },
+    {
+      "name": "EXTRA LIFE",
+      "category": "palette",
+      "obtainment_method": "Special collection",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "LIMINAL LEAK",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "ECONEER",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "THATCH 2.0",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "SCRAP WRAP",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "EXTRA LIFE MK II",
+      "category": "palette",
+      "obtainment_method": "Special collection",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "CODED COUTURE",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+    },
+    {
+      "name": "SAFETY FIRST",
+      "category": "palette",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a special item code."
+    },
+    {
+      "name": "RADIOACTION",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "DIAMOND IN THE BUFF",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "BAD APPLE",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "JOLLY GOOD",
+      "category": "palette",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "COSMOPOLITAN",
+      "category": "palette",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by Printing the Orbital Platform."
+    },
+    {
+      "name": "MIRROR GOLD",
+      "category": "visor",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "MIRROR SILVER",
+      "category": "visor",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "SUNRISE",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics."
+    },
+    {
+      "name": "SUNSET",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by playing Astroneer during Summer 2019."
+    },
+    {
+      "name": "DESOLO",
+      "category": "visor",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Desolo Awakened."
+    },
+    {
+      "name": "NOVUS",
+      "category": "visor",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Novus Awakened."
+    },
+    {
+      "name": "GALACTIC",
+      "category": "visor",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: ...And Beyond."
+    },
+    {
+      "name": "SPOOKY",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by playing Astroneer during Halloween 2019."
+    },
+    {
+      "name": "ORBITAL BLUE",
+      "category": "visor",
+      "obtainment_method": "Special collection",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "P.A.L.",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "VINTAGE EMBLEM",
+      "category": "visor",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+    },
+    {
+      "name": "PUMPKIN",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by harvesting and planting a certain kind of Spookyseed."
+    },
+    {
+      "name": "FROSTY",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "METAL GEAR",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "ENDLESS",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "BAUBLEHEAD",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "LORD ZEBRA",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "LORD LEO",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "LORD CHECKERS",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "NOSEGRIND",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "BNTY-HNTR",
+      "category": "visor",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Unlocked by claiming as an Early Purchase Bonus for Nintendo Switch."
+    },
+    {
+      "name": "VALUABLE VIEW",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "MINONION",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "LORD DRAGON",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "LORD HYPNO",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "POLLEN COUNT",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "ZINE",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+    },
+    {
+      "name": "EXTRA LIFE",
+      "category": "visor",
+      "obtainment_method": "Special collection",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "BAUBLEGUM",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "ENVISION",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "EXTRA LIFE MK II",
+      "category": "visor",
+      "obtainment_method": "Special collection",
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+    },
+    {
+      "name": "ETERNAL REVIEW",
+      "category": "visor",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+    },
+    {
+      "name": "GLITCH NEXUS",
+      "category": "visor",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a special item code."
+    },
+    {
+      "name": "ION-EYEZ",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "SPARKLE SIGHT",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "PICK YOUR POISON",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "COSMOSIS",
+      "category": "visor",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "Tableau",
+      "category": "visor",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by Printing the Museum."
+    },
+    {
+      "name": "NEXUS",
+      "category": "visor",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Available by default to Xbox One players."
+    },
+    {
+      "name": "ORBIS",
+      "category": "visor",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Available by default to PS4 players."
+    },
+    {
+      "name": "SPLIT",
+      "category": "visor",
+      "obtainment_method": "Platform-specific",
+      "obtained_through": "Available by default to Nintendo Switch players."
+    },
+    {
+      "name": "NONE",
+      "category": "hat",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "HOLIDAY TOP HAT",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving the EXO Dynamics community delivery goal."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK I",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's first anniversary."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK II",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's second anniversary."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK III",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's third anniversary."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK IV",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's fourth anniversary."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK V",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's fifth anniversary."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK VI",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's sixth anniversary."
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK VII",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by celebrating Astroneer's seventh anniversary."
+    },
+    {
+      "name": "4ML A-TYRE",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "GEARHEAD",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "HALLOWED HELM",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "FESTIVE CHAPBOW",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving the EXO Dynamics community delivery goal."
+    },
+    {
+      "name": "WIRED",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "REMIX",
+      "category": "hat",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "HONEST LIVING",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "THE FEZHANT",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "BOREAL BEANIE",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "SECRET STALK",
+      "category": "hat",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming a physical item code."
+    },
+    {
+      "name": "CO-N3",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "GALASTRO CAP",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "BRAIN BUDDY",
+      "category": "hat",
+      "obtainment_method": "Code redemption",
+      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+    },
+    {
+      "name": "LITTLE PRINCE",
+      "category": "hat",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by helping an old friend fulfill their purpose."
+    },
+    {
+      "name": "FIRST IMPACT",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "SEASONAL ALLURE",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "EXPLOSIVE PERSONALITY",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "CAPTAIN'S C01-F",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "COG-NITION",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "HORN OF PLENTY",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "LAB LEAK",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "STEM THE TIDE",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "LIGHT HEADED",
+      "category": "hat",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "Construction 2",
+      "category": "hat",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by Printing a second Megastructure."
+    },
+    {
+      "name": "Sunflower",
+      "category": "hat",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by Printing a Biodome."
+    },
+    {
+      "name": "NONE",
+      "category": "mask",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "FROSTY",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "FORGE AHEAD",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "TURRET-A-PORTER",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "VR VISION",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "COGPIECE",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "PUDDING WARMER",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "V TECH",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "RESPIR-8",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "SUR+",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "MULTI-FACETED",
+      "category": "mask",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "Wires",
+      "category": "mask",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by completing the Interplanetary Megastructure Initiative Training Module!."
+    },
+    {
+      "name": "JUMP FOR JOY",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "WAVE",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "BECKON",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "CONFUSED",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "YES",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "NO",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "DANCE: LITTLE KICKS",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Galactic Boogaloo."
+    },
+    {
+      "name": "DANCE: BANKS SWAY",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Sylva Awakened."
+    },
+    {
+      "name": "DANCE: POULTRY POLKA",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "DANCE: CRISP PRINCESS",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Atrox Awakened."
+    },
+    {
+      "name": "DANCE: UNTOUCHABLE",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "DANCE: BREAKIN'",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Vesania Awakened."
+    },
+    {
+      "name": "DANCE: ASTRO STYLE",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Novus Awakened."
+    },
+    {
+      "name": "DANCE: LONE MISSUS",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Calidor Awakened."
+    },
+    {
+      "name": "DANCE: MASH IT UP",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Desolo Awakened."
+    },
+    {
+      "name": "DANCE: LUNAR SLIDE",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "DANCE: DANCE NOBILITY",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: Glacio Awakened."
+    },
+    {
+      "name": "DANCE: RUNNING TIME",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "DANCE: TWIST IT UP",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: ...And Beyond."
+    },
+    {
+      "name": "DANCE: SHAKEFIELD",
+      "category": "emote",
+      "obtainment_method": "Available to all",
+      "obtained_through": "Available by default."
+    },
+    {
+      "name": "TAKE A PICTURE",
+      "category": "emote",
+      "obtainment_method": "Achievement",
+      "obtained_through": "Achievement: The Wanderer's Way."
+    },
+    {
+      "name": "DANCE: GIDDYUP",
+      "category": "emote",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "STOP SIGN",
+      "category": "emote",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "THINKING",
+      "category": "emote",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "TRAIN WHISTLE",
+      "category": "emote",
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by confirming the final Logistics Depot shipment."
+    },
+    {
+      "name": "LEAF LEAP",
+      "category": "emote",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "SHIVER",
+      "category": "emote",
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtainment_details": "Exact event/date not specified."
+    },
+    {
+      "name": "DIZZY",
+      "category": "emote",
+      "obtainment_method": "Unknown",
+      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    },
+    {
+      "name": "EVO SUIT",
+      "category": "suit",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in ASTRONEER: Evolution Bundle."
+    },
+    {
+      "name": "MAL-WEAR",
+      "category": "palette",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
+    },
+    {
+      "name": "Megatech",
+      "category": "palette",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+    },
+    {
+      "name": "CIPHER SIGHT",
+      "category": "visor",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
+    },
+    {
+      "name": "Megatech",
+      "category": "visor",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+    },
+    {
+      "name": "HOLO-UMET",
+      "category": "mask",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
+    },
+    {
+      "name": "Megatech",
+      "category": "mask",
+      "obtainment_method": "DLC",
+      "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+    }
+  ]
+}

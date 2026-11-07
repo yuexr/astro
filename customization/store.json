@@ -1,0 +1,6541 @@
+{
+  "items": [
+    {
+      "name": "TOUGH SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "SWIFT SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "COMMANDER SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "SCOUT SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "FRAME SUIT",
+      "category": "suit",
+      "base_cost": 1400,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "FRONTIER SUIT",
+      "category": "suit",
+      "base_cost": 750,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "VINTAGE SUIT",
+      "category": "suit",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "AutomatonBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "OUTPOST SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "HYPER SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "AQUATIC SUIT",
+      "category": "suit",
+      "base_cost": 750,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "OLD SCHOOL SUIT",
+      "category": "suit",
+      "base_cost": 750,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "MINI MECH SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "CONDUCTOR SUIT",
+      "category": "suit",
+      "base_cost": 1000,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit",
+        "missions",
+        "client_grantable"
+      ]
+    },
+    {
+      "name": "CADET SUIT",
+      "category": "suit",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "ATHLEISURE SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "GALASTRO SUIT",
+      "category": "suit",
+      "base_cost": 1100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "suit"
+      ]
+    },
+    {
+      "name": "COOLANT",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "HAZMATTE",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "QP MIDNIGHT",
+      "category": "palette",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ],
+      "base_cost": 150,
+      "cost_basis": "item",
+      "bundle_only": false
+    },
+    {
+      "name": "AVALANCHE",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "RETRO FIT",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "AUBERGINE SHEEN",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SHORTCAKE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "BEACH READY",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "HOT SPOT",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "TWILLION",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "BRIGHT NITE",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CYBER STATE",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ROYAL FLUSH",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "EARTHENWARE",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "FlowerBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "NIGHT STALKER",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "DAY PROWLER",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "TEAL APPEAL",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SAFETY YELLOW",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "TOMB WORTHY",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "PATCHWORK",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "COBWEB",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CANDY CORN",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "INCANTATION",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SANGUINE",
+      "category": "palette",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "AutomatonBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "AUTUMNAL",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "GRUNGE",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "HIBERNATE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "FLANNEL",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SPOOKY",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ASTRO RECRUIT",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SUNRISE",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette",
+        "summer_2019"
+      ]
+    },
+    {
+      "name": "SUNSET",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette",
+        "summer_2019"
+      ]
+    },
+    {
+      "name": "P.A.L.",
+      "category": "palette",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "PALBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "client_grantable",
+        "palette"
+      ]
+    },
+    {
+      "name": "FROSTY",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SALVAGE CHIC",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "TOASTY",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "KITTEN CAMO",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SO EXOTIC",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "TINSEL TOWN",
+      "category": "palette",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SUGAR COATED",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CANDY CANE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "GLOW UP",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ARCADIA",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "EVENING ATTIRE",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "GLITTERATI",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "UNIT-01",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "UNIT-02",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SCALES",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "GOING GREEN",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "BOLTED",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "GREEN SCHEME",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "FUNGAL EMISSION",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SLICK",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CARBON FIBER",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SCARAB",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ON GRID",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "COPPER PLATE",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "EXO STRIPES",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "STREET WEAR",
+      "category": "palette",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA BLUE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA PINK",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA GREEN",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA GREY",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA ORANGE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA RED",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA TEAL",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMA YELLOW",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CUTIE PINK",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CUTIE BLUE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "DENIM DUDS",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ABYSS",
+      "category": "palette",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "AnglerBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SCARECROW",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "OFF GRID",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "EXO-426",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette",
+        "ne"
+      ]
+    },
+    {
+      "name": "GRID LOCK",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ECLIPSE",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "GALACTIC GLAM",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHILL OUT",
+      "category": "palette",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "IceBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "PECULIAR PAL",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "DESERT DWELLER",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "COSMIC COMPANION",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "FROSTED FAMILIAR",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "MYSTIC MOON",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "FOREST FRIEND",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ROYAL REGALIA",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailPaletteBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "LEGENDARY GREEN",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "ON F-L33K",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SAFETY ORANGE",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette",
+        "LTE"
+      ]
+    },
+    {
+      "name": "DOT COM",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette",
+        "LTE"
+      ]
+    },
+    {
+      "name": "RETROGRADE",
+      "category": "palette",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "PEARLESCENT",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "RIVETING",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "DAYDREAM",
+      "category": "palette",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SPACE MAGIC",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "Space Wizard Bundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CARBONATED",
+      "category": "palette",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CONTOUR",
+      "category": "palette",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "DODGED A BULLET",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "Digital Dimension Bundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "BEE'S KNEES",
+      "category": "palette",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMATIC BLACK",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMATIC GREEN",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "Dragon's Hoard Bundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "CHROMATIC WHITE",
+      "category": "palette",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "H@ZARD!",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "GL!TCHPUNKBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "EXTRA LIFE MK II",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "Extra Life 2 Bundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "KNITLY FIBER",
+      "category": "palette",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "MOREL CODE",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "ToadstoolBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "FEY OUT LOUD",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "DryadBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "BOSSFERATU",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "VampireBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "COLD SHOULDER",
+      "category": "palette",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "IceKnightBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "palette"
+      ]
+    },
+    {
+      "name": "SUNRISE",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor",
+        "summer_2019"
+      ]
+    },
+    {
+      "name": "SUNSET",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor",
+        "summer_2019"
+      ]
+    },
+    {
+      "name": "SPOOKY",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "FACE TIME",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ORBITAL BLUE",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "P.A.L.",
+      "category": "visor",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "PALBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "PUMPKIN",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "FROSTY",
+      "category": "visor",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO BLUE",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO GREEN",
+      "category": "visor",
+      "base_cost": 50,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO GREY",
+      "category": "visor",
+      "base_cost": 50,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO ORANGE",
+      "category": "visor",
+      "base_cost": 50,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO FUCHSIA",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO RED",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO TEAL",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO YELLOW",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SYSTEM ERROR",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SIGNAL LOST",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EMERGENCY BROADCAST",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "AU-SOME",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "DYNAMIC VISION",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SYSTEM ERA SUPPORTER",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ESCAPE VELOCITY",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "METAL GEAR",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "PARTY ANIMAL",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SPOTTED VISION",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "OFFSIDER",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "TOUCHDOWN",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "HOMERUN",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "FREETHROW",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "RACKET",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ENDLESS",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "CRYSTAL BALL",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "REBOOT",
+      "category": "visor",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "AutomatonBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BAUBLEHEAD",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SWEET OUTLOOK",
+      "category": "visor",
+      "base_cost": 900,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "GingerbreadBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "MINTED",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BLACKOUT",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "DISCO FEVER",
+      "category": "visor",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ],
+      "base_cost": 250,
+      "cost_basis": "item",
+      "bundle_only": false
+    },
+    {
+      "name": "FOMALHAUT",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "PLASMA",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "Q-T",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "LUCKY LOOK",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SHELTER",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "HIGH OCTANE",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "DAMAGE REPORT",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "CARAPACE",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ASEXUAL",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BISEXUAL",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "LESBIAN",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "NONBINARY",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "PANSEXUAL",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "TRANSGENDER",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "LGBTQIA+",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ALLY",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "PROGRESS",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO VI-ZN",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXO WRAP",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "HUNTER",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "DELTA WAVE",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "DARK STAR",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BIOHAZARD",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ERROR CODE",
+      "category": "visor",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SNOWGLOBE",
+      "category": "visor",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "IceBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BNTY-HNTR",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "VALUABLE VIEW",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "MINONION",
+      "category": "visor",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "LORD DRAGON",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "LORD HYPNO",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "CLOUDY",
+      "category": "visor",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "POLLEN COUNT",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "ZINE",
+      "category": "visor",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXTRA LIFE",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BINARY VISION",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "HONEYDEW",
+      "category": "visor",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "Bumble Bundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "EXTRA LIFE MK II",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "YARN WINDER",
+      "category": "visor",
+      "base_cost": 150,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "SPORE VISION",
+      "category": "visor",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "ToadstoolBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "VERDANT VISION",
+      "category": "visor",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "DryadBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "BLOODSHOT",
+      "category": "visor",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "VampireBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "visor"
+      ]
+    },
+    {
+      "name": "HOLIDAY TOP HAT",
+      "category": "hat",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ANNIVERSARY ITEM MK V",
+      "category": "hat",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ANT-10A",
+      "category": "hat",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "BESPOKE BUCKET",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "OUTFIELDER",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "PURRFECTION",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "CLUCKINATOR 500",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "UNDER CONSTRUCTION",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "DEEP SPACE DESPERADO",
+      "category": "hat",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "WesternBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "TEN-GALLON TECH",
+      "category": "hat",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "WesternBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "GOLDEN OPPORTUNITY",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "SEASONAL HELPER",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "DEFENSIVE MEASURE",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ROBO RUDDER",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ROCK-IT SHIPPER",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "LAUGH TRACK",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "STEERING STABILIZER",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ALPHA CENTURION",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "STUNT TEAM",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "RAM ROD",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FASTER BLASTER",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HYDRATION DEFLECTOR",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "4ML A-TYRE",
+      "category": "hat",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "BROADCAST BEACONS",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ARM-80",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "GRAD-U-8",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "AVANT GARDENER",
+      "category": "hat",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "FlowerBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "GEARHEAD",
+      "category": "hat",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HAIL TO THE LEAF",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ECHO LOCATORS",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HALLOWED HELM",
+      "category": "hat",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HOCUS POCUS",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "AFR-0",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FESTIVE CHAPBOW",
+      "category": "hat",
+      "base_cost": 250,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat",
+        "sale"
+      ]
+    },
+    {
+      "name": "CANDY CROWN",
+      "category": "hat",
+      "base_cost": 900,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "GingerbreadBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ORBITAL HEADLAMP",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "MOON RABBIT",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FINAL FORM",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "LUNAR LAMP",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "WIRED",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "G2T-CHOPPER",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "PRIME TIME",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "TAILWIND",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "MUTATION",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "LONG HAUL",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HEAD LIGHTS",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "CRUISE CONTROL",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "EXHAUSTED",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ASTRODOME",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "REMIX",
+      "category": "hat",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "HeadphoneLofiBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HONEST LIVING",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ELEMENTARY",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "GUIDING LITE",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "EMERGENCY LAMP",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FASCINATING",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "JACKED IN",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "THE FEZHANT",
+      "category": "hat",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "CONTROL UNIT",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ENCRYPTID CREEPERS",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "STRANGE SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "SPICY SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "LUNAR SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "CHILLY SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "SWEET SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FRIENDLY SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FANCY SHELL",
+      "category": "hat",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "WINTER COURTIER",
+      "category": "hat",
+      "base_cost": 1500,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "IceBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "EXTRA EYE",
+      "category": "hat",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "BOREAL BEANIE",
+      "category": "hat",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "SnailFarmerBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat",
+        "LTE"
+      ]
+    },
+    {
+      "name": "SECRET STALK",
+      "category": "hat",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "CO-N3",
+      "category": "hat",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat",
+        "LTE"
+      ]
+    },
+    {
+      "name": "GALASTRO CAP",
+      "category": "hat",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "EXHAUST PORT",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "QUICK THINKING",
+      "category": "hat",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "BRAIN BUDDY",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "SEASONAL ALLURE",
+      "category": "hat",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ASTROLABE",
+      "category": "hat",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FEELERS",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "LOOKING SHARP",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "HAKR HAWK",
+      "category": "hat",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "AMANITA MINUTE",
+      "category": "hat",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "ToadstoolBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "BUCK UP",
+      "category": "hat",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "DryadBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "NIGHT COWL",
+      "category": "hat",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "VampireBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "ICEBREAKER",
+      "category": "hat",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "IceKnightBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "hat"
+      ]
+    },
+    {
+      "name": "FROSTY",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "NO-SCOP3",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SPORT PORT",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "PURRFESSOR",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "THE BEAKER",
+      "category": "mask",
+      "base_cost": 100,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "QUACKERS",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "MOUTH BREATHER",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "RAY GONNS",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SECRET STASHE",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SHADOW SCIENCE",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "NOT-A-TUBA",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "FORGE AHEAD",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "OVR-9000",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SUN OUT / FUN OUT",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "10,000 BC",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "WILD HUNT",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "MICRO MANAGER",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SAFETY PROTOCOL",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "TURRET-A-PORTER",
+      "category": "mask",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "ESCAPE PATCH",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "CORRECTIVE VISION",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SOLAR POWER",
+      "category": "mask",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "FlowerBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "VR VISION",
+      "category": "mask",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "WILD CHILD",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "BUGGED OUT",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SPACE COWBOY",
+      "category": "mask",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "WesternBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "CREEPY CROW",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "FACE CUDDLER",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "PERSONAL GROWTH",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SNOWDRIFTERS",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "FESTIVE FRINGE",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "R.S.V.P",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "APERTURE",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "GUARDIAN",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "FANDOM",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "DANGER ZONE",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "DUAL MONITOR",
+      "category": "mask",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "CONTAINMENT BREACH",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "HORNED",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SPIKED",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "RECRUIT",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "COGPIECE",
+      "category": "mask",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "CLOSER LOOK",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "WHEAT TWEAT",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "GRAZERS",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "QUID PRO QUO",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "3X3 EYE",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "SAFETY NET",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "FRIENDLY FACE",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "LANDING LIGHT",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "PUDDING WARMER",
+      "category": "mask",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask",
+        "LTE"
+      ]
+    },
+    {
+      "name": "COW PLOW",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "MECHA SNAIL",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "HEAVEN-SCENT",
+      "category": "mask",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "THE ONE",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "FIREBREATHER",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "X-OUT",
+      "category": "mask",
+      "base_cost": 200,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "CUTE-AS-A",
+      "category": "mask",
+      "base_cost": 350,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "BRAVE FACE",
+      "category": "mask",
+      "base_cost": 1100,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "IceKnightBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "mask"
+      ]
+    },
+    {
+      "name": "CHEST BUMP",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "ROCK/PAPER/SCISSORS",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "FACE PALM",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "DANCE: FIST PUMP",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "FORWARD FLIP",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "SELFIE",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "DANCE: RAG DOLL",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "dance",
+        "emote"
+      ]
+    },
+    {
+      "name": "DANCE: ROBOT",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "dance",
+        "emote"
+      ]
+    },
+    {
+      "name": "TA-DA!",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "gesture"
+      ]
+    },
+    {
+      "name": "KITTY CLEANING",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "POSE OF POWER",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "DAB",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "FINGER GUNS",
+      "category": "emote",
+      "base_cost": 750,
+      "cost_basis": "bundle_total",
+      "included_in_bundle": true,
+      "sold_in_bundle": true,
+      "bundle_only": true,
+      "priced_bundle": "WesternBundle",
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "JUMPING JACKS",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "JUMP SHOT",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "TOUCHDOWN",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "RED CARD",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "JUMP SCARE",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "DANCE: AIR BASS",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "dance"
+      ]
+    },
+    {
+      "name": "DANCE: AIR DRUMS",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "dance"
+      ]
+    },
+    {
+      "name": "DANCE: AIR GUITAR",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "dance"
+      ]
+    },
+    {
+      "name": "DANCE: AIR UKULELE",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "dance"
+      ]
+    },
+    {
+      "name": "HIGH FIVE",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "PEEKA-BOO!",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "APPLAUSE",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "MIND BLOWN",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "GIDDY CLAPPING",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "MAKE SOME NOISE!",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "POWER UP",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "LUNAR SALUTE",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "SENTAI",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "FLAG WAVE",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "KAIJU KICK",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "CHEST THUMP",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "HEART",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "SILLY SALUTE",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "GUN SHOW",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "IMAGINATE!",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "FISH",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "DANCE: CHILD SHOW",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "dance"
+      ]
+    },
+    {
+      "name": "BROOM SWEEP",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "DANCE: GIDDYUP",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "dance"
+      ]
+    },
+    {
+      "name": "RIGHT IN THE FEELS",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "GREET THE DAWN",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "THANKS",
+      "category": "emote",
+      "base_cost": 0,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "LAUGH AND CRY",
+      "category": "emote",
+      "base_cost": 500,
+      "cost_basis": "item",
+      "included_in_bundle": false,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "STOP SIGN",
+      "category": "emote",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote",
+        "LTE"
+      ]
+    },
+    {
+      "name": "THINKING",
+      "category": "emote",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "LEAF LEAP",
+      "category": "emote",
+      "base_cost": 300,
+      "cost_basis": "item",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "bundle_only": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    },
+    {
+      "name": "SHIVER",
+      "category": "emote",
+      "included_in_bundle": true,
+      "sold_in_bundle": false,
+      "tags": [
+        "character_customization",
+        "unlockable",
+        "emote"
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "id": "RobotBundle",
+      "name": "ROBOT BUNDLE",
+      "base_cost": 2150,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "FRAME SUIT",
+          "category": "suit"
+        },
+        {
+          "name": "FACE TIME",
+          "category": "visor"
+        },
+        {
+          "name": "DANCE: ROBOT",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "AutomatonBundle",
+      "name": "AUTOMATON BUNDLE",
+      "base_cost": 1500,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "VINTAGE SUIT",
+          "category": "suit"
+        },
+        {
+          "name": "SANGUINE",
+          "category": "palette"
+        },
+        {
+          "name": "REBOOT",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "starter-bundle",
+      "name": "Starter Bundle",
+      "payment": "real_money",
+      "included_items": [
+        {
+          "name": "CADET SUIT",
+          "category": "suit"
+        },
+        {
+          "name": "RETROGRADE",
+          "category": "palette"
+        }
+      ]
+    },
+    {
+      "id": "FlowerBundle",
+      "name": "FLOWER POWER",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "EARTHENWARE",
+          "category": "palette"
+        },
+        {
+          "name": "AVANT GARDENER",
+          "category": "hat"
+        },
+        {
+          "name": "SOLAR POWER",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "Wizard Bundle",
+      "name": "ASTROMANCY BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "INCANTATION",
+          "category": "palette"
+        },
+        {
+          "name": "CRYSTAL BALL",
+          "category": "visor"
+        },
+        {
+          "name": "HOCUS POCUS",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTEFall2021Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "SPOOKY",
+          "category": "palette"
+        },
+        {
+          "name": "SPOOKY",
+          "category": "visor"
+        },
+        {
+          "name": "PUMPKIN",
+          "category": "visor"
+        },
+        {
+          "name": "ENDLESS",
+          "category": "visor"
+        },
+        {
+          "name": "HALLOWED HELM",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "AstroRecruitBundle",
+      "name": "RECRUIT BUNDLE",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "ASTRO RECRUIT",
+          "category": "palette"
+        },
+        {
+          "name": "ORBITAL BLUE",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "SummerBundle",
+      "name": "SUMMER SUN BUNDLE",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "SUNRISE",
+          "category": "palette"
+        },
+        {
+          "name": "SUNSET",
+          "category": "palette"
+        },
+        {
+          "name": "SUNRISE",
+          "category": "visor"
+        },
+        {
+          "name": "SUNSET",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "PALBundle",
+      "name": "P.A.L. BUNDLE",
+      "base_cost": 750,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "P.A.L.",
+          "category": "palette"
+        },
+        {
+          "name": "P.A.L.",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "SalvageBundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "SALVAGE CHIC",
+          "category": "palette"
+        },
+        {
+          "name": "4ML A-TYRE",
+          "category": "hat"
+        },
+        {
+          "name": "TURRET-A-PORTER",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "LTEHoliday2021Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "TINSEL TOWN",
+          "category": "palette"
+        },
+        {
+          "name": "BAUBLEHEAD",
+          "category": "visor"
+        },
+        {
+          "name": "FESTIVE CHAPBOW",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "GingerbreadBundle",
+      "name": "GINGERBREAD BUNDLE",
+      "base_cost": 900,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "SUGAR COATED",
+          "category": "palette"
+        },
+        {
+          "name": "SWEET OUTLOOK",
+          "category": "visor"
+        },
+        {
+          "name": "CANDY CROWN",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LunarBundle",
+      "name": "LUNAR NEW YEAR BUNDLE",
+      "base_cost": 750,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "SCALES",
+          "category": "palette"
+        },
+        {
+          "name": "LUCKY LOOK",
+          "category": "visor"
+        },
+        {
+          "name": "LUNAR LAMP",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTESpring2022Bundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "GOING GREEN",
+          "category": "palette"
+        },
+        {
+          "name": "WIRED",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTEAutomation2022Bundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "COPPER PLATE",
+          "category": "palette"
+        },
+        {
+          "name": "COGPIECE",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "ChromaBundle",
+      "name": "HEAVY METAL BUNDLE",
+      "base_cost": 1500,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "CHROMA BLUE",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA PINK",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA GREEN",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA GREY",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA ORANGE",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA RED",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA TEAL",
+          "category": "palette"
+        },
+        {
+          "name": "CHROMA YELLOW",
+          "category": "palette"
+        }
+      ]
+    },
+    {
+      "id": "AnglerBundle",
+      "name": "DEEP SPACE DIVER BUNDLE",
+      "base_cost": 1500,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "ABYSS",
+          "category": "palette"
+        },
+        {
+          "name": "GUIDING LITE",
+          "category": "hat"
+        },
+        {
+          "name": "3X3 EYE",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "EXOTechBundle",
+      "name": "EXO TECH BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "GRID LOCK",
+          "category": "palette"
+        },
+        {
+          "name": "ERROR CODE",
+          "category": "visor"
+        },
+        {
+          "name": "CONTROL UNIT",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "IceBundle",
+      "name": "ARCTIC BUNDLE",
+      "base_cost": 1500,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "CHILL OUT",
+          "category": "palette"
+        },
+        {
+          "name": "SNOWGLOBE",
+          "category": "visor"
+        },
+        {
+          "name": "WINTER COURTIER",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "SnailPaletteBundle",
+      "name": "SNAIL PALETTE BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "PECULIAR PAL",
+          "category": "palette"
+        },
+        {
+          "name": "DESERT DWELLER",
+          "category": "palette"
+        },
+        {
+          "name": "COSMIC COMPANION",
+          "category": "palette"
+        },
+        {
+          "name": "FROSTED FAMILIAR",
+          "category": "palette"
+        },
+        {
+          "name": "MYSTIC MOON",
+          "category": "palette"
+        },
+        {
+          "name": "FOREST FRIEND",
+          "category": "palette"
+        },
+        {
+          "name": "ROYAL REGALIA",
+          "category": "palette"
+        }
+      ]
+    },
+    {
+      "id": "TunicBundle",
+      "name": "TUNIC BUNDLE",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "LEGENDARY GREEN",
+          "category": "palette"
+        },
+        {
+          "name": "VALUABLE VIEW",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "LeekBundle",
+      "name": "SECRET LEEKS",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "ON F-L33K",
+          "category": "palette"
+        },
+        {
+          "name": "MINONION",
+          "category": "visor"
+        },
+        {
+          "name": "SECRET STALK",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTESpring2023Bundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "SAFETY ORANGE",
+          "category": "palette"
+        },
+        {
+          "name": "CO-N3",
+          "category": "hat"
+        },
+        {
+          "name": "STOP SIGN",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "LTEAutomation2023Bundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "DOT COM",
+          "category": "palette"
+        },
+        {
+          "name": "FORGE AHEAD",
+          "category": "mask"
+        },
+        {
+          "name": "THINKING",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "Space Wizard Bundle",
+      "name": "TYCHOMANCY BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "SPACE MAGIC",
+          "category": "palette"
+        },
+        {
+          "name": "ASTROLABE",
+          "category": "hat"
+        },
+        {
+          "name": "HEAVEN-SCENT",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "LTEHoliday2023Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "CARBONATED",
+          "category": "palette"
+        },
+        {
+          "name": "SEASONAL ALLURE",
+          "category": "hat"
+        },
+        {
+          "name": "SHIVER",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "GraphicHalftoneBundle",
+      "name": "OFF-PANEL BUNDLE",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "CONTOUR",
+          "category": "palette"
+        },
+        {
+          "name": "ZINE",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "Digital Dimension Bundle",
+      "name": "DIGITAL DIMENSION BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "DODGED A BULLET",
+          "category": "palette"
+        },
+        {
+          "name": "BINARY VISION",
+          "category": "visor"
+        },
+        {
+          "name": "THE ONE",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "Bumble Bundle",
+      "name": "BUMBLE BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "BEE'S KNEES",
+          "category": "palette"
+        },
+        {
+          "name": "HONEYDEW",
+          "category": "visor"
+        },
+        {
+          "name": "FEELERS",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "Dragon's Hoard Bundle",
+      "name": "DRAGON'S HOARD",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "CHROMATIC GREEN",
+          "category": "palette"
+        },
+        {
+          "name": "LOOKING SHARP",
+          "category": "hat"
+        },
+        {
+          "name": "FIREBREATHER",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "GL!TCHPUNKBundle",
+      "name": "GL!TCHPUNK",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "H@ZARD!",
+          "category": "palette"
+        },
+        {
+          "name": "HAKR HAWK",
+          "category": "hat"
+        },
+        {
+          "name": "X-OUT",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "Extra Life 2 Bundle",
+      "name": "EXTRA LIFE MK II BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "EXTRA LIFE MK II",
+          "category": "palette"
+        },
+        {
+          "name": "EXTRA LIFE MK II",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "Knitted Bundle",
+      "name": "COZY TIME BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "KNITLY FIBER",
+          "category": "palette"
+        },
+        {
+          "name": "YARN WINDER",
+          "category": "visor"
+        },
+        {
+          "name": "CUTE-AS-A",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "ToadstoolBundle",
+      "name": "FUNGUY BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "MOREL CODE",
+          "category": "palette"
+        },
+        {
+          "name": "SPORE VISION",
+          "category": "visor"
+        },
+        {
+          "name": "AMANITA MINUTE",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "DryadBundle",
+      "name": "SOLSTICE BUNDLE",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "FEY OUT LOUD",
+          "category": "palette"
+        },
+        {
+          "name": "VERDANT VISION",
+          "category": "visor"
+        },
+        {
+          "name": "BUCK UP",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "VampireBundle",
+      "name": "D-SANGUINE-8",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "BOSSFERATU",
+          "category": "palette"
+        },
+        {
+          "name": "BLOODSHOT",
+          "category": "visor"
+        },
+        {
+          "name": "NIGHT COWL",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "IceKnightBundle",
+      "name": "ALL-KNIGHTER",
+      "base_cost": 1100,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "COLD SHOULDER",
+          "category": "palette"
+        },
+        {
+          "name": "ICEBREAKER",
+          "category": "hat"
+        },
+        {
+          "name": "BRAVE FACE",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "VisorsBundle",
+      "name": "VISORS BUNDLE",
+      "base_cost": 500,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "AU-SOME",
+          "category": "visor"
+        },
+        {
+          "name": "DYNAMIC VISION",
+          "category": "visor"
+        },
+        {
+          "name": "SYSTEM ERA SUPPORTER",
+          "category": "visor"
+        },
+        {
+          "name": "ESCAPE VELOCITY",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "LTEAutomationBundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "METAL GEAR",
+          "category": "visor"
+        },
+        {
+          "name": "GEARHEAD",
+          "category": "hat"
+        },
+        {
+          "name": "VR VISION",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "PrideVisorBundle",
+      "name": "PRIDE VISORS BUNDLE",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "ASEXUAL",
+          "category": "visor"
+        },
+        {
+          "name": "BISEXUAL",
+          "category": "visor"
+        },
+        {
+          "name": "LESBIAN",
+          "category": "visor"
+        },
+        {
+          "name": "NONBINARY",
+          "category": "visor"
+        },
+        {
+          "name": "PANSEXUAL",
+          "category": "visor"
+        },
+        {
+          "name": "TRANSGENDER",
+          "category": "visor"
+        },
+        {
+          "name": "LGBTQIA+",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "PrideVisor2Bundle",
+      "name": "PRIDE VISORS BUNDLE II",
+      "base_cost": 0,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "ALLY",
+          "category": "visor"
+        },
+        {
+          "name": "PROGRESS",
+          "category": "visor"
+        }
+      ]
+    },
+    {
+      "id": "LTEFall2023Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "POLLEN COUNT",
+          "category": "visor"
+        },
+        {
+          "name": "GALASTRO CAP",
+          "category": "hat"
+        },
+        {
+          "name": "LEAF LEAP",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "WesternBundle",
+      "name": "PARD'NER PACK",
+      "base_cost": 750,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "always",
+      "included_items": [
+        {
+          "name": "DEEP SPACE DESPERADO",
+          "category": "hat"
+        },
+        {
+          "name": "TEN-GALLON TECH",
+          "category": "hat"
+        },
+        {
+          "name": "SPACE COWBOY",
+          "category": "mask"
+        },
+        {
+          "name": "FINGER GUNS",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "HeadphoneLofiBundle",
+      "name": "WIP",
+      "base_cost": 1500,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "REMIX",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTEFall2022Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "HONEST LIVING",
+          "category": "hat"
+        },
+        {
+          "name": "DANCE: GIDDYUP",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "SnailFarmerBundle",
+      "name": "SNAIL FARMER",
+      "base_cost": 750,
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "BOREAL BEANIE",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTEHoliday2022Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "sale_tagged": false,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "BOREAL BEANIE",
+          "category": "hat"
+        },
+        {
+          "name": "PUDDING WARMER",
+          "category": "mask"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "megatech-deluxe",
+    "name": "Astroneer: Megatech - Deluxe Cosmetic Pack",
+    "payment": "real_money",
+    "url": "https://store.steampowered.com/app/4144820/",
+    "included_items": [
+      {
+        "name": "Megatech",
+        "category": "palette",
+        "display_name": "JEWEL CASE"
+      },
+      {
+        "name": "Megatech",
+        "category": "visor",
+        "display_name": "EN-AMBERED"
+      },
+      {
+        "name": "Megatech",
+        "category": "mask",
+        "display_name": "GEAR SHIFT"
+      }
+    ]
+  },
+  {
+    "id": "glitchwalkers-deluxe",
+    "name": "ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack",
+    "payment": "real_money",
+    "url": "https://store.steampowered.com/app/3315070/",
+    "included_items": [
+      {
+        "name": "MAL-WEAR",
+        "category": "palette"
+      },
+      {
+        "name": "CIPHER SIGHT",
+        "category": "visor"
+      },
+      {
+        "name": "HOLO-UMET",
+        "category": "mask"
+      }
+    ]
+  },
+  {
+    "id": "evolution",
+    "name": "ASTRONEER: Evolution Bundle",
+    "payment": "real_money",
+    "url": "https://store.steampowered.com/app/2876620/",
+    "included_items": [
+      {
+        "name": "EVO SUIT",
+        "category": "suit"
+      }
+    ],
+    "included_qbits": 1100
+  },
+  {
+    "id": "essential",
+    "name": "ASTRONEER Essential Bundle",
+    "payment": "real_money",
+    "url": "https://store.steampowered.com/app/2566990/",
+    "included_bundles": [
+      "Wizard Bundle",
+      "AutomatonBundle",
+      "EXOTechBundle",
+      "AnglerBundle",
+      "Space Wizard Bundle"
+    ],
+    "bonus_items": [
+      {
+        "name": "VINTAGE RED",
+        "category": "palette"
+      },
+      {
+        "name": "VINTAGE EMBLEM",
+        "category": "visor"
+      }
+    ]
+  },
+  {
+    "id": "athleisure",
+    "name": "ASTRONEER Athleisure Bundle",
+    "payment": "real_money",
+    "url": "https://store.steampowered.com/app/2567010/",
+    "included_items": [
+      {
+        "name": "ATHLEISURE SUIT",
+        "category": "suit"
+      },
+      {
+        "name": "OFF GRID",
+        "category": "palette"
+      },
+      {
+        "name": "ORBITAL HEADLAMP",
+        "category": "hat"
+      }
+    ],
+    "bonus_items": [
+      {
+        "name": "VINTAGE RED",
+        "category": "palette"
+      },
+      {
+        "name": "VINTAGE EMBLEM",
+        "category": "visor"
+      }
+    ]
+  },
+  {
+    "id": "suit",
+    "name": "ASTRONEER Suit Bundle",
+    "payment": "real_money",
+    "url": "https://store.steampowered.com/app/2567000/",
+    "included_items": [
+      {
+        "name": "FRAME SUIT",
+        "category": "suit"
+      },
+      {
+        "name": "SCOUT SUIT",
+        "category": "suit"
+      },
+      {
+        "name": "OUTPOST SUIT",
+        "category": "suit"
+      }
+    ],
+    "bonus_items": [
+      {
+        "name": "VINTAGE RED",
+        "category": "palette"
+      },
+      {
+        "name": "VINTAGE EMBLEM",
+        "category": "visor"
+      }
+    ]
+  }
+]

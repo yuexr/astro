@@ -1,0 +1,4590 @@
+[
+  {
+    "name": "EXO SUIT",
+    "category": "suit",
+    "image": "img/OGSuit.png",
+    "menu_position": 1,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "BUBBLE SUIT",
+    "category": "suit",
+    "image": "img/BubbleSuit.png",
+    "menu_position": 2,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default.",
+    "bundle_association": "SNAIL FARMER"
+  },
+  {
+    "name": "FLIGHT SUIT",
+    "category": "suit",
+    "image": "img/PajamaSuit.png",
+    "menu_position": 3,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "BIO SUIT",
+    "category": "suit",
+    "image": "img/BioSuit.png",
+    "menu_position": 4,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "RETRO SUIT",
+    "category": "suit",
+    "image": "img/RetroSuit.png",
+    "menu_position": 5,
+    "obtainment_method": "Special collection",
+    "obtained_through": "Unlocked by playing Astroneer during Early Access."
+  },
+  {
+    "name": "EXOTIC SUIT",
+    "category": "suit",
+    "image": "img/ExoticSuit.png",
+    "menu_position": 6,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Vesania Awakened."
+  },
+  {
+    "name": "GALACTIC SUIT",
+    "category": "suit",
+    "image": "img/RadiatedSuit.png",
+    "menu_position": 7,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: ...And Beyond."
+  },
+  {
+    "name": "TERRAN SUIT",
+    "category": "suit",
+    "image": "img/TerranSuit.png",
+    "menu_position": 8,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Sylva Awakened."
+  },
+  {
+    "name": "TUNDRA SUIT",
+    "category": "suit",
+    "image": "img/TundraSuit.png",
+    "menu_position": 9,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Glacio Awakened."
+  },
+  {
+    "name": "ARID SUIT",
+    "category": "suit",
+    "image": "img/BarrenSuit.png",
+    "menu_position": 10,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Calidor Awakened."
+  },
+  {
+    "name": "RADIATED SUIT",
+    "category": "suit",
+    "image": "img/AridSuit.png",
+    "menu_position": 11,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Atrox Awakened."
+  },
+  {
+    "name": "WANDERER SUIT",
+    "category": "suit",
+    "image": "img/WandererSuit.png",
+    "menu_position": 12,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: The Wanderer's Way."
+  },
+  {
+    "name": "TOUGH SUIT",
+    "category": "suit",
+    "image": "img/StrengthSuit.png",
+    "menu_position": 13,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SWIFT SUIT",
+    "category": "suit",
+    "image": "img/SpeedSuit.png",
+    "menu_position": 14,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "COMMANDER SUIT",
+    "category": "suit",
+    "image": "img/CommanderSuit.png",
+    "menu_position": 15,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SCOUT SUIT",
+    "category": "suit",
+    "image": "img/TinkerSuit.png",
+    "menu_position": 16,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FRAME SUIT",
+    "category": "suit",
+    "image": "img/RobotSuit.png",
+    "menu_position": 17,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ROBOT BUNDLE"
+  },
+  {
+    "name": "FRONTIER SUIT",
+    "category": "suit",
+    "image": "img/MooSuit.png",
+    "menu_position": 18,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "VINTAGE SUIT",
+    "category": "suit",
+    "image": "img/BoxBotSuit.png",
+    "menu_position": 19,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "AUTOMATON BUNDLE"
+  },
+  {
+    "name": "OUTPOST SUIT",
+    "category": "suit",
+    "image": "img/ThingSuit.png",
+    "menu_position": 20,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HYPER SUIT",
+    "category": "suit",
+    "image": "img/f1sUIT.png",
+    "menu_position": 21,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "AQUATIC SUIT",
+    "category": "suit",
+    "image": "img/FlyFisherSuit.png",
+    "menu_position": 22,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "OLD SCHOOL SUIT",
+    "category": "suit",
+    "image": "img/OldSchoolSuit.png",
+    "menu_position": 23,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EVO SUIT",
+    "category": "suit",
+    "image": "img/EvoSuit.png",
+    "menu_position": 24,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in ASTRONEER: Evolution Bundle."
+  },
+  {
+    "name": "MINI MECH SUIT",
+    "category": "suit",
+    "image": "img/BabyMechSuit.png",
+    "menu_position": 25,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LAB SUIT",
+    "category": "suit",
+    "image": "img/LabSuit.png",
+    "menu_position": 26,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by sending the final Galastropod transmission."
+  },
+  {
+    "name": "CONDUCTOR SUIT",
+    "category": "suit",
+    "image": "img/ConductorSuit.png",
+    "menu_position": 27,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by confirming the final Logistics Depot shipment."
+  },
+  {
+    "name": "CADET SUIT",
+    "category": "suit",
+    "image": "img/StarterSuit.png",
+    "menu_position": 28,
+    "obtainment_method": "Store",
+    "obtained_through": "Unlocked by purchasing the Starter Bundle with real money from the store."
+  },
+  {
+    "name": "ATHLEISURE SUIT",
+    "category": "suit",
+    "image": "img/AthleisureSuit.png",
+    "menu_position": 29,
+    "obtainment_method": "Store",
+    "obtained_through": "Unlocked by purchasing a special bundle from EXO Dynamics."
+  },
+  {
+    "name": "HARD SUIT",
+    "category": "suit",
+    "image": "img/HardspaceSuit.png",
+    "menu_position": 30,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "CAGE SUIT",
+    "category": "suit",
+    "image": "img/CageSuit.png",
+    "menu_position": 31,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "GALASTRO SUIT",
+    "category": "suit",
+    "image": "img/SnailFarmerSuit.png",
+    "menu_position": 32,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CHRONOS SUIT",
+    "category": "suit",
+    "image": "img/ChronosSuit.png",
+    "menu_position": 33,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by helping an old friend fulfill their purpose."
+  },
+  {
+    "name": "HACKER SUIT",
+    "category": "suit",
+    "image": "img/LynSuit.png",
+    "menu_position": 34,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+  },
+  {
+    "name": "EXPEDITION SUIT",
+    "category": "suit",
+    "image": "img/ExpeditionSuit.png",
+    "menu_position": 35,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating STARSEEKER."
+  },
+  {
+    "name": "CONTROL SUIT",
+    "category": "suit",
+    "image": "img/PS4Suit.png",
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Available by default to PS4 players."
+  },
+  {
+    "name": "SPLIT SUIT",
+    "category": "suit",
+    "image": "img/SplitSuit.png",
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Available by default to Nintendo Switch players."
+  },
+  {
+    "name": "EXO STANDARD",
+    "category": "palette",
+    "image": "img/DefaultCharacterPalette.png",
+    "menu_position": 1,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO TEAL",
+    "category": "palette",
+    "image": "img/Palette_Character_Teal.png",
+    "menu_position": 2,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO GREEN",
+    "category": "palette",
+    "image": "img/DefaultPlayer3Palette.png",
+    "menu_position": 3,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO YELLOW",
+    "category": "palette",
+    "image": "img/DefaultPlayer4Palette.png",
+    "menu_position": 4,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO ORANGE",
+    "category": "palette",
+    "image": "img/Palette_Character_Orange.png",
+    "menu_position": 5,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO RED",
+    "category": "palette",
+    "image": "img/DefaultPlayer2Palette.png",
+    "menu_position": 6,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO FUCHSIA",
+    "category": "palette",
+    "image": "img/Palette_Character_Fuchsia.png",
+    "menu_position": 7,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "EXO GREY",
+    "category": "palette",
+    "image": "img/Palette_Character_Grey.png",
+    "menu_position": 8,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "HEAVY ORANGE",
+    "category": "palette",
+    "image": "img/Palette_Character_FullOrange.png",
+    "menu_position": 9,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "PEACH OASIS",
+    "category": "palette",
+    "image": "img/Palette_Character_Peach.png",
+    "menu_position": 10,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "COOLANT",
+    "category": "palette",
+    "image": "img/Palette_Character_Cooler.png",
+    "menu_position": 11,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HAZMATTE",
+    "category": "palette",
+    "image": "img/Palette_Character_Construction.png",
+    "menu_position": 12,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "QP MIDNIGHT",
+    "category": "palette",
+    "image": "img/Palette_Character_Night.png",
+    "menu_position": 13,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "AVALANCHE",
+    "category": "palette",
+    "image": "img/Palette_Character_Slick.png",
+    "menu_position": 14,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RETRO FIT",
+    "category": "palette",
+    "image": "img/Palette_Character_Triangle_Geometric.png",
+    "menu_position": 15,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "AUBERGINE SHEEN",
+    "category": "palette",
+    "image": "img/Palette_Character_Triangle_Chiton.png",
+    "menu_position": 16,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SHORTCAKE",
+    "category": "palette",
+    "image": "img/Palette_Character_Shortcake.png",
+    "menu_position": 17,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BEACH READY",
+    "category": "palette",
+    "image": "img/Palette_Character_Nautical_Shells.png",
+    "menu_position": 18,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HOT SPOT",
+    "category": "palette",
+    "image": "img/Palette_Character_Dots.png",
+    "menu_position": 19,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TWILLION",
+    "category": "palette",
+    "image": "img/Palette_Character_Zigzag_Lithium.png",
+    "menu_position": 20,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BRIGHT NITE",
+    "category": "palette",
+    "image": "img/Palette_Character_Zigzag_Xenon.png",
+    "menu_position": 21,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CYBER STATE",
+    "category": "palette",
+    "image": "img/Palette_Character_BlackGold.png",
+    "menu_position": 22,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PETAL PUSHER",
+    "category": "palette",
+    "image": "img/Palette_Character_Tropical.png",
+    "menu_position": 23,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ROYAL FLUSH",
+    "category": "palette",
+    "image": "img/Palette_Character_Royal.png",
+    "menu_position": 24,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EARTHENWARE",
+    "category": "palette",
+    "image": "img/Palette_Character_Stem.png",
+    "menu_position": 25,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "FLOWER POWER"
+  },
+  {
+    "name": "NIGHT STALKER",
+    "category": "palette",
+    "image": "img/Palette_Character_TabbyGrey.png",
+    "menu_position": 26,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DAY PROWLER",
+    "category": "palette",
+    "image": "img/Palette_Character_TabbyOrange.png",
+    "menu_position": 27,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TEAL APPEAL",
+    "category": "palette",
+    "image": "img/Palette_Character_TealPeel.png",
+    "menu_position": 28,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SAFETY YELLOW",
+    "category": "palette",
+    "image": "img/Palette_Character_Sporty_Lemon.png",
+    "menu_position": 29,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TOMB WORTHY",
+    "category": "palette",
+    "image": "img/Palette_Character_DarkBone.png",
+    "menu_position": 30,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PATCHWORK",
+    "category": "palette",
+    "image": "img/Palette_Character_Stitches.png",
+    "menu_position": 31,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "COBWEB",
+    "category": "palette",
+    "image": "img/Palette_Character_Spiderwebs.png",
+    "menu_position": 32,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CANDY CORN",
+    "category": "palette",
+    "image": "img/Palette_Character_Candy_Corn.png",
+    "menu_position": 33,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "INCANTATION",
+    "category": "palette",
+    "image": "img/Palette_Character_Wizard_Stars.png",
+    "menu_position": 34,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ASTROMANCY BUNDLE"
+  },
+  {
+    "name": "SANGUINE",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Red.png",
+    "menu_position": 35,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "AUTOMATON BUNDLE"
+  },
+  {
+    "name": "AUTUMNAL",
+    "category": "palette",
+    "image": "img/Palette_Character_Autumn.png",
+    "menu_position": 36,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GRUNGE",
+    "category": "palette",
+    "image": "img/Palette_Character_Plaid_Bumblebee.png",
+    "menu_position": 37,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HIBERNATE",
+    "category": "palette",
+    "image": "img/Palette_Character_Plaid_Lumberjack.png",
+    "menu_position": 38,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FLANNEL",
+    "category": "palette",
+    "image": "img/Palette_Character_Plaid_Warmer.png",
+    "menu_position": 39,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPOOKY",
+    "category": "palette",
+    "image": "img/Palette_Character_Halloween.png",
+    "menu_position": 40,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by playing Astroneer during Halloween 2019.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "PARTY TIME",
+    "category": "palette",
+    "image": "img/Palette_Character_Party.png",
+    "menu_position": 41,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "ASTRO RECRUIT",
+    "category": "palette",
+    "image": "img/Palette_Character_AstroRecruit.png",
+    "menu_position": 42,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "RECRUIT BUNDLE"
+  },
+  {
+    "name": "SUNRISE",
+    "category": "palette",
+    "image": "img/Palette_Character_Sunrise.png",
+    "menu_position": 43,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics.",
+    "bundle_association": "SUMMER SUN BUNDLE"
+  },
+  {
+    "name": "SUNSET",
+    "category": "palette",
+    "image": "img/Palette_Character_Sunset.png",
+    "menu_position": 44,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics.",
+    "bundle_association": "SUMMER SUN BUNDLE"
+  },
+  {
+    "name": "P.A.L.",
+    "category": "palette",
+    "image": "img/Palette_Character_PAL.png",
+    "menu_position": 45,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "P.A.L. BUNDLE"
+  },
+  {
+    "name": "FROSTY",
+    "category": "palette",
+    "image": "img/Palette_Character_Frosty.png",
+    "menu_position": 46,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "VINTAGE RED",
+    "category": "palette",
+    "image": "img/Palette_Character_Vintage.png",
+    "menu_position": 47,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+  },
+  {
+    "name": "SALVAGE CHIC",
+    "category": "palette",
+    "image": "img/Palette_Character_Scrapper.png",
+    "menu_position": 48,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "NOIR",
+    "category": "palette",
+    "image": "img/Palette_Character_Noir.png",
+    "menu_position": 49,
+    "obtainment_method": "Unknown",
+    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+  },
+  {
+    "name": "TOXIC DINO",
+    "category": "palette",
+    "image": "img/Palette_Character_Dino.png",
+    "menu_position": 50,
+    "obtainment_method": "Unknown",
+    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+  },
+  {
+    "name": "MUTED DARKNESS",
+    "category": "palette",
+    "image": "img/Palette_Character_Muted.png",
+    "menu_position": 51,
+    "obtainment_method": "Unknown",
+    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+  },
+  {
+    "name": "VERO VIOLET",
+    "category": "palette",
+    "image": "img/Palette_Character_Vero.png",
+    "menu_position": 52,
+    "obtainment_method": "Unknown",
+    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+  },
+  {
+    "name": "TOASTY",
+    "category": "palette",
+    "image": "img/Palette_Character_Warmth.png",
+    "menu_position": 53,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BEACH READY",
+    "category": "palette",
+    "image": "img/Palette_Character_Floral_Bananas.png",
+    "menu_position": 54,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GALACTIC",
+    "category": "palette",
+    "image": "img/Palette_Character_GalaxyPurple.png",
+    "menu_position": 55,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: ...And Beyond."
+  },
+  {
+    "name": "OVERACHIEVER",
+    "category": "palette",
+    "image": "img/Palette_Character_Golden.png",
+    "menu_position": 56,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: EXO Dynamics Solar System Mastery."
+  },
+  {
+    "name": "CALIDOR",
+    "category": "palette",
+    "image": "img/Palette_Character_Arid.png",
+    "menu_position": 57,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Calidor Awakened."
+  },
+  {
+    "name": "DESOLO",
+    "category": "palette",
+    "image": "img/Palette_Character_Barren.png",
+    "menu_position": 58,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Desolo Awakened."
+  },
+  {
+    "name": "VESANIA",
+    "category": "palette",
+    "image": "img/Palette_Character_Exotic.png",
+    "menu_position": 59,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Vesania Awakened."
+  },
+  {
+    "name": "NOVUS",
+    "category": "palette",
+    "image": "img/Palette_Character_ExoticMoon.png",
+    "menu_position": 60,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Novus Awakened."
+  },
+  {
+    "name": "ATROX",
+    "category": "palette",
+    "image": "img/Palette_Character_Radiated.png",
+    "menu_position": 61,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Atrox Awakened."
+  },
+  {
+    "name": "GLACIO",
+    "category": "palette",
+    "image": "img/Palette_Character_Tundra.png",
+    "menu_position": 62,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Glacio Awakened."
+  },
+  {
+    "name": "SYLVA",
+    "category": "palette",
+    "image": "img/Palette_Character_Terran.png",
+    "menu_position": 63,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Sylva Awakened."
+  },
+  {
+    "name": "WANDERER BLUE",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Blue.png",
+    "menu_position": 64,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER TEAL",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Teal.png",
+    "menu_position": 65,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER GREEN",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Green.png",
+    "menu_position": 66,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER YELLOW",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Yellow.png",
+    "menu_position": 67,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER ORANGE",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Orange.png",
+    "menu_position": 68,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER RED",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Red.png",
+    "menu_position": 69,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER FUCHSIA",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer_Fuchsia.png",
+    "menu_position": 70,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+  },
+  {
+    "name": "WANDERER GREY",
+    "category": "palette",
+    "image": "img/Palette_Character_Wanderer.png",
+    "menu_position": 71,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: The Wanderer's Way."
+  },
+  {
+    "name": "KITTEN CAMO",
+    "category": "palette",
+    "image": "img/Palette_Character_Leopard.png",
+    "menu_position": 72,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SO EXOTIC",
+    "category": "palette",
+    "image": "img/Palette_Character_Tiger.png",
+    "menu_position": 73,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TINSEL TOWN",
+    "category": "palette",
+    "image": "img/Palette_Character_Presents_Holiday.png",
+    "menu_position": 74,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "SUGAR COATED",
+    "category": "palette",
+    "image": "img/Palette_Character_Gingerbread.png",
+    "menu_position": 75,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "GINGERBREAD BUNDLE"
+  },
+  {
+    "name": "CANDY CANE",
+    "category": "palette",
+    "image": "img/Palette_Character_Candycane.png",
+    "menu_position": 76,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GLOW UP",
+    "category": "palette",
+    "image": "img/Palette_Character_Holiday_Lights.png",
+    "menu_position": 77,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ARCADIA",
+    "category": "palette",
+    "image": "img/Palette_Character_Art_Deco.png",
+    "menu_position": 78,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EVENING ATTIRE",
+    "category": "palette",
+    "image": "img/Palette_Character_Tuxedo.png",
+    "menu_position": 79,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GLITTERATI",
+    "category": "palette",
+    "image": "img/Palette_Character_Sequins.png",
+    "menu_position": 80,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "UNIT-01",
+    "category": "palette",
+    "image": "img/Palette_Character_Mech_01.png",
+    "menu_position": 81,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "UNIT-02",
+    "category": "palette",
+    "image": "img/Palette_Character_Mech_02.png",
+    "menu_position": 82,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SCALES",
+    "category": "palette",
+    "image": "img/Palette_Character_Lunar_Scales.png",
+    "menu_position": 83,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "LUNAR NEW YEAR BUNDLE"
+  },
+  {
+    "name": "GOING GREEN",
+    "category": "palette",
+    "image": "img/Palette_Character_Scrapper_02.png",
+    "menu_position": 84,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "BOLTED",
+    "category": "palette",
+    "image": "img/Palette_Character_Bolted.png",
+    "menu_position": 85,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GREEN SCHEME",
+    "category": "palette",
+    "image": "img/Palette_Character_Olive.png",
+    "menu_position": 86,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FUNGAL EMISSION",
+    "category": "palette",
+    "image": "img/Palette_Character_Emissive_Fungus.png",
+    "menu_position": 87,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SLICK",
+    "category": "palette",
+    "image": "img/Palette_Character_Slick_Scales.png",
+    "menu_position": 88,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CARBON FIBER",
+    "category": "palette",
+    "image": "img/Palette_Character_Carbon_Fiber.png",
+    "menu_position": 89,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SCARAB",
+    "category": "palette",
+    "image": "img/Palette_Character_Iridescent_Bug.png",
+    "menu_position": 90,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ON GRID",
+    "category": "palette",
+    "image": "img/Palette_Character_Circuitry.png",
+    "menu_position": 91,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "COPPER PLATE",
+    "category": "palette",
+    "image": "img/Palette_Character_Hammered_Copper.png",
+    "menu_position": 92,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "EXO STRIPES",
+    "category": "palette",
+    "image": "img/Palette_Character_Angular_Stripes.png",
+    "menu_position": 93,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "STREET WEAR",
+    "category": "palette",
+    "image": "img/Palette_Character_Angular_Tiremarks.png",
+    "menu_position": 94,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CHROMA BLUE",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Blue.png",
+    "menu_position": 95,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA PINK",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Fuscia.png",
+    "menu_position": 96,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA GREEN",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Green.png",
+    "menu_position": 97,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA GREY",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Grey.png",
+    "menu_position": 98,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA ORANGE",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Orange.png",
+    "menu_position": 99,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA RED",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Red.png",
+    "menu_position": 100,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA TEAL",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Teal.png",
+    "menu_position": 101,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CHROMA YELLOW",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_Full_Yellow.png",
+    "menu_position": 102,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "HEAVY METAL BUNDLE"
+  },
+  {
+    "name": "CUTIE PINK",
+    "category": "palette",
+    "image": "img/Palette_Character_Pastel_Fiber1.png",
+    "menu_position": 103,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CUTIE BLUE",
+    "category": "palette",
+    "image": "img/Palette_Character_Pastel_Fiber2.png",
+    "menu_position": 104,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "POP CULTURE",
+    "category": "palette",
+    "image": "img/Palette_Character_Skate_Teal.png",
+    "menu_position": 105,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "DENIM DUDS",
+    "category": "palette",
+    "image": "img/Palette_Character_Denim_Fiber.png",
+    "menu_position": 106,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ABYSS",
+    "category": "palette",
+    "image": "img/Palette_Character_Abyssal_Scales.png",
+    "menu_position": 107,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DEEP SPACE DIVER BUNDLE"
+  },
+  {
+    "name": "SCARECROW",
+    "category": "palette",
+    "image": "img/Palette_Character_Stitches_Scarecrow.png",
+    "menu_position": 108,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "OFF GRID",
+    "category": "palette",
+    "image": "img/Palette_Character_Circuitry2.png",
+    "menu_position": 109,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO-426",
+    "category": "palette",
+    "image": "img/Palette_Character_Industrial_Yellow.png",
+    "menu_position": 110,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GRID LOCK",
+    "category": "palette",
+    "image": "img/Palette_Character_Circuitry3.png",
+    "menu_position": 111,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "EXO TECH BUNDLE"
+  },
+  {
+    "name": "ECLIPSE",
+    "category": "palette",
+    "image": "img/Palette_Character_Art_Deco2.png",
+    "menu_position": 112,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GALACTIC GLAM",
+    "category": "palette",
+    "image": "img/Palette_Character_Sequins2.png",
+    "menu_position": 113,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CHILL OUT",
+    "category": "palette",
+    "image": "img/Palette_Character_Ice.png",
+    "menu_position": 114,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ARCTIC BUNDLE"
+  },
+  {
+    "name": "PECULIAR PAL",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Atrox.png",
+    "menu_position": 115,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "DESERT DWELLER",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Calidor.png",
+    "menu_position": 116,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "COSMIC COMPANION",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Desolo.png",
+    "menu_position": 117,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "FROSTED FAMILIAR",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Glacio.png",
+    "menu_position": 118,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "MYSTIC MOON",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Novus.png",
+    "menu_position": 119,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "FOREST FRIEND",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Sylva.png",
+    "menu_position": 120,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "ROYAL REGALIA",
+    "category": "palette",
+    "image": "img/Palette_Character_Snail_Vesania.png",
+    "menu_position": 121,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SNAIL PALETTE BUNDLE"
+  },
+  {
+    "name": "POWER SUITED",
+    "category": "palette",
+    "image": "img/Palette_Character_Power.png",
+    "menu_position": 122,
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Unlocked by claiming as an Early Purchase Bonus for Nintendo Switch.",
+    "bundle_association": "POWER BUNDLE"
+  },
+  {
+    "name": "LEGENDARY GREEN",
+    "category": "palette",
+    "image": "img/Palette_Character_Tunic.png",
+    "menu_position": 123,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "bundle_association": "TUNIC BUNDLE"
+  },
+  {
+    "name": "ON F-L33K",
+    "category": "palette",
+    "image": "img/Palette_Character_Leek.png",
+    "menu_position": 124,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "bundle_association": "SECRET LEEKS"
+  },
+  {
+    "name": "SAFETY ORANGE",
+    "category": "palette",
+    "image": "img/Palette_Character_Scrapper_03.png",
+    "menu_position": 125,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "DOT COM",
+    "category": "palette",
+    "image": "img/Palette_Character_Binary_Dots.png",
+    "menu_position": 126,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "RETROGRADE",
+    "category": "palette",
+    "image": "img/Palette_Character_Starter.png",
+    "menu_position": 127,
+    "obtainment_method": "Store",
+    "obtained_through": "Unlocked by purchasing the Starter Bundle with real money from the store."
+  },
+  {
+    "name": "PEARLESCENT",
+    "category": "palette",
+    "image": "img/Palette_Character_Pearlescent.png",
+    "menu_position": 128,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RIVETING",
+    "category": "palette",
+    "image": "img/Palette_Character_Bolted2.png",
+    "menu_position": 129,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DAYDREAM",
+    "category": "palette",
+    "image": "img/Palette_Character_Clouds.png",
+    "menu_position": 130,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TOASTY",
+    "category": "palette",
+    "image": "img/Palette_Character_Warmth.png",
+    "menu_position": 131,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPACE MAGIC",
+    "category": "palette",
+    "image": "img/Palette_Character_Wizard_Stars_2.png",
+    "menu_position": 132,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "TYCHOMANCY BUNDLE"
+  },
+  {
+    "name": "CARBONATED",
+    "category": "palette",
+    "image": "img/Palette_Character_Lights_Carbonated.png",
+    "menu_position": 133,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "JEWEL",
+    "category": "palette",
+    "image": "img/Palette_Character_Iridescent_Bug2.png",
+    "menu_position": 134,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "ROCKSTAR",
+    "category": "palette",
+    "image": "img/Palette_Character_Sequins3.png",
+    "menu_position": 135,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "CONTOUR",
+    "category": "palette",
+    "image": "img/Palette_Character_Graphic_Halftone.png",
+    "menu_position": 136,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
+    "bundle_association": "OFF-PANEL BUNDLE"
+  },
+  {
+    "name": "OLD GOLD",
+    "category": "palette",
+    "image": "img/Palette_Character_Metal_HardMode.png",
+    "menu_position": 137,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by completing the game in SES hardcore configuration."
+  },
+  {
+    "name": "EXTRA LIFE",
+    "category": "palette",
+    "image": "img/Palette_Character_ExtraLife.png",
+    "menu_position": 138,
+    "obtainment_method": "Special collection",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+  },
+  {
+    "name": "LIMINAL LEAK",
+    "category": "palette",
+    "image": "img/Palette_Character_Anniversary_1.png",
+    "menu_position": 139,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "DODGED A BULLET",
+    "category": "palette",
+    "image": "img/Palette_Character_BlackLeather.png",
+    "menu_position": 140,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DIGITAL DIMENSION BUNDLE"
+  },
+  {
+    "name": "ECONEER",
+    "category": "palette",
+    "image": "img/Palette_Character_CptPlanet.png",
+    "menu_position": 141,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "BEE'S KNEES",
+    "category": "palette",
+    "image": "img/Palette_Character_Bee.png",
+    "menu_position": 142,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "BUMBLE BUNDLE"
+  },
+  {
+    "name": "THATCH 2.0",
+    "category": "palette",
+    "image": "img/Palette_Character_Wicker.png",
+    "menu_position": 143,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "CHROMATIC BLACK",
+    "category": "palette",
+    "image": "img/Palette_Character_Dragon-Black.png",
+    "menu_position": 144,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CHROMATIC GREEN",
+    "category": "palette",
+    "image": "img/Palette_Character_Dragon-Green.png",
+    "menu_position": 145,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DRAGON'S HOARD"
+  },
+  {
+    "name": "CHROMATIC WHITE",
+    "category": "palette",
+    "image": "img/Palette_Character_Dragon-Pearl.png",
+    "menu_position": 146,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "H@ZARD!",
+    "category": "palette",
+    "image": "img/Palette_Character_Punk_Pattern.png",
+    "menu_position": 147,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "GL!TCHPUNK"
+  },
+  {
+    "name": "SCRAP WRAP",
+    "category": "palette",
+    "image": "img/Palette_Character_SteamPunk.png",
+    "menu_position": 148,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "EXTRA LIFE MK II",
+    "category": "palette",
+    "image": "img/Palette_Character_ExtraLife2.png",
+    "menu_position": 149,
+    "obtainment_method": "Special collection",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+  },
+  {
+    "name": "KNITLY FIBER",
+    "category": "palette",
+    "image": "img/Palette_Character_Knitted.png",
+    "menu_position": 150,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "COZY TIME BUNDLE"
+  },
+  {
+    "name": "CODED COUTURE",
+    "category": "palette",
+    "image": "img/Palette_Character_Sacred_Pattern.png",
+    "menu_position": 151,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+  },
+  {
+    "name": "MAL-WEAR",
+    "category": "palette",
+    "image": "img/Palette_Character_Glitch_Pattern.png",
+    "menu_position": 152,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
+  },
+  {
+    "name": "SAFETY FIRST",
+    "category": "palette",
+    "image": "img/Palette_Character_Frank_HiViz.png",
+    "menu_position": 153,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a special item code."
+  },
+  {
+    "name": "RADIOACTION",
+    "category": "palette",
+    "image": "img/Palette_Character_Ooze.png",
+    "menu_position": 154,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "MOREL CODE",
+    "category": "palette",
+    "image": "img/Palette_Character_Toadstool.png",
+    "menu_position": 155,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "FUNGUY BUNDLE"
+  },
+  {
+    "name": "FEY OUT LOUD",
+    "category": "palette",
+    "image": "img/Palette_Character_Dryad.png",
+    "menu_position": 156,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SOLSTICE BUNDLE"
+  },
+  {
+    "name": "DIAMOND IN THE BUFF",
+    "category": "palette",
+    "image": "img/Palette_Character_diamond.png",
+    "menu_position": 157,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "BAD APPLE",
+    "category": "palette",
+    "image": "img/Palette_Character_PoisonApple.png",
+    "menu_position": 158,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "BOSSFERATU",
+    "category": "palette",
+    "image": "img/Palette_Character_Vampire.png",
+    "menu_position": 159,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "D-SANGUINE-8"
+  },
+  {
+    "name": "JOLLY GOOD",
+    "category": "palette",
+    "image": "img/Palette_Character_Jolly.png",
+    "menu_position": 160,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "COLD SHOULDER",
+    "category": "palette",
+    "image": "img/Palette_Character_IceKnight.png",
+    "menu_position": 161,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ALL-KNIGHTER"
+  },
+  {
+    "name": "Megatech",
+    "category": "palette",
+    "image": "img/Palette_Character_Megatech.png",
+    "menu_position": 162,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+  },
+  {
+    "name": "COSMOPOLITAN",
+    "category": "palette",
+    "image": "img/Palette_Character_Skybox.png",
+    "menu_position": 163,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by Printing the Orbital Platform."
+  },
+  {
+    "name": "MIRROR GOLD",
+    "category": "visor",
+    "image": "img/DefaultVisorMaterial.png",
+    "menu_position": 1,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "MIRROR SILVER",
+    "category": "visor",
+    "image": "img/Visor_Mirror_Silver.png",
+    "menu_position": 2,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "SUNRISE",
+    "category": "visor",
+    "image": "img/Visor_Sunrise.png",
+    "menu_position": 3,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics.",
+    "bundle_association": "SUMMER SUN BUNDLE"
+  },
+  {
+    "name": "SUNSET",
+    "category": "visor",
+    "image": "img/Visor_Sunset.png",
+    "menu_position": 4,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by playing Astroneer during Summer 2019.",
+    "bundle_association": "SUMMER SUN BUNDLE"
+  },
+  {
+    "name": "DESOLO",
+    "category": "visor",
+    "image": "img/Visor_Barren.png",
+    "menu_position": 5,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Desolo Awakened."
+  },
+  {
+    "name": "NOVUS",
+    "category": "visor",
+    "image": "img/Visor_ExoticMoon.png",
+    "menu_position": 6,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Novus Awakened."
+  },
+  {
+    "name": "GALACTIC",
+    "category": "visor",
+    "image": "img/Visor_Galaxy.png",
+    "menu_position": 7,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: ...And Beyond."
+  },
+  {
+    "name": "SPOOKY",
+    "category": "visor",
+    "image": "img/Visor_HalloweenSkull.png",
+    "menu_position": 8,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by playing Astroneer during Halloween 2019.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "FACE TIME",
+    "category": "visor",
+    "image": "img/Visor_Emoji_Blue.png",
+    "menu_position": 9,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ROBOT BUNDLE"
+  },
+  {
+    "name": "ORBITAL BLUE",
+    "category": "visor",
+    "image": "img/Visor_OrbitalsLogo_Blue.png",
+    "menu_position": 10,
+    "obtainment_method": "Special collection",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "RECRUIT BUNDLE"
+  },
+  {
+    "name": "P.A.L.",
+    "category": "visor",
+    "image": "img/Visor_PAL.png",
+    "menu_position": 11,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "P.A.L. BUNDLE"
+  },
+  {
+    "name": "VINTAGE EMBLEM",
+    "category": "visor",
+    "image": "img/Visor_Vintage.png",
+    "menu_position": 12,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+  },
+  {
+    "name": "PUMPKIN",
+    "category": "visor",
+    "image": "img/Visor_Pumpkin.png",
+    "menu_position": 13,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by harvesting and planting a certain kind of Spookyseed.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "FROSTY",
+    "category": "visor",
+    "image": "img/Visor_Frosty.png",
+    "menu_position": 14,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "EXO BLUE",
+    "category": "visor",
+    "image": "img/Visor_Exo_Blue.png",
+    "menu_position": 15,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO GREEN",
+    "category": "visor",
+    "image": "img/Visor_Exo_Green.png",
+    "menu_position": 16,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO GREY",
+    "category": "visor",
+    "image": "img/Visor_Exo_Grey.png",
+    "menu_position": 17,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO ORANGE",
+    "category": "visor",
+    "image": "img/Visor_Exo_Orange.png",
+    "menu_position": 18,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO FUCHSIA",
+    "category": "visor",
+    "image": "img/Visor_Exo_Pink.png",
+    "menu_position": 19,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO RED",
+    "category": "visor",
+    "image": "img/Visor_Exo_Red.png",
+    "menu_position": 20,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO TEAL",
+    "category": "visor",
+    "image": "img/Visor_Exo_Teal.png",
+    "menu_position": 21,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO YELLOW",
+    "category": "visor",
+    "image": "img/Visor_Exo_Yellow.png",
+    "menu_position": 22,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SYSTEM ERROR",
+    "category": "visor",
+    "image": "img/Visor_Distress_Signal.png",
+    "menu_position": 23,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SIGNAL LOST",
+    "category": "visor",
+    "image": "img/Visor_White_Noise.png",
+    "menu_position": 24,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EMERGENCY BROADCAST",
+    "category": "visor",
+    "image": "img/Visor_Signal_Lost.png",
+    "menu_position": 25,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "AU-SOME",
+    "category": "visor",
+    "image": "img/Visor_Graphic_A_Globe.png",
+    "menu_position": 26,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "VISORS BUNDLE"
+  },
+  {
+    "name": "DYNAMIC VISION",
+    "category": "visor",
+    "image": "img/Visor_Graphic_Exo_Logo.png",
+    "menu_position": 27,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "VISORS BUNDLE"
+  },
+  {
+    "name": "SYSTEM ERA SUPPORTER",
+    "category": "visor",
+    "image": "img/Visor_Graphic_SES_Logo.png",
+    "menu_position": 28,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "VISORS BUNDLE"
+  },
+  {
+    "name": "ESCAPE VELOCITY",
+    "category": "visor",
+    "image": "img/Visor_Graphic_Ship_Emblem.png",
+    "menu_position": 29,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "VISORS BUNDLE"
+  },
+  {
+    "name": "METAL GEAR",
+    "category": "visor",
+    "image": "img/Visor_Cogs.png",
+    "menu_position": 30,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "PARTY ANIMAL",
+    "category": "visor",
+    "image": "img/Visor_Ombre_Tiger.png",
+    "menu_position": 31,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPOTTED VISION",
+    "category": "visor",
+    "image": "img/Visor_Ombre_Leopard.png",
+    "menu_position": 32,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "OFFSIDER",
+    "category": "visor",
+    "image": "img/Visor_Soccerball.png",
+    "menu_position": 33,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TOUCHDOWN",
+    "category": "visor",
+    "image": "img/Visor_Football.png",
+    "menu_position": 34,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HOMERUN",
+    "category": "visor",
+    "image": "img/Visor_Baseball.png",
+    "menu_position": 35,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FREETHROW",
+    "category": "visor",
+    "image": "img/Visor_Basketball.png",
+    "menu_position": 36,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RACKET",
+    "category": "visor",
+    "image": "img/Visor_Tennisball.png",
+    "menu_position": 37,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ENDLESS",
+    "category": "visor",
+    "image": "img/Visor_HalloweenSkull_Purple.png",
+    "menu_position": 38,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "CRYSTAL BALL",
+    "category": "visor",
+    "image": "img/Visor_Wizard.png",
+    "menu_position": 39,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ASTROMANCY BUNDLE"
+  },
+  {
+    "name": "REBOOT",
+    "category": "visor",
+    "image": "img/Visor_PAL_Red.png",
+    "menu_position": 40,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "AUTOMATON BUNDLE"
+  },
+  {
+    "name": "BAUBLEHEAD",
+    "category": "visor",
+    "image": "img/Visor_Ornament_Holiday.png",
+    "menu_position": 41,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "SWEET OUTLOOK",
+    "category": "visor",
+    "image": "img/Visor_Gingerbread.png",
+    "menu_position": 42,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "GINGERBREAD BUNDLE"
+  },
+  {
+    "name": "MINTED",
+    "category": "visor",
+    "image": "img/Visor_Candycane_Swirl.png",
+    "menu_position": 43,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BLACKOUT",
+    "category": "visor",
+    "image": "img/Visor_Blackout.png",
+    "menu_position": 44,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DISCO FEVER",
+    "category": "visor",
+    "image": "img/Visor_Disco_Silver.png",
+    "menu_position": 45,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FOMALHAUT",
+    "category": "visor",
+    "image": "img/Visor_Fireball.png",
+    "menu_position": 46,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PLASMA",
+    "category": "visor",
+    "image": "img/Visor_Fireball_Blue.png",
+    "menu_position": 47,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "Q-T",
+    "category": "visor",
+    "image": "img/Visor_Emoji_Pink.png",
+    "menu_position": 48,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LUCKY LOOK",
+    "category": "visor",
+    "image": "img/Visor_Lunar_Knot.png",
+    "menu_position": 49,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "LUNAR NEW YEAR BUNDLE"
+  },
+  {
+    "name": "SHELTER",
+    "category": "visor",
+    "image": "img/Visor_Occluded_01.png",
+    "menu_position": 50,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HIGH OCTANE",
+    "category": "visor",
+    "image": "img/Visor_Occluded_02.png",
+    "menu_position": 51,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DAMAGE REPORT",
+    "category": "visor",
+    "image": "img/Visor_Damaged_01.png",
+    "menu_position": 52,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CARAPACE",
+    "category": "visor",
+    "image": "img/Visor_Carapace_01.png",
+    "menu_position": 53,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ASEXUAL",
+    "category": "visor",
+    "image": "img/Visor_Pride_01.png",
+    "menu_position": 54,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "BISEXUAL",
+    "category": "visor",
+    "image": "img/Visor_Pride_02.png",
+    "menu_position": 55,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "LESBIAN",
+    "category": "visor",
+    "image": "img/Visor_Pride_03.png",
+    "menu_position": 56,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "NONBINARY",
+    "category": "visor",
+    "image": "img/Visor_Pride_04.png",
+    "menu_position": 57,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "PANSEXUAL",
+    "category": "visor",
+    "image": "img/Visor_Pride_05.png",
+    "menu_position": 58,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "TRANSGENDER",
+    "category": "visor",
+    "image": "img/Visor_Pride_06.png",
+    "menu_position": 59,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "LGBTQIA+",
+    "category": "visor",
+    "image": "img/Visor_Pride_07.png",
+    "menu_position": 60,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE"
+  },
+  {
+    "name": "ALLY",
+    "category": "visor",
+    "image": "img/Visor_Pride_08.png",
+    "menu_position": 61,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE II"
+  },
+  {
+    "name": "PROGRESS",
+    "category": "visor",
+    "image": "img/Visor_Pride_09.png",
+    "menu_position": 62,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PRIDE VISORS BUNDLE II"
+  },
+  {
+    "name": "EXO VI-ZN",
+    "category": "visor",
+    "image": "img/Visor_Occluded_03.png",
+    "menu_position": 63,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXO WRAP",
+    "category": "visor",
+    "image": "img/Visor_Angular_Stripes.png",
+    "menu_position": 64,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LORD ZEBRA",
+    "category": "visor",
+    "image": "img/Visor_Spiral.png",
+    "menu_position": 65,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "LORD LEO",
+    "category": "visor",
+    "image": "img/Visor_Spots.png",
+    "menu_position": 66,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "LORD CHECKERS",
+    "category": "visor",
+    "image": "img/Visor_Checkers.png",
+    "menu_position": 67,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "HUNTER",
+    "category": "visor",
+    "image": "img/Visor_Occluded_04.png",
+    "menu_position": 68,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "NOSEGRIND",
+    "category": "visor",
+    "image": "img/Visor_Skate_Stickers.png",
+    "menu_position": 69,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "DELTA WAVE",
+    "category": "visor",
+    "image": "img/Visor_Fireball_Green.png",
+    "menu_position": 70,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DARK STAR",
+    "category": "visor",
+    "image": "img/Visor_Fireball_Purple.png",
+    "menu_position": 71,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BIOHAZARD",
+    "category": "visor",
+    "image": "img/Visor_Carapace_02.png",
+    "menu_position": 72,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ERROR CODE",
+    "category": "visor",
+    "image": "img/Visor_Screen_Red_Error.png",
+    "menu_position": 73,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "EXO TECH BUNDLE"
+  },
+  {
+    "name": "SNOWGLOBE",
+    "category": "visor",
+    "image": "img/Visor_Snowglobe.png",
+    "menu_position": 74,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ARCTIC BUNDLE"
+  },
+  {
+    "name": "BNTY-HNTR",
+    "category": "visor",
+    "image": "img/Visor_Occluded_Prime_Orange.png",
+    "menu_position": 75,
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Unlocked by claiming as an Early Purchase Bonus for Nintendo Switch.",
+    "bundle_association": "POWER BUNDLE"
+  },
+  {
+    "name": "VALUABLE VIEW",
+    "category": "visor",
+    "image": "img/Visor_Gemstone_Cut_Green.png",
+    "menu_position": 76,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "bundle_association": "TUNIC BUNDLE"
+  },
+  {
+    "name": "MINONION",
+    "category": "visor",
+    "image": "img/Visor_Graphic_Leek.png",
+    "menu_position": 77,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "bundle_association": "SECRET LEEKS"
+  },
+  {
+    "name": "LORD DRAGON",
+    "category": "visor",
+    "image": "img/Visor_Dragon.png",
+    "menu_position": 78,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "LORD HYPNO",
+    "category": "visor",
+    "image": "img/Visor_Hypno.png",
+    "menu_position": 79,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code."
+  },
+  {
+    "name": "CLOUDY",
+    "category": "visor",
+    "image": "img/Visor_Clouds.png",
+    "menu_position": 80,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "POLLEN COUNT",
+    "category": "visor",
+    "image": "img/Visor_Pollen.png",
+    "menu_position": 81,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "ZINE",
+    "category": "visor",
+    "image": "img/Visor_Graphic_Buddy.png",
+    "menu_position": 82,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
+    "bundle_association": "OFF-PANEL BUNDLE"
+  },
+  {
+    "name": "EXTRA LIFE",
+    "category": "visor",
+    "image": "img/Visor_Occluded_ExtraLife.png",
+    "menu_position": 83,
+    "obtainment_method": "Special collection",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+  },
+  {
+    "name": "BAUBLEGUM",
+    "category": "visor",
+    "image": "img/Visor_Anniversary_1.png",
+    "menu_position": 84,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "BINARY VISION",
+    "category": "visor",
+    "image": "img/Visor_Binary_Vision.png",
+    "menu_position": 85,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DIGITAL DIMENSION BUNDLE"
+  },
+  {
+    "name": "ENVISION",
+    "category": "visor",
+    "image": "img/Visor_CptPlanet.png",
+    "menu_position": 86,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "HONEYDEW",
+    "category": "visor",
+    "image": "img/Visor_Honeycomb.png",
+    "menu_position": 87,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "BUMBLE BUNDLE"
+  },
+  {
+    "name": "EXTRA LIFE MK II",
+    "category": "visor",
+    "image": "img/Visor_Occluded_ExtraLife2.png",
+    "menu_position": 88,
+    "obtainment_method": "Special collection",
+    "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+  },
+  {
+    "name": "YARN WINDER",
+    "category": "visor",
+    "image": "img/Visor_KnittedSpiral.png",
+    "menu_position": 89,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "COZY TIME BUNDLE"
+  },
+  {
+    "name": "ETERNAL REVIEW",
+    "category": "visor",
+    "image": "img/Visor_Sacred_Pattern.png",
+    "menu_position": 90,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+  },
+  {
+    "name": "CIPHER SIGHT",
+    "category": "visor",
+    "image": "img/Visor_Glitch_Crack.png",
+    "menu_position": 91,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
+  },
+  {
+    "name": "GLITCH NEXUS",
+    "category": "visor",
+    "image": "img/Visor_XGW.png",
+    "menu_position": 92,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a special item code."
+  },
+  {
+    "name": "ION-EYEZ",
+    "category": "visor",
+    "image": "img/Visor_Radioactive.png",
+    "menu_position": 93,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "SPORE VISION",
+    "category": "visor",
+    "image": "img/Visor_Toadstool.png",
+    "menu_position": 94,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "FUNGUY BUNDLE"
+  },
+  {
+    "name": "VERDANT VISION",
+    "category": "visor",
+    "image": "img/Visor_Dryad.png",
+    "menu_position": 95,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SOLSTICE BUNDLE"
+  },
+  {
+    "name": "SPARKLE SIGHT",
+    "category": "visor",
+    "image": "img/Visor_diamond.png",
+    "menu_position": 96,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "PICK YOUR POISON",
+    "category": "visor",
+    "image": "img/Visor_PoisonApple.png",
+    "menu_position": 97,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "BLOODSHOT",
+    "category": "visor",
+    "image": "img/Visor_Vampire.png",
+    "menu_position": 98,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "D-SANGUINE-8"
+  },
+  {
+    "name": "COSMOSIS",
+    "category": "visor",
+    "image": "img/Visor_Jolly.png",
+    "menu_position": 99,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "Megatech",
+    "category": "visor",
+    "image": "img/Visor_Megatech.png",
+    "menu_position": 100,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+  },
+  {
+    "name": "Tableau",
+    "category": "visor",
+    "image": "img/Visor_Tableau.png",
+    "menu_position": 101,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by Printing the Museum."
+  },
+  {
+    "name": "NEXUS",
+    "category": "visor",
+    "image": "img/Visor_X.png",
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Available by default to Xbox One players."
+  },
+  {
+    "name": "ORBIS",
+    "category": "visor",
+    "image": "img/Visor_Shapes.png",
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Available by default to PS4 players."
+  },
+  {
+    "name": "SPLIT",
+    "category": "visor",
+    "image": "img/Visor_Split.png",
+    "obtainment_method": "Platform-specific",
+    "obtained_through": "Available by default to Nintendo Switch players."
+  },
+  {
+    "name": "NONE",
+    "category": "hat",
+    "image": "img/NoHat.png",
+    "menu_position": 1,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "HOLIDAY TOP HAT",
+    "category": "hat",
+    "image": "img/Hat_Tophat_Holiday.png",
+    "menu_position": 2,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving the EXO Dynamics community delivery goal."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK I",
+    "category": "hat",
+    "image": "img/Hat_Birthday_1.png",
+    "menu_position": 3,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's first anniversary."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK II",
+    "category": "hat",
+    "image": "img/Hat_Birthday_2.png",
+    "menu_position": 4,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's second anniversary."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK III",
+    "category": "hat",
+    "image": "img/Hat_Birthday_3.png",
+    "menu_position": 5,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's third anniversary."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK IV",
+    "category": "hat",
+    "image": "img/Hat_Birthday_4.png",
+    "menu_position": 6,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's fourth anniversary."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK V",
+    "category": "hat",
+    "image": "img/Hat_Birthday_5.png",
+    "menu_position": 7,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's fifth anniversary."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK VI",
+    "category": "hat",
+    "image": "img/Hat_Birthday_6.png",
+    "menu_position": 8,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's sixth anniversary."
+  },
+  {
+    "name": "ANNIVERSARY ITEM MK VII",
+    "category": "hat",
+    "image": "img/Hat_Birthday_7.png",
+    "menu_position": 9,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by celebrating Astroneer's seventh anniversary."
+  },
+  {
+    "name": "ANT-10A",
+    "category": "hat",
+    "image": "img/Hat_Antlers_Holiday.png",
+    "menu_position": 10,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BESPOKE BUCKET",
+    "category": "hat",
+    "image": "img/Hat_Bicycle.png",
+    "menu_position": 11,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "OUTFIELDER",
+    "category": "hat",
+    "image": "img/Hat_Cap.png",
+    "menu_position": 12,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PURRFECTION",
+    "category": "hat",
+    "image": "img/Hat_Cat_Ears.png",
+    "menu_position": 13,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CLUCKINATOR 500",
+    "category": "hat",
+    "image": "img/Hat_Chicken.png",
+    "menu_position": 14,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "UNDER CONSTRUCTION",
+    "category": "hat",
+    "image": "img/Hat_Construction.png",
+    "menu_position": 15,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DEEP SPACE DESPERADO",
+    "category": "hat",
+    "image": "img/Hat_Cowboy_1.png",
+    "menu_position": 16,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PARD'NER PACK"
+  },
+  {
+    "name": "TEN-GALLON TECH",
+    "category": "hat",
+    "image": "img/Hat_Cowboy_2.png",
+    "menu_position": 17,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PARD'NER PACK"
+  },
+  {
+    "name": "GOLDEN OPPORTUNITY",
+    "category": "hat",
+    "image": "img/Hat_Crown.png",
+    "menu_position": 18,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SEASONAL HELPER",
+    "category": "hat",
+    "image": "img/Hat_Elf_Holiday.png",
+    "menu_position": 19,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DEFENSIVE MEASURE",
+    "category": "hat",
+    "image": "img/Hat_Football.png",
+    "menu_position": 20,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ROBO RUDDER",
+    "category": "hat",
+    "image": "img/Hat_Mecha_Emblem.png",
+    "menu_position": 21,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ROCK-IT SHIPPER",
+    "category": "hat",
+    "image": "img/Hat_Headphones.png",
+    "menu_position": 22,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LAUGH TRACK",
+    "category": "hat",
+    "image": "img/Hat_Jester.png",
+    "menu_position": 23,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "STEERING STABILIZER",
+    "category": "hat",
+    "image": "img/Hat_Longhorn.png",
+    "menu_position": 24,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ALPHA CENTURION",
+    "category": "hat",
+    "image": "img/Hat_Mohawk.png",
+    "menu_position": 25,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "STUNT TEAM",
+    "category": "hat",
+    "image": "img/Hat_Motorcycle.png",
+    "menu_position": 26,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RAM ROD",
+    "category": "hat",
+    "image": "img/Hat_Ramhorn.png",
+    "menu_position": 27,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SOLAR SHIELD",
+    "category": "hat",
+    "image": "img/Hat_Conical.png",
+    "menu_position": 28,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FASTER BLASTER",
+    "category": "hat",
+    "image": "img/Hat_Mecha_Fin.png",
+    "menu_position": 29,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HYDRATION DEFLECTOR",
+    "category": "hat",
+    "image": "img/Hat_Umbrella.png",
+    "menu_position": 30,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "4ML A-TYRE",
+    "category": "hat",
+    "image": "img/Hat_Scrapper.png",
+    "menu_position": 31,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "BROADCAST BEACONS",
+    "category": "hat",
+    "image": "img/Hat_Radio_Antenna.png",
+    "menu_position": 32,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ARM-80",
+    "category": "hat",
+    "image": "img/Hat_buccaneer.png",
+    "menu_position": 33,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GRAD-U-8",
+    "category": "hat",
+    "image": "img/Hat_Graduation.png",
+    "menu_position": 34,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "AVANT GARDENER",
+    "category": "hat",
+    "image": "img/Hat_Flower_Pot.png",
+    "menu_position": 35,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "FLOWER POWER"
+  },
+  {
+    "name": "GEARHEAD",
+    "category": "hat",
+    "image": "img/Hat_CogHawk.png",
+    "menu_position": 36,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "HAIL TO THE LEAF",
+    "category": "hat",
+    "image": "img/Hat_Leaf.png",
+    "menu_position": 37,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ECHO LOCATORS",
+    "category": "hat",
+    "image": "img/Hat_Bat_Ears.png",
+    "menu_position": 38,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HALLOWED HELM",
+    "category": "hat",
+    "image": "img/Hat_Pumpkin.png",
+    "menu_position": 39,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "HOCUS POCUS",
+    "category": "hat",
+    "image": "img/Hat_Wizard.png",
+    "menu_position": 40,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ASTROMANCY BUNDLE"
+  },
+  {
+    "name": "AFR-0",
+    "category": "hat",
+    "image": "img/Hat_Afro.png",
+    "menu_position": 41,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FESTIVE CHAPBOW",
+    "category": "hat",
+    "image": "img/Hat_Bow_Holiday.png",
+    "menu_position": 42,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving the EXO Dynamics community delivery goal.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "CANDY CROWN",
+    "category": "hat",
+    "image": "img/Hat_Crown_Gumdrop.png",
+    "menu_position": 43,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "GINGERBREAD BUNDLE"
+  },
+  {
+    "name": "ORBITAL HEADLAMP",
+    "category": "hat",
+    "image": "img/Hat_Halo.png",
+    "menu_position": 44,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MOON RABBIT",
+    "category": "hat",
+    "image": "img/Hat_Mecha_Pigtails.png",
+    "menu_position": 45,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FINAL FORM",
+    "category": "hat",
+    "image": "img/Hat_Hair_Spiky.png",
+    "menu_position": 46,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LUNAR LAMP",
+    "category": "hat",
+    "image": "img/Hat_Lunar_Lantern.png",
+    "menu_position": 47,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "LUNAR NEW YEAR BUNDLE"
+  },
+  {
+    "name": "WIRED",
+    "category": "hat",
+    "image": "img/Hat_Cable_Hair.png",
+    "menu_position": 48,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "G2T-CHOPPER",
+    "category": "hat",
+    "image": "img/Hat_Propeller.png",
+    "menu_position": 49,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PRIME TIME",
+    "category": "hat",
+    "image": "img/Hat_Mecha_Crown.png",
+    "menu_position": 50,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TAILWIND",
+    "category": "hat",
+    "image": "img/Hat_Aero_Fin.png",
+    "menu_position": 51,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MUTATION",
+    "category": "hat",
+    "image": "img/Hat_FungusTendril.png",
+    "menu_position": 52,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LONG HAUL",
+    "category": "hat",
+    "image": "img/Hat_Mecha_Trucker.png",
+    "menu_position": 53,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HEAD LIGHTS",
+    "category": "hat",
+    "image": "img/Hat_LandingLights.png",
+    "menu_position": 54,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CRUISE CONTROL",
+    "category": "hat",
+    "image": "img/Hat_Captain.png",
+    "menu_position": 55,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "EXHAUSTED",
+    "category": "hat",
+    "image": "img/Hat_Exhaust.png",
+    "menu_position": 56,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ASTRODOME",
+    "category": "hat",
+    "image": "img/Hat_Bowler.png",
+    "menu_position": 57,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "REMIX",
+    "category": "hat",
+    "image": "img/Hat_Headphones_Lofi.png",
+    "menu_position": 58,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "bundle_association": "WIP"
+  },
+  {
+    "name": "HONEST LIVING",
+    "category": "hat",
+    "image": "img/Hat_Straw.png",
+    "menu_position": 59,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "ELEMENTARY",
+    "category": "hat",
+    "image": "img/Hat_Deer_Stalker.png",
+    "menu_position": 60,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GUIDING LITE",
+    "category": "hat",
+    "image": "img/Hat_FishAngler.png",
+    "menu_position": 61,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DEEP SPACE DIVER BUNDLE"
+  },
+  {
+    "name": "EMERGENCY LAMP",
+    "category": "hat",
+    "image": "img/Hat_Emergency_Light.png",
+    "menu_position": 62,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FASCINATING",
+    "category": "hat",
+    "image": "img/Hat_Fascinator.png",
+    "menu_position": 63,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "JACKED IN",
+    "category": "hat",
+    "image": "img/Hat_Cable_Ribbon.png",
+    "menu_position": 64,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "THE FEZHANT",
+    "category": "hat",
+    "image": "img/Hat_Fez.png",
+    "menu_position": 65,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "CONTROL UNIT",
+    "category": "hat",
+    "image": "img/Hat_Mecha_Crab.png",
+    "menu_position": 66,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "EXO TECH BUNDLE"
+  },
+  {
+    "name": "ENCRYPTID CREEPERS",
+    "category": "hat",
+    "image": "img/Hat_Moth_Antenna.png",
+    "menu_position": 67,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "STRANGE SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Atrox.png",
+    "menu_position": 68,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPICY SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Calidor.png",
+    "menu_position": 69,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LUNAR SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Desolo.png",
+    "menu_position": 70,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CHILLY SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Glacio.png",
+    "menu_position": 71,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SWEET SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Novus.png",
+    "menu_position": 72,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FRIENDLY SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Sylva.png",
+    "menu_position": 73,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FANCY SHELL",
+    "category": "hat",
+    "image": "img/Hat_Snail_Shell_Vesania.png",
+    "menu_position": 74,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "WINTER COURTIER",
+    "category": "hat",
+    "image": "img/Hat_Crown_Snowflake.png",
+    "menu_position": 75,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ARCTIC BUNDLE"
+  },
+  {
+    "name": "EXTRA EYE",
+    "category": "hat",
+    "image": "img/Hat_Third_Eye.png",
+    "menu_position": 76,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BOREAL BEANIE",
+    "category": "hat",
+    "image": "img/Hat_Beanie.png",
+    "menu_position": 77,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE, SNAIL FARMER"
+  },
+  {
+    "name": "SECRET STALK",
+    "category": "hat",
+    "image": "img/Hat_Leek.png",
+    "menu_position": 78,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "bundle_association": "SECRET LEEKS"
+  },
+  {
+    "name": "CO-N3",
+    "category": "hat",
+    "image": "img/Hat_Cone_Traffic.png",
+    "menu_position": 79,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "GALASTRO CAP",
+    "category": "hat",
+    "image": "img/Hat_Snail_Farmer.png",
+    "menu_position": 80,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "EXHAUST PORT",
+    "category": "hat",
+    "image": "img/Hat_SmokeStack.png",
+    "menu_position": 81,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "QUICK THINKING",
+    "category": "hat",
+    "image": "img/Hat_HotRod.png",
+    "menu_position": 82,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BRAIN BUDDY",
+    "category": "hat",
+    "image": "img/Hat_BrainSlug.png",
+    "menu_position": 83,
+    "obtainment_method": "Code redemption",
+    "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+  },
+  {
+    "name": "LITTLE PRINCE",
+    "category": "hat",
+    "image": "img/Hat_Crown_Chronos.png",
+    "menu_position": 84,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by helping an old friend fulfill their purpose."
+  },
+  {
+    "name": "FIRST IMPACT",
+    "category": "hat",
+    "image": "img/Hat_Nubs.png",
+    "menu_position": 85,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "SEASONAL ALLURE",
+    "category": "hat",
+    "image": "img/Hat_Holiday_Mistletoe.png",
+    "menu_position": 86,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "ASTROLABE",
+    "category": "hat",
+    "image": "img/Hat_ArmillarySphere.png",
+    "menu_position": 87,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "TYCHOMANCY BUNDLE"
+  },
+  {
+    "name": "EXPLOSIVE PERSONALITY",
+    "category": "hat",
+    "image": "img/Hat_Anniversary_1.png",
+    "menu_position": 88,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "FEELERS",
+    "category": "hat",
+    "image": "img/Hat_Antennae.png",
+    "menu_position": 89,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "BUMBLE BUNDLE"
+  },
+  {
+    "name": "CAPTAIN'S C01-F",
+    "category": "hat",
+    "image": "img/Hat_Mullet.png",
+    "menu_position": 90,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "LOOKING SHARP",
+    "category": "hat",
+    "image": "img/Hat_Looking_Sharp.png",
+    "menu_position": 91,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DRAGON'S HOARD"
+  },
+  {
+    "name": "HAKR HAWK",
+    "category": "hat",
+    "image": "img/Hat_PunkHawk.png",
+    "menu_position": 92,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "GL!TCHPUNK"
+  },
+  {
+    "name": "COG-NITION",
+    "category": "hat",
+    "image": "img/Hat_Cog-nition.png",
+    "menu_position": 93,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "HORN OF PLENTY",
+    "category": "hat",
+    "image": "img/Hat_Horn_of_Plenty.png",
+    "menu_position": 94,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "LAB LEAK",
+    "category": "hat",
+    "image": "img/Hat_Ooze.png",
+    "menu_position": 95,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "AMANITA MINUTE",
+    "category": "hat",
+    "image": "img/Hat_Toadstool.png",
+    "menu_position": 96,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "FUNGUY BUNDLE"
+  },
+  {
+    "name": "BUCK UP",
+    "category": "hat",
+    "image": "img/Hat_Dryad.png",
+    "menu_position": 97,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "SOLSTICE BUNDLE"
+  },
+  {
+    "name": "STEM THE TIDE",
+    "category": "hat",
+    "image": "img/Hat_PoisonApple.png",
+    "menu_position": 98,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "NIGHT COWL",
+    "category": "hat",
+    "image": "img/Hat_Vampire.png",
+    "menu_position": 99,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "D-SANGUINE-8"
+  },
+  {
+    "name": "LIGHT HEADED",
+    "category": "hat",
+    "image": "img/Hat_Jolly.png",
+    "menu_position": 100,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "ICEBREAKER",
+    "category": "hat",
+    "image": "img/Hat_IceKnight.png",
+    "menu_position": 101,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ALL-KNIGHTER"
+  },
+  {
+    "name": "Construction 2",
+    "category": "hat",
+    "image": "img/Hat_Construction_2.png",
+    "menu_position": 102,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by Printing a second Megastructure."
+  },
+  {
+    "name": "Sunflower",
+    "category": "hat",
+    "image": "img/Hat_Sunflower.png",
+    "menu_position": 103,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by Printing a Biodome."
+  },
+  {
+    "name": "NONE",
+    "category": "mask",
+    "image": "img/NoMask.png",
+    "menu_position": 1,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "FROSTY",
+    "category": "mask",
+    "image": "img/Mask_Snowman.png",
+    "menu_position": 2,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "NO-SCOP3",
+    "category": "mask",
+    "image": "img/Mask_ArmorVisor.png",
+    "menu_position": 3,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPORT PORT",
+    "category": "mask",
+    "image": "img/Mask_CageMask.png",
+    "menu_position": 4,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PURRFESSOR",
+    "category": "mask",
+    "image": "img/Mask_CatWhiskers.png",
+    "menu_position": 5,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "THE BEAKER",
+    "category": "mask",
+    "image": "img/Mask_Chicken.png",
+    "menu_position": 6,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "QUACKERS",
+    "category": "mask",
+    "image": "img/Mask_Duck.png",
+    "menu_position": 7,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MOUTH BREATHER",
+    "category": "mask",
+    "image": "img/Mask_GasMask.png",
+    "menu_position": 8,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RAY GONNS",
+    "category": "mask",
+    "image": "img/Mask_Goggles.png",
+    "menu_position": 9,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SECRET STASHE",
+    "category": "mask",
+    "image": "img/Mask_Mustache.png",
+    "menu_position": 10,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SHADOW SCIENCE",
+    "category": "mask",
+    "image": "img/Mask_Ninja.png",
+    "menu_position": 11,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "NOT-A-TUBA",
+    "category": "mask",
+    "image": "img/Mask_RhinoHorn.png",
+    "menu_position": 12,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FORGE AHEAD",
+    "category": "mask",
+    "image": "img/Mask_ScanVisor.png",
+    "menu_position": 13,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "OVR-9000",
+    "category": "mask",
+    "image": "img/Mask_Scouter.png",
+    "menu_position": 14,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SUN OUT / FUN OUT",
+    "category": "mask",
+    "image": "img/Mask_Sunglasses.png",
+    "menu_position": 15,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "10,000 BC",
+    "category": "mask",
+    "image": "img/Mask_Tusks.png",
+    "menu_position": 16,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "WILD HUNT",
+    "category": "mask",
+    "image": "img/Mask_UnicornHorn.png",
+    "menu_position": 17,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MICRO MANAGER",
+    "category": "mask",
+    "image": "img/Mask_WeldGoggles.png",
+    "menu_position": 18,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SAFETY PROTOCOL",
+    "category": "mask",
+    "image": "img/Mask_WeldMask.png",
+    "menu_position": 19,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TURRET-A-PORTER",
+    "category": "mask",
+    "image": "img/Mask_ScrapperVisor.png",
+    "menu_position": 20,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "ESCAPE PATCH",
+    "category": "mask",
+    "image": "img/Mask_EyePatch.png",
+    "menu_position": 21,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CORRECTIVE VISION",
+    "category": "mask",
+    "image": "img/Mask_Readingglasses.png",
+    "menu_position": 22,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SOLAR POWER",
+    "category": "mask",
+    "image": "img/Mask_Sunflower.png",
+    "menu_position": 23,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "FLOWER POWER"
+  },
+  {
+    "name": "VR VISION",
+    "category": "mask",
+    "image": "img/Mask_SafetyGoggles.png",
+    "menu_position": 24,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "WILD CHILD",
+    "category": "mask",
+    "image": "img/Mask_Leaf.png",
+    "menu_position": 25,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BUGGED OUT",
+    "category": "mask",
+    "image": "img/Mask_BugEyes.png",
+    "menu_position": 26,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPACE COWBOY",
+    "category": "mask",
+    "image": "img/Mask_Bandana.png",
+    "menu_position": 27,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PARD'NER PACK"
+  },
+  {
+    "name": "CREEPY CROW",
+    "category": "mask",
+    "image": "img/Mask_CrowSkull.png",
+    "menu_position": 28,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FACE CUDDLER",
+    "category": "mask",
+    "image": "img/Mask_Spider.png",
+    "menu_position": 29,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PERSONAL GROWTH",
+    "category": "mask",
+    "image": "img/Mask_Beard_Short.png",
+    "menu_position": 30,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SNOWDRIFTERS",
+    "category": "mask",
+    "image": "img/Mask_SnowGoggles.png",
+    "menu_position": 31,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FESTIVE FRINGE",
+    "category": "mask",
+    "image": "img/Mask_Wreath.png",
+    "menu_position": 32,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "R.S.V.P",
+    "category": "mask",
+    "image": "img/Mask_Bowtie.png",
+    "menu_position": 33,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "APERTURE",
+    "category": "mask",
+    "image": "img/Mask_Aperture.png",
+    "menu_position": 34,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GUARDIAN",
+    "category": "mask",
+    "image": "img/Mask_Mecha_Diadem.png",
+    "menu_position": 35,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FANDOM",
+    "category": "mask",
+    "image": "img/Mask_JetEngine.png",
+    "menu_position": 36,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANGER ZONE",
+    "category": "mask",
+    "image": "img/Mask_Aero_Sunglasses.png",
+    "menu_position": 37,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DUAL MONITOR",
+    "category": "mask",
+    "image": "img/Mask_DualMonitor.png",
+    "menu_position": 38,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CONTAINMENT BREACH",
+    "category": "mask",
+    "image": "img/Mask_Fungus.png",
+    "menu_position": 39,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HORNED",
+    "category": "mask",
+    "image": "img/Mask_BugHorns.png",
+    "menu_position": 40,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SPIKED",
+    "category": "mask",
+    "image": "img/Mask_BugHorns_2.png",
+    "menu_position": 41,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RECRUIT",
+    "category": "mask",
+    "image": "img/Mask_Headband_Recruit.png",
+    "menu_position": 42,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "COGPIECE",
+    "category": "mask",
+    "image": "img/Mask_Cog_Monocle.png",
+    "menu_position": 43,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "CLOSER LOOK",
+    "category": "mask",
+    "image": "img/Mask_Aero_Drone.png",
+    "menu_position": 44,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "WHEAT TWEAT",
+    "category": "mask",
+    "image": "img/Mask_WheatStalk.png",
+    "menu_position": 45,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GRAZERS",
+    "category": "mask",
+    "image": "img/Mask_BugHorns_3.png",
+    "menu_position": 46,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "QUID PRO QUO",
+    "category": "mask",
+    "image": "img/Mask_DeathMoth.png",
+    "menu_position": 47,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "3X3 EYE",
+    "category": "mask",
+    "image": "img/Mask_FishAngler.png",
+    "menu_position": 48,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DEEP SPACE DIVER BUNDLE"
+  },
+  {
+    "name": "SAFETY NET",
+    "category": "mask",
+    "image": "img/Mask_Cage_Loader.png",
+    "menu_position": 49,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FRIENDLY FACE",
+    "category": "mask",
+    "image": "img/Mask_Snail_Face.png",
+    "menu_position": 50,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LANDING LIGHT",
+    "category": "mask",
+    "image": "img/Mask_RedNose.png",
+    "menu_position": 51,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PUDDING WARMER",
+    "category": "mask",
+    "image": "img/Mask_Scarf.png",
+    "menu_position": 52,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "COW PLOW",
+    "category": "mask",
+    "image": "img/Mask_RailGuard.png",
+    "menu_position": 53,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MECHA SNAIL",
+    "category": "mask",
+    "image": "img/Mask_Mecha_Snail.png",
+    "menu_position": 54,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HEAVEN-SCENT",
+    "category": "mask",
+    "image": "img/Mask_GoldenNose.png",
+    "menu_position": 55,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "TYCHOMANCY BUNDLE"
+  },
+  {
+    "name": "V TECH",
+    "category": "mask",
+    "image": "img/Mask_VTech.png",
+    "menu_position": 56,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "THE ONE",
+    "category": "mask",
+    "image": "img/Mask_Neo_Sunglasses.png",
+    "menu_position": 57,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DIGITAL DIMENSION BUNDLE"
+  },
+  {
+    "name": "FIREBREATHER",
+    "category": "mask",
+    "image": "img/Mask_Firebreather.png",
+    "menu_position": 58,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "DRAGON'S HOARD"
+  },
+  {
+    "name": "RESPIR-8",
+    "category": "mask",
+    "image": "img/Mask_Respir-8.png",
+    "menu_position": 59,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "X-OUT",
+    "category": "mask",
+    "image": "img/Mask_Xsmile.png",
+    "menu_position": 60,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "GL!TCHPUNK"
+  },
+  {
+    "name": "SUR+",
+    "category": "mask",
+    "image": "img/Mask_Sur+.png",
+    "menu_position": 61,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "CUTE-AS-A",
+    "category": "mask",
+    "image": "img/Mask_ButtonEyes.png",
+    "menu_position": 62,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "COZY TIME BUNDLE"
+  },
+  {
+    "name": "HOLO-UMET",
+    "category": "mask",
+    "image": "img/Mask_Glitchwalker.png",
+    "menu_position": 63,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
+  },
+  {
+    "name": "MULTI-FACETED",
+    "category": "mask",
+    "image": "img/Mask_Diamond.png",
+    "menu_position": 64,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified."
+  },
+  {
+    "name": "BRAVE FACE",
+    "category": "mask",
+    "image": "img/Mask_IceKnight.png",
+    "menu_position": 65,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ALL-KNIGHTER"
+  },
+  {
+    "name": "Megatech",
+    "category": "mask",
+    "image": "img/Mask_Megatech.png",
+    "menu_position": 66,
+    "obtainment_method": "DLC",
+    "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+  },
+  {
+    "name": "Wires",
+    "category": "mask",
+    "image": "img/Mask_Wires.png",
+    "menu_position": 67,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by completing the Interplanetary Megastructure Initiative Training Module!."
+  },
+  {
+    "name": "JUMP FOR JOY",
+    "category": "emote",
+    "image": "img/JumpForJoy.png",
+    "menu_position": 1,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "WAVE",
+    "category": "emote",
+    "image": "img/Wave.png",
+    "menu_position": 2,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "BECKON",
+    "category": "emote",
+    "image": "img/Beckon.png",
+    "menu_position": 3,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "CONFUSED",
+    "category": "emote",
+    "image": "img/Confused.png",
+    "menu_position": 4,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "YES",
+    "category": "emote",
+    "image": "img/Yes.png",
+    "menu_position": 5,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "NO",
+    "category": "emote",
+    "image": "img/No.png",
+    "menu_position": 6,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "DANCE: LITTLE KICKS",
+    "category": "emote",
+    "image": "img/Dance_Awkward.png",
+    "menu_position": 7,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Galactic Boogaloo."
+  },
+  {
+    "name": "DANCE: BANKS SWAY",
+    "category": "emote",
+    "image": "img/Dance_Banks.png",
+    "menu_position": 8,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Sylva Awakened."
+  },
+  {
+    "name": "DANCE: POULTRY POLKA",
+    "category": "emote",
+    "image": "img/Dance_Chicken.png",
+    "menu_position": 9,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "DANCE: CRISP PRINCESS",
+    "category": "emote",
+    "image": "img/Dance_CrispPrincess.png",
+    "menu_position": 10,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Atrox Awakened."
+  },
+  {
+    "name": "DANCE: UNTOUCHABLE",
+    "category": "emote",
+    "image": "img/Dance_Hammer.png",
+    "menu_position": 11,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "DANCE: BREAKIN'",
+    "category": "emote",
+    "image": "img/Dance_Headspin.png",
+    "menu_position": 12,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Vesania Awakened."
+  },
+  {
+    "name": "DANCE: ASTRO STYLE",
+    "category": "emote",
+    "image": "img/Dance_Horsey.png",
+    "menu_position": 13,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Novus Awakened."
+  },
+  {
+    "name": "DANCE: LONE MISSUS",
+    "category": "emote",
+    "image": "img/Dance_LoneMissus.png",
+    "menu_position": 14,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Calidor Awakened."
+  },
+  {
+    "name": "DANCE: MASH IT UP",
+    "category": "emote",
+    "image": "img/Dance_MashedPotato.png",
+    "menu_position": 15,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Desolo Awakened."
+  },
+  {
+    "name": "DANCE: LUNAR SLIDE",
+    "category": "emote",
+    "image": "img/Dance_Moonwalk.png",
+    "menu_position": 16,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "DANCE: DANCE NOBILITY",
+    "category": "emote",
+    "image": "img/Dance_RiverDance.png",
+    "menu_position": 17,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: Glacio Awakened."
+  },
+  {
+    "name": "DANCE: RUNNING TIME",
+    "category": "emote",
+    "image": "img/Dance_RunningGuy.png",
+    "menu_position": 18,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "DANCE: TWIST IT UP",
+    "category": "emote",
+    "image": "img/Dance_Twist.png",
+    "menu_position": 19,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: ...And Beyond."
+  },
+  {
+    "name": "DANCE: SHAKEFIELD",
+    "category": "emote",
+    "image": "img/Dance_Whut.png",
+    "menu_position": 20,
+    "obtainment_method": "Available to all",
+    "obtained_through": "Available by default."
+  },
+  {
+    "name": "TAKE A PICTURE",
+    "category": "emote",
+    "image": "img/Picture.png",
+    "menu_position": 21,
+    "obtainment_method": "Achievement",
+    "obtained_through": "Achievement: The Wanderer's Way."
+  },
+  {
+    "name": "CHEST BUMP",
+    "category": "emote",
+    "image": "img/ChestBump.png",
+    "menu_position": 22,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "ROCK/PAPER/SCISSORS",
+    "category": "emote",
+    "image": "img/RockPaperScissors.png",
+    "menu_position": 23,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FACE PALM",
+    "category": "emote",
+    "image": "img/FacePalm.png",
+    "menu_position": 24,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: FIST PUMP",
+    "category": "emote",
+    "image": "img/Dance_FistPump.png",
+    "menu_position": 25,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FORWARD FLIP",
+    "category": "emote",
+    "image": "img/Flip.png",
+    "menu_position": 26,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SELFIE",
+    "category": "emote",
+    "image": "img/Selfie.png",
+    "menu_position": 27,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: RAG DOLL",
+    "category": "emote",
+    "image": "img/Dance_RagDoll.png",
+    "menu_position": 28,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: ROBOT",
+    "category": "emote",
+    "image": "img/Dance_Robot.png",
+    "menu_position": 29,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "ROBOT BUNDLE"
+  },
+  {
+    "name": "TA-DA!",
+    "category": "emote",
+    "image": "img/Present.png",
+    "menu_position": 30,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "KITTY CLEANING",
+    "category": "emote",
+    "image": "img/CatClean.png",
+    "menu_position": 31,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "POSE OF POWER",
+    "category": "emote",
+    "image": "img/PowerPose.png",
+    "menu_position": 32,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DAB",
+    "category": "emote",
+    "image": "img/Dab.png",
+    "menu_position": 33,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FINGER GUNS",
+    "category": "emote",
+    "image": "img/FingerGuns.png",
+    "menu_position": 34,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "bundle_association": "PARD'NER PACK"
+  },
+  {
+    "name": "JUMPING JACKS",
+    "category": "emote",
+    "image": "img/JumpJacks.png",
+    "menu_position": 35,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "JUMP SHOT",
+    "category": "emote",
+    "image": "img/JumpShot.png",
+    "menu_position": 36,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "TOUCHDOWN",
+    "category": "emote",
+    "image": "img/FieldGoalGood.png",
+    "menu_position": 37,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "RED CARD",
+    "category": "emote",
+    "image": "img/RedCard.png",
+    "menu_position": 38,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "JUMP SCARE",
+    "category": "emote",
+    "image": "img/JumpScare.png",
+    "menu_position": 39,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: AIR BASS",
+    "category": "emote",
+    "image": "img/Dance_AirBass.png",
+    "menu_position": 40,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: AIR DRUMS",
+    "category": "emote",
+    "image": "img/Dance_AirDrum.png",
+    "menu_position": 41,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: AIR GUITAR",
+    "category": "emote",
+    "image": "img/Dance_AirGuitar.png",
+    "menu_position": 42,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: AIR UKULELE",
+    "category": "emote",
+    "image": "img/Dance_Uke.png",
+    "menu_position": 43,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HIGH FIVE",
+    "category": "emote",
+    "image": "img/HighFive.png",
+    "menu_position": 44,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "PEEKA-BOO!",
+    "category": "emote",
+    "image": "img/PeekaBoo.png",
+    "menu_position": 45,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "APPLAUSE",
+    "category": "emote",
+    "image": "img/Applaude.png",
+    "menu_position": 46,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MIND BLOWN",
+    "category": "emote",
+    "image": "img/MindBlown.png",
+    "menu_position": 47,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GIDDY CLAPPING",
+    "category": "emote",
+    "image": "img/GiddyClapping.png",
+    "menu_position": 48,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "MAKE SOME NOISE!",
+    "category": "emote",
+    "image": "img/NoiseMaker.png",
+    "menu_position": 49,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "POWER UP",
+    "category": "emote",
+    "image": "img/PowerUp.png",
+    "menu_position": 50,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LUNAR SALUTE",
+    "category": "emote",
+    "image": "img/Punish.png",
+    "menu_position": 51,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SENTAI",
+    "category": "emote",
+    "image": "img/Sentai.png",
+    "menu_position": 52,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FLAG WAVE",
+    "category": "emote",
+    "image": "img/FlagWave.png",
+    "menu_position": 53,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "KAIJU KICK",
+    "category": "emote",
+    "image": "img/KaijuKick.png",
+    "menu_position": 54,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "CHEST THUMP",
+    "category": "emote",
+    "image": "img/ChestThump.png",
+    "menu_position": 55,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "HEART",
+    "category": "emote",
+    "image": "img/Heart.png",
+    "menu_position": 56,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "SILLY SALUTE",
+    "category": "emote",
+    "image": "img/SillySalute.png",
+    "menu_position": 57,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GUN SHOW",
+    "category": "emote",
+    "image": "img/GunShow.png",
+    "menu_position": 58,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "IMAGINATE!",
+    "category": "emote",
+    "image": "img/Imaginate.png",
+    "menu_position": 59,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "FISH",
+    "category": "emote",
+    "image": "img/Fish.png",
+    "menu_position": 60,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: CHILD SHOW",
+    "category": "emote",
+    "image": "img/Dance_ChildShow.png",
+    "menu_position": 61,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "BROOM SWEEP",
+    "category": "emote",
+    "image": "img/BroomSweep.png",
+    "menu_position": 62,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "DANCE: GIDDYUP",
+    "category": "emote",
+    "image": "img/Dance_SquareDance.png",
+    "menu_position": 63,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "RIGHT IN THE FEELS",
+    "category": "emote",
+    "image": "img/GrabHeartAndStagger.png",
+    "menu_position": 64,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "GREET THE DAWN",
+    "category": "emote",
+    "image": "img/GreetTheDawn.png",
+    "menu_position": 65,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "THANKS",
+    "category": "emote",
+    "image": "img/ThankYou.png",
+    "menu_position": 66,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "LAUGH AND CRY",
+    "category": "emote",
+    "image": "img/LaughAndCry.png",
+    "menu_position": 67,
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  },
+  {
+    "name": "STOP SIGN",
+    "category": "emote",
+    "image": "img/StopSign.png",
+    "menu_position": 68,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "SALVAGE THROWBACK BUNDLE"
+  },
+  {
+    "name": "THINKING",
+    "category": "emote",
+    "image": "img/Thinking.png",
+    "menu_position": 69,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "AMPP THROWBACK BUNDLE"
+  },
+  {
+    "name": "TRAIN WHISTLE",
+    "category": "emote",
+    "image": "img/TrainWhistle.png",
+    "menu_position": 70,
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by confirming the final Logistics Depot shipment."
+  },
+  {
+    "name": "LEAF LEAP",
+    "category": "emote",
+    "image": "img/LeafPile.png",
+    "menu_position": 71,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "BIOFUEL THROWBACK BUNDLE"
+  },
+  {
+    "name": "SHIVER",
+    "category": "emote",
+    "image": "img/Shiver.png",
+    "menu_position": 72,
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtainment_details": "Exact event/date not specified.",
+    "bundle_association": "HOLIDAY THROWBACK BUNDLE"
+  },
+  {
+    "name": "DIZZY",
+    "category": "emote",
+    "image": "img/Dizzy.png",
+    "menu_position": 73,
+    "obtainment_method": "Unknown",
+    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+  },
+  {
+    "name": "T POSE",
+    "category": "emote",
+    "image": "img/TPose.png",
+    "obtainment_method": "Store",
+    "obtained_through": "Purchased from EXO Outfitters Store."
+  }
+]

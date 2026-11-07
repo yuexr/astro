@@ -1,0 +1,420 @@
+/* Filters */
+
+.customization-filters {
+  grid-template-columns: minmax(110px, 1fr) minmax(145px, 1fr) minmax(165px, 1fr) 100px auto;
+}
+
+.customization-filters .list-search {
+  grid-column: 1 / -1;
+}
+
+/* Image cards */
+
+.customization-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.customization-card {
+  position: relative;
+  min-width: 0;
+  padding: 13px;
+  border: 1px solid #e3eaf4;
+  background: linear-gradient(180deg, #f1f8ff, white 170px);
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.customization-card:hover,
+.customization-card:focus-within {
+  transform: translateY(-2px);
+  border-color: var(--yellow);
+  box-shadow: 0 4px 12px #33517e12;
+}
+
+.customization-store {
+  position: absolute;
+  top: -1px;
+  right: 12px;
+  display: grid;
+  justify-items: center;
+  width: 28px;
+  height: 34px;
+  padding-top: 4px;
+  border-radius: 0 0 14px 14px;
+  background: var(--blue);
+  pointer-events: none;
+}
+
+.customization-store::before {
+  content: '';
+  width: 17px;
+  height: 17px;
+  background: white;
+  mask: url('img/ui_icon_menu_store.png') center / contain no-repeat;
+}
+
+.catalog .customization-open,
+.catalog .customization-open:hover:not(:disabled) {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.customization-art {
+  --art-size: 128px;
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: var(--art-size);
+  max-width: 100%;
+  height: var(--art-size);
+  margin: 0 auto 12px;
+  overflow: hidden;
+}
+
+.customization-art img {
+  display: block;
+  width: var(--art-size);
+  height: var(--art-size);
+  max-width: 100%;
+  margin: 0;
+  object-fit: contain;
+  transform: translateY(4px) scale(1.15);
+}
+
+.customization-art.is-none img {
+  opacity: 0;
+}
+
+.customization-art.is-none::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--blue);
+  mask: var(--icon) center / 84px 84px no-repeat;
+  transform: translateY(-6px);
+}
+
+.customization-category {
+  color: var(--blue);
+  font:
+    700 12px/16px Astroneer,
+    sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+
+}
+
+.paper .customization-card h3 {
+  color: var(--navy);
+  font-size: 18px;
+  line-height: 18px;
+  padding-bottom: 4px;
+  overflow-wrap: anywhere;
+}
+
+.customization-methods {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.customization-method {
+  max-width: 100%;
+  padding: 3px 10px;
+  border-radius: 12px;
+  background: #eceff3;
+  color: #606b78;
+  font:
+    300 12px/16px Roboto,
+    sans-serif;
+  overflow-wrap: anywhere;
+}
+
+.customization-method[data-method='Available to all'] {
+  background: #e1effb;
+  color: #33517e;
+}
+
+.customization-method[data-method='Achievement'] {
+  background: #dff3e6;
+  color: #326546;
+}
+
+.customization-method[data-method='Code redemption'] {
+  background: #eee3fa;
+  color: #6d478c;
+}
+
+.customization-method[data-method='Event'] {
+  background: #fbe0ef;
+  color: #9c4178;
+}
+
+.customization-method[data-method='In-game unlock'] {
+  background: #dcf2f5;
+  color: #2a6571;
+}
+
+.customization-method[data-method='Platform-specific'] {
+  background: #e4e7fc;
+  color: #535e96;
+}
+
+.customization-method[data-method='Special collection'] {
+  background: #fff0c6;
+  color: #83601a;
+}
+
+.customization-method[data-method='Store'] {
+  background: #d9edff;
+  color: #206fa8;
+}
+
+.customization-method[data-method='DLC'] {
+  background: #ffe5d6;
+  color: #995125;
+}
+
+/* Item details */
+
+.customization-popup {
+  width: min(760px, calc(100vw - 40px));
+  max-height: calc(100vh - 64px);
+  overflow-y: auto;
+  padding: 32px;
+  border: 0;
+  background: white;
+  color: var(--body);
+  box-shadow: 8px 12px 40px #24395a40;
+  font:
+    300 14px/21px Roboto,
+    sans-serif;
+}
+
+.customization-popup::backdrop {
+  background: #27385199;
+  backdrop-filter: blur(4px);
+}
+
+.customization-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 0;
+  background: #e9f5ff;
+  color: var(--navy);
+  font:
+    24px/32px Roboto,
+    sans-serif;
+  cursor: pointer;
+}
+
+.customization-close:hover {
+  background: var(--purple);
+  color: white;
+}
+
+.customization-close:focus-visible {
+  outline: 2px solid var(--purple);
+  outline-offset: 3px;
+}
+
+.customization-detail {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  gap: 28px;
+}
+
+.customization-popup .customization-art {
+  --art-size: 200px;
+  margin: 0;
+  background: #f1f8ff;
+}
+
+.customization-popup .customization-art img {
+  transform: none;
+}
+
+.customization-popup .is-none::after {
+  mask-size: 120px 120px;
+}
+
+.customization-popup h2 {
+  margin: 2px 0 12px 0;
+  color: var(--navy);
+  font-size: 28px;
+}
+
+.customization-popup p {
+  margin: 0 0 14px;
+}
+
+.customization-popup h3 {
+  margin: 20px 0 8px;
+  color: var(--blue);
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.customization-popup dl {
+  margin: 0;
+}
+
+.customization-popup dl > div {
+  display: grid;
+  grid-template-columns: 125px minmax(0, 1fr);
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #e7eaf2;
+}
+
+.customization-popup dt {
+  color: var(--navy);
+  font-weight: 700;
+}
+
+.customization-popup dd {
+  margin: 0;
+}
+
+.customization-bundle {
+  margin-bottom: 8px;
+  padding: 10px 12px;
+  background: #f1f8ff;
+}
+
+.customization-bundle h4 {
+  margin: 0 0 4px;
+  color: var(--navy);
+  font:
+    700 16px/20px Astroneer,
+    sans-serif;
+}
+
+.customization-bundle p {
+  margin: 0;
+}
+
+.customization-bundle small {
+  display: block;
+  color: #81899a;
+}
+
+.customization-bundle > a {
+  display: inline-block;
+  margin-top: 8px;
+}
+
+.customization-offer-contents {
+  margin-top: 8px;
+}
+
+.customization-offer-contents > summary {
+  color: var(--blue);
+  cursor: pointer;
+}
+
+.customization-bundle-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.customization-bundle-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px;
+  border: 0;
+  background: white;
+  color: var(--navy);
+  font: inherit;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: left;
+  overflow-wrap: anywhere;
+  cursor: pointer;
+}
+
+.customization-bundle-item strong {
+  color: inherit;
+  font-weight: 700;
+}
+
+.customization-bundle-item:hover {
+  background: var(--purple);
+  color: white;
+}
+
+.customization-bundle-item:hover small {
+  color: inherit;
+}
+
+.customization-bundle-item:focus-visible {
+  outline: 2px solid var(--purple);
+  outline-offset: 2px;
+}
+
+.customization-popup .customization-bundle-item .customization-art {
+  --art-size: 40px;
+  flex: 0 0 var(--art-size);
+  background: transparent;
+}
+
+.customization-popup .customization-bundle-item .is-none::after {
+  mask-size: 28px 28px;
+}
+
+/* Responsive layout and reduced motion */
+
+@media (min-width: 701px) and (max-width: 1050px) {
+  .customization-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .customization-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .customization-popup {
+    padding: 24px;
+  }
+
+  .customization-detail {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .customization-popup .customization-art {
+    margin: 0 auto;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .customization-card {
+    transition: none;
+  }
+
+  .customization-card:hover,
+  .customization-card:focus-within {
+    transform: none;
+  }
+}
