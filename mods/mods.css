@@ -109,6 +109,50 @@
   margin: 0 0 10px;
 }
 
+.paper .mod-notice {
+  margin: 0 0 20px;
+  padding: 12px 16px;
+  border-left: 3px solid var(--pink);
+  background: #fff3f8;
+  color: var(--navy);
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.mod-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0 0 24px;
+}
+
+.mod-actions[hidden] {
+  display: none;
+}
+
+.paper .mod-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 12px 20px;
+  background: var(--blue);
+  color: white;
+  font: 700 18px/22px Astroneer,sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+.paper .mod-button:hover {
+  background: var(--purple);
+  color: white;
+}
+
+.paper .mod-button:focus-visible {
+  outline: 2px solid var(--purple);
+  outline-offset: 3px;
+}
+
 .mod-meta {
   margin: 0 0 18px 20px;
   padding: 12px 18px;

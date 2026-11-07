@@ -4,7 +4,7 @@
       "latest_version": "1.0.0",
       "versions": {
         "1.0.0": {
-          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMax-1.0.0_P.pak",
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/v1.0.0/000-BackpackProMax-1.0.0_P.pak",
           "filename": "000-BackpackProMax-1.0.0_P.pak"
         }
       }
@@ -13,7 +13,7 @@
       "latest_version": "1.0.0",
       "versions": {
         "1.0.0": {
-          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMaxAutoArmShield-1.0.0_P.pak",
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/v1.0.0/000-BackpackProMaxAutoArmShield-1.0.0_P.pak",
           "filename": "000-BackpackProMaxAutoArmShield-1.0.0_P.pak"
         }
       }
@@ -22,7 +22,7 @@
       "latest_version": "1.0.0",
       "versions": {
         "1.0.0": {
-          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMaxLuxe-1.0.0_P.pak",
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/v1.0.0/000-BackpackProMaxLuxe-1.0.0_P.pak",
           "filename": "000-BackpackProMaxLuxe-1.0.0_P.pak"
         }
       }
@@ -31,10 +31,19 @@
       "latest_version": "1.0.0",
       "versions": {
         "1.0.0": {
-          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/1.0.0/000-BackpackProMaxLuxeAutoArmShield-1.0.0_P.pak",
+          "download_url": "https://github.com/yuexr/astro-backpack-pro-max/releases/download/v1.0.0/000-BackpackProMaxLuxeAutoArmShield-1.0.0_P.pak",
           "filename": "000-BackpackProMaxLuxeAutoArmShield-1.0.0_P.pak"
         }
       }
+    },
+    "BabyProofDynamites": {
+      "versions": {
+        "1.4.1": {
+          "download_url": "https://github.com/yuexr/astro-baby-proof-explosions/releases/download/v1.4.1/000-BabyProofDynamites-1.4.1_P.pak",
+          "filename": "000-BabyProofDynamites-1.4.1_P.pak"
+        }
+      },
+      "latest_version": "1.4.1"
     }
   }
 }

@@ -261,14 +261,15 @@ function details(mod) {
   document.querySelector('meta[name="description"]').content = mod.description || mod.name;
   const header = document.querySelector('#mod-header');
   header.replaceChildren(...pageHeader(mod.name, mod.description).childNodes);
+  const notice = document.querySelector('#mod-notice');
+  notice.hidden = mod.section !== 'personal';
   const links = document.querySelector('#mod-links');
   links.replaceChildren();
   for (const [label, url] of [['Nexus Mod Page', mod.nexusUrl], ['GitHub Repo', mod.repository]]) {
-    const anchor = link(label, url);
+    const anchor = link(label, url, 'mod-button');
     if (!anchor) continue;
     anchor.target = '_blank';
     anchor.rel = 'noopener noreferrer';
-    if (links.childElementCount) links.append(' · ');
     links.append(anchor);
   }
   links.hidden = !links.childElementCount;
@@ -286,7 +287,7 @@ function details(mod) {
     facts.append(row);
   }
   facts.hidden = !facts.childElementCount;
-  document.querySelector('#mod-paper').hidden = links.hidden && !facts.childElementCount
+  document.querySelector('#mod-paper').hidden = notice.hidden && links.hidden && !facts.childElementCount
     && !document.querySelector('[data-diary]:not([hidden]), [data-gallery]:not([hidden])');
 }
 
