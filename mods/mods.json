@@ -64,7 +64,16 @@
       "author": "yuexr",
       "image": "https://raw.githubusercontent.com/yuexr/astro-fractal-rose-selector/refs/heads/main/img/frs-banner.png",
       "repository": "https://github.com/yuexr/astro-fractal-rose-selector",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/yuexr/astro-fractal-rose-selector/HEAD/metadata.json",
+          "format": "mod-metadata"
+        },
+        {
+          "url": "https://api.github.com/repos/yuexr/astro-fractal-rose-selector/releases/latest",
+          "format": "github-release"
+        }
+      ],
       "nexusUrl": "https://www.nexusmods.com/astroneer/mods/237"
     },
     {
@@ -73,9 +82,18 @@
       "section": "released",
       "description": "Make shredders process items five times faster.",
       "author": "yuexr",
-      "image": null,
+      "image": "https://raw.githubusercontent.com/yuexr/astro-faster-shredders/refs/heads/main/img/fastershredders-banner.png",
       "repository": "https://github.com/yuexr/astro-faster-shredders",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/yuexr/astro-faster-shredders/HEAD/metadata.json",
+          "format": "mod-metadata"
+        },
+        {
+          "url": "https://api.github.com/repos/yuexr/astro-faster-shredders/releases/latest",
+          "format": "github-release"
+        }
+      ],
       "nexusUrl": "https://www.nexusmods.com/astroneer/mods/232"
     },
     {
@@ -98,7 +116,16 @@
       "author": "yuexr",
       "image": "https://raw.githubusercontent.com/yuexr/astro-noclip/refs/heads/main/img/noclip-banner.png",
       "repository": "https://github.com/yuexr/astro-noclip",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/yuexr/astro-noclip/HEAD/metadata.json",
+          "format": "mod-metadata"
+        },
+        {
+          "url": "https://api.github.com/repos/yuexr/astro-noclip/releases/latest",
+          "format": "github-release"
+        }
+      ],
       "nexusUrl": "https://www.nexusmods.com/astroneer/mods/238"
     }
   ]
