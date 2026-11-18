@@ -258,7 +258,21 @@ async function showMods() {
 
 function details(mod) {
   document.title = `${mod.name} | Y.U.E.`;
-  document.querySelector('meta[name="description"]').content = mod.description || mod.name;
+  const description = mod.description || mod.name;
+  const canonical = new URL('https://yuexr.github.io/astro/mods/mod.html');
+  canonical.searchParams.set('id', mod.id);
+  document.querySelector('link[rel="canonical"]').href = canonical.href;
+  for (const [selector, content] of [
+    ['meta[name="description"]', description],
+    ['meta[property="og:title"]', document.title],
+    ['meta[property="og:description"]', description],
+    ['meta[property="og:url"]', canonical.href],
+    ['meta[name="twitter:title"]', document.title],
+    ['meta[name="twitter:description"]', description],
+  ]) document.querySelector(selector).content = content;
+  const image = safeURL(mod.image) || 'https://yuexr.github.io/img/yueastro.png';
+  document.querySelector('meta[property="og:image"]').content = image;
+  document.querySelector('meta[name="twitter:image"]').content = image;
   const header = document.querySelector('#mod-header');
   header.replaceChildren(...pageHeader(mod.name, mod.description).childNodes);
   const notice = document.querySelector('#mod-notice');
@@ -297,6 +311,10 @@ async function showMod() {
   const mod = data.mods.find(item => item.id === id && item.visible !== false);
   if (!mod) {
     document.title = 'Mod not found | Y.U.E.';
+    const robots = document.createElement('meta');
+    robots.name = 'robots';
+    robots.content = 'noindex, follow';
+    document.head.append(robots);
     const content = document.querySelector('.view');
     content.replaceChildren(pageHeader('Mod not found', 'This mod is not in the catalog.'));
     const paper = element('article', 'paper');
