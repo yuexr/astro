@@ -78,7 +78,15 @@ body {
     300 16px/22px Roboto,
     sans-serif;
   color: var(--body);
-  background: radial-gradient(ellipse at 20% 0, rgba(30, 159, 241, 0.12), transparent 60%), linear-gradient(135deg, #e2ebfa 12%, #dfe3f2 48%, #ccc6ee 100%);
+  background-image:
+    linear-gradient(to bottom, transparent 10%, rgba(255, 115, 243, 0.35) 100%),
+    radial-gradient(ellipse at 20% 0, rgba(30, 159, 241, 0.12), transparent 60%),
+    linear-gradient(135deg, #c7d8f5 12%, #acb9e4 48%, #b9b1e7 100%),
+    url('assets/bg.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: hue, screen, screen, normal;
 }
 
 a {
