@@ -1,5 +1,5 @@
 import { createPagination, element, fetchJSON } from "../catalog.js";
-import { buildCatalog, itemKey } from "./customization-data.js";
+import { buildCatalog, itemKey, paidOffer } from "./customization-data.js";
 
 const form = document.querySelector(".list-filters");
 const search = document.querySelector("#search");
@@ -12,10 +12,10 @@ const pagination = createPagination(perPage, render);
 const popup = document.querySelector(".customization-popup");
 const labels = { suit: "Suit", palette: "Palette", visor: "Visor", hat: "Hat", mask: "Mask", emote: "Emote" };
 const categories = Object.keys(labels);
-const methodLabels = { "Available to all": "Default", Event: "In-game event", "In-game unlock": "In-game mission" };
+const methodLabels = { "Available to all": "Default", Event: "In-game event", "In-game unlock": "In-game mission", "Limited Offer": "Limited offer" };
 const alphabetical = new Intl.Collator("en", { sensitivity: "base", numeric: true });
 let items = [];
-let itemsByKey = new Map();
+const itemsByKey = new Map();
 let filtered = [];
 
 function methodLabel(name) {
@@ -33,7 +33,7 @@ function methodTags(methods) {
 }
 
 function artwork(item) {
-  const artwork = element("div", undefined, "customization-art");
+  const frame = element("div", undefined, "customization-art");
   const image = document.createElement("img");
   image.src = item.image;
   image.alt = item.display_name;
@@ -41,16 +41,16 @@ function artwork(item) {
   image.height = 128;
   image.loading = "lazy";
   image.decoding = "async";
-  artwork.append(image);
+  frame.append(image);
   if (item.name.trim().toLowerCase() === "none") {
-    artwork.classList.add("is-none");
-    artwork.style.setProperty("--icon", `url("${item.image}")`);
+    frame.classList.add("is-none");
+    frame.style.setProperty("--icon", `url("${item.image}")`);
   }
-  return artwork;
+  return frame;
 }
 
 function bundleItems(item, offer) {
-  if (!offer.items.length) return null;
+  if (!offer.items.length && !offer.included_qbits) return null;
   const list = element("div", undefined, "customization-bundle-items");
   for (const member of offer.items) {
     const other = itemsByKey.get(itemKey(member));
@@ -65,17 +65,27 @@ function bundleItems(item, offer) {
     button.addEventListener("click", () => showItem(other));
     list.append(button);
   }
+  if (offer.included_qbits) {
+    const currency = element("div", undefined, "customization-bundle-item");
+    const icon = element("span", undefined, "customization-qbits");
+    icon.setAttribute("aria-hidden", "true");
+    const text = element("span");
+    text.append(element("strong", `${offer.included_qbits.toLocaleString()} QBITS`), element("small", "Currency"));
+    currency.append(icon, text);
+    list.append(currency);
+  }
   return list;
 }
 
-function showItem(item) {
-  document.querySelector("#customization-image").replaceChildren(artwork(item));
-  document.querySelector("#customization-type").textContent = labels[item.category];
-  document.querySelector("#customization-title").textContent = item.display_name;
-  document.querySelector("#customization-description").textContent = item.obtained_through;
-  const obtainmentDetails = document.querySelector("#customization-obtainment-details");
-  obtainmentDetails.textContent = item.obtainment_details || "";
-  obtainmentDetails.hidden = !item.obtainment_details;
+function externalLink(label, url) {
+  const link = element("a", label);
+  link.href = url;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  return link;
+}
+
+function renderFacts(item) {
   const facts = document.querySelector("#customization-facts");
   facts.replaceChildren();
   function fact(label, value) {
@@ -85,45 +95,154 @@ function showItem(item) {
     definition.append(value);
     row.append(element("dt", label), definition);
     facts.append(row);
+    return definition;
   }
-  fact("Original source", methodTags([item.obtainment_method]));
-  const additionalMethods = item.methods.filter(name => name !== item.obtainment_method);
-  if (additionalMethods.length) fact("Also obtainable", methodTags(additionalMethods));
+  const originalMethods = [...new Set([item.obtainment_method, ...(item.required_dlc ? ["DLC"] : [])])];
+  const source = fact("Original source", methodTags(originalMethods));
+  const descriptionText = item.obtained_through?.trim();
+  const detailsText = item.obtainment_details?.trim();
+  const genericStoreDescription = ["Store", "Limited Offer"].includes(item.obtainment_method)
+    && descriptionText === "Purchased from EXO Outfitters Store."
+    && !detailsText;
+  if (descriptionText && !genericStoreDescription) {
+    const description = element("p", item.obtained_through);
+    description.id = "customization-description";
+    source.append(description);
+    popup.setAttribute("aria-describedby", description.id);
+  } else popup.removeAttribute("aria-describedby");
+  const sourceDetails = document.createDocumentFragment();
+  if (detailsText) sourceDetails.append(detailsText);
+  const references = item.sources.filter(reference => !item.event_history.some(appearance => appearance.source_url === reference.url));
+  if (references.length) {
+    const links = element("span", undefined, "customization-source-links");
+    for (const reference of references) {
+      if (links.childNodes.length) links.append(" · ");
+      links.append(externalLink(reference.label, reference.url));
+    }
+    sourceDetails.append(links);
+  }
+  if (sourceDetails.childNodes.length) fact("Source details", sourceDetails);
+  const additionalMethods = item.methods.filter(name => !originalMethods.includes(name));
+  if (additionalMethods.length) fact("Other tags", methodTags(additionalMethods));
+}
 
+function renderHistory(item) {
+  const history = document.querySelector("#customization-history");
+  history.replaceChildren();
+  history.hidden = !item.event_history.length;
+  if (history.hidden) return;
+
+  const details = document.createElement("details");
+  const summary = element("summary");
+  summary.append(element("h3", `Event history (${item.event_history.length})`));
+  details.append(summary);
+  for (const appearance of item.event_history) {
+    const row = element("p");
+    const title = appearance.source_url ? externalLink(appearance.event, appearance.source_url) : element("span", appearance.event);
+    row.append(title, element("small", appearance.requirement + (appearance.bundle ? ` · ${appearance.bundle}` : "")));
+    if (appearance.dates?.start || appearance.dates?.end) {
+      row.append(element("small", [appearance.dates.start, appearance.dates.end].filter(Boolean).join(" – ") + (appearance.dates.start ? "" : " (end date)")));
+    }
+    if (appearance.notes) row.append(element("small", appearance.notes));
+    details.append(row);
+  }
+  history.append(details);
+}
+
+function offerPrice(offer, offers) {
+  const payment = offer.payment === "real_money" ? "Real money" : offer.base_cost > 0 ? `${offer.base_cost.toLocaleString()} QBITS` : "Free";
+  const regularPrice = offer.base_cost > 0 && offers.some(other => other.channel === "store" && other.base_cost === 0);
+  const price = element("p");
+  if (offer.kind !== "item" || (offer.channel === "store" && !paidOffer(offer))) price.append(`${offer.channel === "dlc" ? "DLC" : "EXO Outfitters"} · `);
+  else if (regularPrice) price.append("Regular price: ");
+  if (offer.payment !== "real_money" && offer.base_cost > 0) {
+    const icon = element("span", undefined, "customization-price-qbits");
+    icon.setAttribute("aria-hidden", "true");
+    price.append(icon);
+  }
+  price.append(payment);
+  return price;
+}
+
+function offerAvailability(offer, index) {
+  const availability = element("small", offer.availability === "always" ? "Always available" : "Limited-time offer");
+  if (offer.availability === "limited_time") {
+    const tooltip = element("span", "Offer was previously available in-store for a limited time. Offer availability in future not guaranteed.", "customization-tooltip");
+    tooltip.id = `offer-availability-${index}`;
+    tooltip.setAttribute("role", "tooltip");
+    availability.className = "customization-availability";
+    availability.tabIndex = 0;
+    availability.setAttribute("aria-describedby", tooltip.id);
+    availability.append(tooltip);
+  }
+  return availability;
+}
+
+function offerRow(item, offer) {
+  const row = element("div", undefined, "customization-bundle");
+  const freeStoreOffer = offer.channel === "store" && !paidOffer(offer);
+  row.append(element("h4", freeStoreOffer && offer.kind === "item" ? "INDIVIDUAL ITEM" : offer.name));
+  row.append(offerPrice(offer, item.offers));
+  if (offer.availability) row.append(offerAvailability(offer, item.offers.indexOf(offer)));
+  if (offer.channel === "dlc" && offer.role === "bonus") row.append(element("small", "Free bonus with this DLC"));
+  if (offer.available_from && offer.available_until) {
+    row.append(element("small", `Documented offer: ${offer.available_from.slice(0, 10)} – ${offer.available_until.slice(0, 10)}`));
+  }
+  if (offer.availability_note) row.append(element("small", offer.availability_note));
+  for (const entry of offer.history || []) {
+    const previous = element("small");
+    previous.append(externalLink(entry.description, entry.source_url));
+    row.append(previous);
+  }
+  if (offer.kind !== "item") {
+    const members = bundleItems(item, offer);
+    if (members) {
+      const contents = element("details", undefined, "customization-offer-contents");
+      contents.open = offer.channel === "store" || item.methods.every(method => method === "DLC");
+      contents.append(element("summary", `Bundle includes (${members.children.length})`), members);
+      row.append(contents);
+    }
+  }
+  if (offer.url) {
+    row.append(externalLink(offer.channel === "dlc" ? "View DLC on Steam" : "View bundle details", offer.url));
+  }
+  if (offer.source_url) {
+    row.append(externalLink("Official source", offer.source_url));
+  }
+  return row;
+}
+
+function renderOffers(item) {
   const bundles = document.querySelector("#customization-bundles");
   bundles.replaceChildren();
   const offers = item.offers;
-  const extraNames = (item.bundle_association || "").split(/,\s*/).filter((name) => name && !offers.some((offer) => offer.name.toLowerCase() === name.toLowerCase()));
-  bundles.hidden = !offers.length && !extraNames.length;
-  if (!bundles.hidden) {
-    if (offers.length) bundles.append(element("h3", "Purchase options"));
-    for (const offer of offers) {
-      const row = element("div", undefined, "customization-bundle");
-      row.append(element("h4", offer.name));
-      const payment = offer.payment === "real_money" ? "Real money" : offer.base_cost > 0 ? `${offer.base_cost.toLocaleString()} QBITS` : "Free";
-      row.append(element("p", offer.kind === "item" ? payment : `${offer.channel === "dlc" ? "DLC" : "EXO Outfitters"} · ${payment}`));
-      if (offer.availability) row.append(element("small", offer.availability === "always" ? "Always available" : "Limited-time offer"));
-      if (offer.channel === "dlc") row.append(element("small", offer.role === "bonus" ? "Free bonus with this DLC" : "Included in this DLC"));
-      if (offer.included_qbits) row.append(element("p", `Also includes ${offer.included_qbits.toLocaleString()} QBITS`));
-      if (offer.kind !== "item") {
-        const members = bundleItems(item, offer);
-        if (members && offer.channel === "dlc") {
-          const contents = element("details", undefined, "customization-offer-contents");
-          contents.append(element("summary", `Included cosmetics (${offer.items.length})`), members);
-          row.append(contents);
-        } else if (members) row.append(element("p", "Items in this bundle"), members);
-      }
-      if (offer.url) {
-        const link = element("a", offer.channel === "dlc" ? "View DLC on Steam" : "View bundle details");
-        link.href = offer.url;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        row.append(link);
-      }
-      bundles.append(row);
-    }
-    if (extraNames.length) bundles.append(element("p", `Associated with: ${extraNames.join(", ")}`));
+  bundles.hidden = !offers.length;
+  if (bundles.hidden) return;
+
+  const purchases = [];
+  const limitedOffers = [];
+  for (const offer of offers) {
+    const limitedStoreOffer = offer.channel === "store" && offer.availability === "limited_time";
+    (limitedStoreOffer ? limitedOffers : purchases).push(offer);
   }
+  for (const [title, group] of [["Purchase options", purchases], ["Limited offer", limitedOffers]]) {
+    if (!group.length) continue;
+    const section = element("section");
+    section.append(element("h3", title));
+    for (const offer of group) {
+      section.append(offerRow(item, offer));
+    }
+    bundles.append(section);
+  }
+}
+
+function showItem(item) {
+  document.querySelector("#customization-image").replaceChildren(artwork(item));
+  document.querySelector("#customization-type").textContent = labels[item.category];
+  document.querySelector("#customization-title").textContent = item.display_name;
+  renderFacts(item);
+  renderHistory(item);
+  renderOffers(item);
 
   if (popup.open) popup.querySelector(".customization-close").focus();
   else popup.showModal();
@@ -185,17 +304,20 @@ form.addEventListener("reset", (event) => {
 });
 
 try {
-  const [data, store, dlc, notes] = await Promise.all([
+  const [data, store, dlc, notes, events] = await Promise.all([
     fetchJSON("customization.json"),
     fetchJSON("store.json"),
     fetchJSON("dlc.json"),
     fetchJSON("obtainment-notes.json").catch((error) => {
-      console.warn("Personal obtainment notes unavailable", error);
+      console.warn("Could not load obtainment notes", error);
       return {};
     }),
+    fetchJSON("events.json"),
   ]);
-  items = buildCatalog(data, store, dlc, notes).map(item => ({...item, searchText: `${item.searchText} ${item.methods.map(methodLabel).join(" ").toLocaleLowerCase()}`}));
-  itemsByKey = new Map(items.map(item => [itemKey(item), item]));
+  items = buildCatalog(data, store, dlc, notes, events).map(item => ({...item, searchText: `${item.searchText} ${item.methods.map(methodLabel).join(" ").toLocaleLowerCase()}`}));
+  for (const item of items) {
+    if (!itemsByKey.has(itemKey(item))) itemsByKey.set(itemKey(item), item);
+  }
   const methods = [...new Set(items.flatMap((item) => item.methods))].sort((a, b) => Number(b === "Available to all") - Number(a === "Available to all") || alphabetical.compare(methodLabel(a), methodLabel(b)));
   for (const name of methods) {
     const option = element("option", methodLabel(name));

@@ -1,0 +1,1817 @@
+{
+  "events": [
+    {
+      "id": "project-c-h-e-e-r-2026",
+      "name": "Project C.H.E.E.R. 2026",
+      "source_url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "HOLIDAY TOP HAT",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "3,500 points",
+          "items": [
+            {
+              "name": "CARBONATED",
+              "category": "palette"
+            },
+            {
+              "name": "SHIVER",
+              "category": "emote"
+            },
+            {
+              "name": "SEASONAL ALLURE",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "2023 Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2023Bundle"
+        },
+        {
+          "requirement": "6,500 points",
+          "items": [
+            {
+              "name": "BOREAL BEANIE",
+              "category": "hat"
+            },
+            {
+              "name": "PUDDING WARMER",
+              "category": "mask"
+            }
+          ],
+          "returning": true,
+          "bundle": "2022 Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2022Bundle"
+        },
+        {
+          "requirement": "10,000 points",
+          "items": [
+            {
+              "name": "TINSEL TOWN",
+              "category": "palette"
+            },
+            {
+              "name": "BAUBLEHEAD",
+              "category": "visor"
+            },
+            {
+              "name": "FESTIVE CHAPBOW",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "2021 Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2021Bundle"
+        }
+      ]
+    },
+    {
+      "id": "project-c-h-e-e-r-2025",
+      "name": "Project C.H.E.E.R. 2025",
+      "source_note": "Reward tiers supplied by the site author; source URL not yet recorded.",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "CARBONATED",
+              "category": "palette"
+            },
+            {
+              "name": "SHIVER",
+              "category": "emote"
+            },
+            {
+              "name": "SEASONAL ALLURE",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2023Bundle"
+        },
+        {
+          "requirement": "3,500 points",
+          "items": [
+            {
+              "name": "COSMOSIS",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "6,500 points",
+          "items": [
+            {
+              "name": "JOLLY GOOD",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "10,000 points",
+          "items": [
+            {
+              "name": "LIGHT HEADED",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-f-a-r-m-2026",
+      "name": "EXO F.A.R.M. 2026",
+      "source_url": "https://blog.astroneer.space/p/lte-guide-exo-farm/",
+      "rewards": [
+        {
+          "requirement": "800 points",
+          "items": [
+            {
+              "name": "GALASTRO CAP",
+              "category": "hat"
+            },
+            {
+              "name": "LEAF LEAP",
+              "category": "emote"
+            },
+            {
+              "name": "POLLEN COUNT",
+              "category": "visor"
+            }
+          ],
+          "returning": true,
+          "bundle": "Biofuel Throwback Bundle",
+          "bundle_id": "LTEFall2023Bundle"
+        },
+        {
+          "requirement": "2,400 points",
+          "items": [
+            {
+              "name": "FIRST IMPACT",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "5,000 points",
+          "items": [
+            {
+              "name": "BAUBLEGUM",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "SPOOKY",
+              "category": "palette"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-a-m-p-p-2026",
+      "name": "EXO A.M.P.P. 2026",
+      "source_url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/",
+      "rewards": [
+        {
+          "requirement": "160 points",
+          "items": [
+            {
+              "name": "DOT COM",
+              "category": "palette"
+            },
+            {
+              "name": "THINKING",
+              "category": "emote"
+            },
+            {
+              "name": "FORGE AHEAD",
+              "category": "mask"
+            }
+          ],
+          "returning": true,
+          "bundle": "AMPP Throwback Bundle",
+          "bundle_id": "LTEAutomation2023Bundle"
+        },
+        {
+          "requirement": "480 points",
+          "items": [
+            {
+              "name": "V TECH",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "1,000 points",
+          "items": [
+            {
+              "name": "LIMINAL LEAK",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "1,920 points",
+          "items": [
+            {
+              "name": "CAGE SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-cares-initiative-2026",
+      "name": "EXO Cares Initiative 2026",
+      "source_url": "https://blog.astroneer.space/p/lte-guide-exo-cares/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "CO-N3",
+              "category": "hat"
+            },
+            {
+              "name": "STOP SIGN",
+              "category": "emote"
+            },
+            {
+              "name": "SAFETY ORANGE",
+              "category": "palette"
+            }
+          ],
+          "returning": true,
+          "bundle": "Salvage Throwback Bundle",
+          "bundle_id": "LTESpring2023Bundle"
+        },
+        {
+          "requirement": "4,200 points",
+          "items": [
+            {
+              "name": "JEWEL",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "SALVAGE CHIC",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "14,000 points",
+          "items": [
+            {
+              "name": "HARD SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "starseeker-login-promotion-june-2026",
+      "name": "STARSEEKER Launch Login Promotion — June 2026",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/615450776305664974",
+      "rewards": [
+        {
+          "requirement": "Log in to Astroneer to claim the Expedition Suit free for the STARSEEKER launch",
+          "items": [
+            {
+              "name": "EXPEDITION SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2026-06-11"
+      },
+      "notes": "An exact end date was not stated."
+    },
+    {
+      "id": "starseeker-login-promotion-march-2026",
+      "name": "STARSEEKER Login Promotion — March 2026",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/517490598955975863",
+      "rewards": [
+        {
+          "requirement": "Log in to Astroneer to automatically unlock the Expedition Suit; the unlock may take a few minutes",
+          "items": [
+            {
+              "name": "EXPEDITION SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2026-03-31"
+      },
+      "notes": "Advertised for the following few weeks and repeated in the April 15 update. An exact end date was not stated."
+    },
+    {
+      "id": "exo-f-a-r-m-2025",
+      "name": "EXO F.A.R.M. 2025",
+      "source_url": "https://blog.astroneer.space/p/exo-farm-2025-lte/",
+      "rewards": [
+        {
+          "requirement": "800 points",
+          "items": [
+            {
+              "name": "PICK YOUR POISON",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "2,400 points",
+          "items": [
+            {
+              "name": "STEM THE TIDE",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "BAD APPLE",
+              "category": "palette"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-a-m-p-p-2025",
+      "name": "EXO A.M.P.P. 2025",
+      "source_url": "https://blog.astroneer.space/p/how-to-complete-automated-mass-production-protocol-event-2025/",
+      "rewards": [
+        {
+          "requirement": "160 points",
+          "items": [
+            {
+              "name": "SPARKLE SIGHT",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "480 points",
+          "items": [
+            {
+              "name": "MULTI-FACETED",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "1,920 points",
+          "items": [
+            {
+              "name": "DIAMOND IN THE BUFF",
+              "category": "palette"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-c-a-r-e-s-2025",
+      "name": "EXO C.A.R.E.S. 2025",
+      "source_url": "https://blog.astroneer.space/p/spring-lte-2025/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "LAB LEAK",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "4,200 points",
+          "items": [
+            {
+              "name": "RADIOACTION",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "14,000 points",
+          "items": [
+            {
+              "name": "ION-EYEZ",
+              "category": "visor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anniversary-celebration-2025",
+      "name": "Sixth Anniversary Celebration 2025",
+      "source_url": "https://blog.astroneer.space/p/glitchwalkers-aeoluz-unlocked-update/",
+      "rewards": [
+        {
+          "requirement": "Claim the anniversary hat in EXO Outfitters during the announced 30-day promotion",
+          "items": [
+            {
+              "name": "ANNIVERSARY ITEM MK VI",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2025-02-26"
+      },
+      "notes": "The announcement specified the following 30 days; an exact cutoff time was not stated."
+    },
+    {
+      "id": "project-c-h-e-e-r-2024",
+      "name": "Project C.H.E.E.R. 2024",
+      "source_url": "https://blog.astroneer.space/p/cheer2024/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "CARBONATED",
+              "category": "palette"
+            },
+            {
+              "name": "SHIVER",
+              "category": "emote"
+            },
+            {
+              "name": "SEASONAL ALLURE",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2023Bundle"
+        },
+        {
+          "requirement": "3,500 points",
+          "items": [
+            {
+              "name": "ROCKSTAR",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "10,000 points",
+          "items": [
+            {
+              "name": "HARD SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-f-a-r-m-2024",
+      "name": "EXO F.A.R.M. 2024",
+      "source_url": "https://blog.astroneer.space/p/exo-farm-2024/",
+      "rewards": [
+        {
+          "requirement": "800 points",
+          "items": [
+            {
+              "name": "SUR+",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "2,400 points",
+          "items": [
+            {
+              "name": "HORN OF PLENTY",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "THATCH 2.0",
+              "category": "palette"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "end": "2024-11-30"
+      }
+    },
+    {
+      "id": "exo-a-m-p-p-2024",
+      "name": "EXO A.M.P.P. 2024",
+      "source_url": "https://blog.astroneer.space/p/ampp-2024/",
+      "rewards": [
+        {
+          "requirement": "160 points",
+          "items": [
+            {
+              "name": "COG-NITION",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "480 points",
+          "items": [
+            {
+              "name": "RESPIR-8",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "1,280 points",
+          "items": [
+            {
+              "name": "SCRAP WRAP",
+              "category": "palette"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "end": "2024-09-01"
+      },
+      "notes": "The normal event ended at 10:00 AM PDT on September 1, 2024. Nintendo Switch had a separate login promotion through the end of September."
+    },
+    {
+      "id": "exo-cares-initiative-2024",
+      "name": "EXO Cares Initiative 2024",
+      "source_url": "https://blog.astroneer.space/p/exo-cares-initiative/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "CAPTAIN'S C01-F",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "4,200 points",
+          "items": [
+            {
+              "name": "ECONEER",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "14,000 points",
+          "items": [
+            {
+              "name": "ENVISION",
+              "category": "visor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "breakdown-event-2024",
+      "name": "Breakdown Event 2024",
+      "source_url": "https://blog.astroneer.space/p/anniversary-event/",
+      "rewards": [
+        {
+          "requirement": "2,619 points",
+          "items": [
+            {
+              "name": "BAUBLEGUM",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "111,519 points",
+          "items": [
+            {
+              "name": "LIMINAL LEAK",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "888,888 points",
+          "items": [
+            {
+              "name": "EXPLOSIVE PERSONALITY",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2024-01-29",
+        "end": "2024-04-07",
+        "stages": [
+          "2024-01-29",
+          "2024-02-05",
+          "2024-02-12"
+        ]
+      }
+    },
+    {
+      "id": "switch-ampp-login-promotion-2024",
+      "name": "Nintendo Switch A.M.P.P. Login Promotion 2024",
+      "source_url": "https://www.reddit.com/r/Astroneer/comments/1f3mb34/ampp_event_reminder_the_long_awaited_roadtrip/",
+      "rewards": [
+        {
+          "requirement": "Nintendo Switch only: log in after the delayed Roadtrip Update to receive all three rewards automatically",
+          "items": [
+            {
+              "name": "COG-NITION",
+              "category": "hat"
+            },
+            {
+              "name": "RESPIR-8",
+              "category": "mask"
+            },
+            {
+              "name": "SCRAP WRAP",
+              "category": "palette"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2024-08-28",
+        "end": "2024-09-30"
+      },
+      "notes": "Compensation for the delayed Switch update; this was an alternative to the normal event milestones."
+    },
+    {
+      "id": "anniversary-celebration-2024",
+      "name": "Fifth Anniversary Celebration 2024",
+      "source_url": "https://blog.astroneer.space/p/anniversary-event/",
+      "rewards": [
+        {
+          "requirement": "Claim the free anniversary hat in EXO Outfitters during February 2024",
+          "items": [
+            {
+              "name": "ANNIVERSARY ITEM MK V",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2024-02-01",
+        "end": "2024-02-29"
+      }
+    },
+    {
+      "id": "project-c-h-e-e-r-2023",
+      "name": "Project C.H.E.E.R. 2023",
+      "source_url": "https://blog.astroneer.space/p/project-cheer-delivery-event/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "CARBONATED",
+              "category": "palette"
+            },
+            {
+              "name": "SHIVER",
+              "category": "emote"
+            },
+            {
+              "name": "SEASONAL ALLURE",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2023Bundle"
+        },
+        {
+          "requirement": "3,500 points",
+          "items": [
+            {
+              "name": "ROCKSTAR",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "10,000 points",
+          "items": [
+            {
+              "name": "HARD SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-f-a-r-m-2023",
+      "name": "EXO F.A.R.M. 2023",
+      "source_url": "https://blog.astroneer.space/p/exo-farm-lte-2023/",
+      "rewards": [
+        {
+          "requirement": "800 points",
+          "items": [
+            {
+              "name": "GALASTRO CAP",
+              "category": "hat"
+            },
+            {
+              "name": "LEAF LEAP",
+              "category": "emote"
+            },
+            {
+              "name": "POLLEN COUNT",
+              "category": "visor"
+            }
+          ],
+          "returning": true,
+          "bundle": "Biofuel Throwback Bundle",
+          "bundle_id": "LTEFall2023Bundle"
+        },
+        {
+          "requirement": "2,400 points",
+          "items": [
+            {
+              "name": "FIRST IMPACT",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "HARD SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-a-m-p-p-2023",
+      "name": "EXO A.M.P.P. 2023",
+      "source_url": "https://blog.astroneer.space/p/exo-automated-mass-production-protocol/",
+      "rewards": [
+        {
+          "requirement": "160 points",
+          "items": [
+            {
+              "name": "DOT COM",
+              "category": "palette"
+            },
+            {
+              "name": "THINKING",
+              "category": "emote"
+            },
+            {
+              "name": "FORGE AHEAD",
+              "category": "mask"
+            }
+          ],
+          "returning": true,
+          "bundle": "AMPP Throwback Bundle",
+          "bundle_id": "LTEAutomation2023Bundle"
+        },
+        {
+          "requirement": "480 points",
+          "items": [
+            {
+              "name": "V TECH",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "1,920 points",
+          "items": [
+            {
+              "name": "CAGE SUIT",
+              "category": "suit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anniversary-login-promotion-2023",
+      "name": "Fourth Anniversary Celebration 2023",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/3664276023005523802",
+      "rewards": [
+        {
+          "requirement": "Log in during February 2023",
+          "items": [
+            {
+              "name": "ANNIVERSARY ITEM MK IV",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2023-02-01",
+        "end": "2023-02-28"
+      }
+    },
+    {
+      "id": "holiday-event-2022",
+      "name": "Holiday Event 2022",
+      "source_url": "https://blog.astroneer.space/p/holiday-event-2022/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "BOREAL BEANIE",
+              "category": "hat"
+            },
+            {
+              "name": "PUDDING WARMER",
+              "category": "mask"
+            }
+          ],
+          "returning": true,
+          "bundle": "Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2022Bundle"
+        },
+        {
+          "requirement": "3,500 points",
+          "items": [
+            {
+              "name": "CARBONATED",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "6,500 points",
+          "items": [
+            {
+              "name": "SHIVER",
+              "category": "emote"
+            }
+          ]
+        },
+        {
+          "requirement": "10,000 points",
+          "items": [
+            {
+              "name": "SEASONAL ALLURE",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "Community reward",
+          "items": [
+            {
+              "name": "THE FEZHANT",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-f-a-r-m-2022",
+      "name": "EXO F.A.R.M. 2022",
+      "source_url": "https://blog.astroneer.space/p/update-1-26/",
+      "rewards": [
+        {
+          "requirement": "800 points",
+          "items": [
+            {
+              "name": "DANCE: GIDDYUP",
+              "category": "emote"
+            },
+            {
+              "name": "HONEST LIVING",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "Biofuel Throwback Bundle",
+          "bundle_id": "LTEFall2022Bundle"
+        },
+        {
+          "requirement": "2,400 points",
+          "items": [
+            {
+              "name": "LEAF LEAP",
+              "category": "emote"
+            }
+          ]
+        },
+        {
+          "requirement": "5,600 points",
+          "items": [
+            {
+              "name": "POLLEN COUNT",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "GALASTRO CAP",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-a-m-p-p-2022",
+      "name": "EXO A.M.P.P. 2022",
+      "source_url": "https://blog.astroneer.space/p/rails-update/",
+      "rewards": [
+        {
+          "requirement": "160 points",
+          "items": [
+            {
+              "name": "COGPIECE",
+              "category": "mask"
+            },
+            {
+              "name": "COPPER PLATE",
+              "category": "palette"
+            }
+          ],
+          "returning": true,
+          "bundle": "AMPP Throwback Bundle",
+          "bundle_id": "LTEAutomation2022Bundle"
+        },
+        {
+          "requirement": "480 points",
+          "items": [
+            {
+              "name": "DOT COM",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "960 points",
+          "items": [
+            {
+              "name": "THINKING",
+              "category": "emote"
+            }
+          ]
+        },
+        {
+          "requirement": "1,920 points",
+          "items": [
+            {
+              "name": "FORGE AHEAD",
+              "category": "mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-salvage-initiative-2022",
+      "name": "EXO Salvage Initiative 2022",
+      "source_url": "https://blog.astroneer.space/p/controls-update/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "GOING GREEN",
+              "category": "palette"
+            },
+            {
+              "name": "WIRED",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "Salvage Throwback Bundle",
+          "bundle_id": "LTESpring2022Bundle"
+        },
+        {
+          "requirement": "4,200 points",
+          "items": [
+            {
+              "name": "CO-N3",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "STOP SIGN",
+              "category": "emote"
+            }
+          ]
+        },
+        {
+          "requirement": "14,000 points",
+          "items": [
+            {
+              "name": "SAFETY ORANGE",
+              "category": "palette"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anniversary-celebration-2022",
+      "name": "Third Anniversary Celebration 2022",
+      "source_url": "https://blog.astroneer.space/p/xenobiology-update/",
+      "rewards": [
+        {
+          "requirement": "Log in during the free third-anniversary promotion in February 2022",
+          "items": [
+            {
+              "name": "ANNIVERSARY ITEM MK III",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "notes": "Exact claim dates were not stated."
+    },
+    {
+      "id": "holiday-project-c-h-e-e-r-2021",
+      "name": "Holiday / Project C.H.E.E.R. 2021",
+      "source_url": "https://blog.astroneer.space/p/holiday-update-003/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "TINSEL TOWN",
+              "category": "palette"
+            },
+            {
+              "name": "BAUBLEHEAD",
+              "category": "visor"
+            },
+            {
+              "name": "FESTIVE CHAPBOW",
+              "category": "hat"
+            }
+          ],
+          "returning": true,
+          "bundle": "Holiday Throwback Bundle",
+          "bundle_id": "LTEHoliday2021Bundle"
+        },
+        {
+          "requirement": "3,500 points",
+          "items": [
+            {
+              "name": "BOREAL BEANIE",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "6,500 points",
+          "items": [
+            {
+              "name": "PUDDING WARMER",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "Community reward",
+          "items": [
+            {
+              "name": "THE FEZHANT",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-f-a-r-m-2021",
+      "name": "EXO F.A.R.M. 2021",
+      "source_url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/",
+      "rewards": [
+        {
+          "requirement": "800 points",
+          "items": [
+            {
+              "name": "HALLOWED HELM",
+              "category": "hat"
+            },
+            {
+              "name": "SPOOKY",
+              "category": "visor"
+            },
+            {
+              "name": "PUMPKIN",
+              "category": "visor"
+            },
+            {
+              "name": "ENDLESS",
+              "category": "visor"
+            },
+            {
+              "name": "SPOOKY",
+              "category": "palette"
+            }
+          ],
+          "returning": true,
+          "bundle": "Biofuel Throwback Bundle",
+          "bundle_id": "LTEFall2021Bundle"
+        },
+        {
+          "requirement": "2,400 points",
+          "items": [
+            {
+              "name": "DANCE: GIDDYUP",
+              "category": "emote"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "HONEST LIVING",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-a-m-p-p-2021",
+      "name": "EXO A.M.P.P. 2021",
+      "source_url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/",
+      "rewards": [
+        {
+          "requirement": "Complete Compound stage",
+          "items": [
+            {
+              "name": "VR VISION",
+              "category": "mask"
+            },
+            {
+              "name": "GEARHEAD",
+              "category": "hat"
+            },
+            {
+              "name": "METAL GEAR",
+              "category": "visor"
+            }
+          ],
+          "returning": true,
+          "bundle": "AMPP Throwback Bundle",
+          "bundle_id": "LTEAutomationBundle"
+        },
+        {
+          "requirement": "Complete Aluminum stage",
+          "items": [
+            {
+              "name": "COPPER PLATE",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "Complete Aluminum Alloy stage",
+          "items": [
+            {
+              "name": "COGPIECE",
+              "category": "mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exo-salvage-initiative-2021",
+      "name": "EXO Salvage Initiative 2021",
+      "source_url": "https://blog.astroneer.space/p/the-mission-compass-and-power-update-patch-notes/",
+      "rewards": [
+        {
+          "requirement": "1,500 points",
+          "items": [
+            {
+              "name": "TURRET-A-PORTER",
+              "category": "mask"
+            },
+            {
+              "name": "4ML A-TYRE",
+              "category": "hat"
+            },
+            {
+              "name": "SALVAGE CHIC",
+              "category": "palette"
+            }
+          ],
+          "returning": true,
+          "bundle": "Salvage Throwback Bundle",
+          "bundle_id": "SalvageBundle"
+        },
+        {
+          "requirement": "5,000 points",
+          "items": [
+            {
+              "name": "WIRED",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 points",
+          "items": [
+            {
+              "name": "GOING GREEN",
+              "category": "palette"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anniversary-login-promotion-2021",
+      "name": "Second Anniversary Celebration 2021",
+      "source_url": "https://www.reddit.com/r/Astroneer/comments/l0r46x/update_118_patch_notes/",
+      "rewards": [
+        {
+          "requirement": "Log in during the second-anniversary promotion; hats began rolling out February 1",
+          "items": [
+            {
+              "name": "ANNIVERSARY ITEM MK II",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2021-02-01"
+      },
+      "notes": "An exact claim end date was not stated."
+    },
+    {
+      "id": "project-c-h-e-e-r-2020",
+      "name": "Project C.H.E.E.R. 2020",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2913229756378320979",
+      "rewards": [
+        {
+          "requirement": "1,500 recovery points",
+          "items": [
+            {
+              "name": "TINSEL TOWN",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "3,500 recovery points",
+          "items": [
+            {
+              "name": "FESTIVE CHAPBOW",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "6,500 recovery points",
+          "items": [
+            {
+              "name": "BAUBLEHEAD",
+              "category": "visor"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2020-12-07"
+      }
+    },
+    {
+      "id": "exo-b-o-o-2020",
+      "name": "EXO B.O.O. 2020",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/4622341472303813443",
+      "rewards": [
+        {
+          "requirement": "Complete the Squasholine stage",
+          "items": [
+            {
+              "name": "HALLOWED HELM",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "Complete the Attapetrol stage",
+          "items": [
+            {
+              "name": "ENDLESS",
+              "category": "visor"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2020-10-19"
+      }
+    },
+    {
+      "id": "exo-a-m-p-p-2020",
+      "name": "EXO A.M.P.P. 2020",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2528157400350449108",
+      "rewards": [
+        {
+          "requirement": "Complete the Compound stage",
+          "items": [
+            {
+              "name": "VR VISION",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "Complete the Aluminum stage",
+          "items": [
+            {
+              "name": "GEARHEAD",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "Complete the Aluminum Alloy stage",
+          "items": [
+            {
+              "name": "METAL GEAR",
+              "category": "visor"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2020-06-24"
+      }
+    },
+    {
+      "id": "exo-salvage-initiative-2020",
+      "name": "EXO Salvage Initiative 2020",
+      "source_url": "https://www.reddit.com/r/Astroneer/comments/g193wu/the_salvage_initiative_patch_notes/",
+      "rewards": [
+        {
+          "requirement": "1,500 recovery points",
+          "items": [
+            {
+              "name": "TURRET-A-PORTER",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "5,000 recovery points",
+          "items": [
+            {
+              "name": "4ML A-TYRE",
+              "category": "hat"
+            }
+          ]
+        },
+        {
+          "requirement": "8,000 recovery points",
+          "items": [
+            {
+              "name": "SALVAGE CHIC",
+              "category": "palette"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2020-04-14",
+        "end": "2020-06-14"
+      }
+    },
+    {
+      "id": "project-c-h-e-e-r-2019",
+      "name": "Project C.H.E.E.R. 2019",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/3790273541465622918",
+      "rewards": [
+        {
+          "requirement": "400 recovery points",
+          "items": [
+            {
+              "name": "FROSTY",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "2,500 recovery points",
+          "items": [
+            {
+              "name": "FROSTY",
+              "category": "palette"
+            },
+            {
+              "name": "FROSTY",
+              "category": "mask"
+            }
+          ]
+        },
+        {
+          "requirement": "100,000,000 collective recovery points; awarded to all players when the community goal was reached",
+          "items": [
+            {
+              "name": "HOLIDAY TOP HAT",
+              "category": "hat"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2019-12-16",
+        "end": "2020-01-17"
+      },
+      "notes": "The announced end time was 12:00 AM PT on January 17, 2020."
+    },
+    {
+      "id": "lunar-event-2019",
+      "name": "Lunar Event 2019",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/1618399198861530526",
+      "rewards": [
+        {
+          "requirement": "Discover the historical Apollo lander on Desolo",
+          "items": [
+            {
+              "name": "VINTAGE RED",
+              "category": "palette"
+            },
+            {
+              "name": "VINTAGE EMBLEM",
+              "category": "visor"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2019-07-18",
+        "end": "2019-08-31"
+      },
+      "notes": "Historical event window; this announcement does not establish present-day availability."
+    },
+    {
+      "id": "summer-login-promotion-2019",
+      "name": "Summer Login Promotion 2019",
+      "source_url": "https://steamcommunity.com/games/361420/announcements/detail/1620648463920020409",
+      "rewards": [
+        {
+          "requirement": "Log in to Astroneer during the summer promotion",
+          "items": [
+            {
+              "name": "SUNRISE",
+              "category": "palette"
+            },
+            {
+              "name": "SUNSET",
+              "category": "palette"
+            },
+            {
+              "name": "SUNRISE",
+              "category": "visor"
+            },
+            {
+              "name": "SUNSET",
+              "category": "visor"
+            }
+          ]
+        }
+      ],
+      "dates": {
+        "start": "2019-06-20",
+        "end": "2019-08-31"
+      }
+    },
+    {
+      "id": "leekend-login-february-2024",
+      "name": "Leekend Login Rewards — February 2024",
+      "source_url": "https://x.com/astroneergame/status/1757495181773816208",
+      "dates": {
+        "start": "2024-02-16",
+        "end": "2024-02-18"
+      },
+      "notes": "The February 13 announcement invited players to log in the following Friday, Saturday, and Sunday to receive the set.",
+      "rewards": [
+        {
+          "requirement": "Log in on each event day to collect all three pieces of the Leek Set",
+          "items": [
+            {
+              "name": "ON F-L33K",
+              "category": "palette"
+            },
+            {
+              "name": "MINONION",
+              "category": "visor"
+            },
+            {
+              "name": "SECRET STALK",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leekend-login-november-2024",
+      "name": "Leekend Login Rewards — November 2024",
+      "source_url": "https://www.reddit.com/r/Astroneer/comments/1gxfel8/leekend_is_back_login_daily_this_weekend_to/",
+      "dates": {
+        "start": "2024-11-22",
+        "end": "2024-11-24"
+      },
+      "notes": "Each daily reward began at midnight US Pacific time and was granted automatically on login.",
+      "rewards": [
+        {
+          "requirement": "Friday login — November 22",
+          "items": [
+            {
+              "name": "ON F-L33K",
+              "category": "palette"
+            }
+          ]
+        },
+        {
+          "requirement": "Saturday login — November 23",
+          "items": [
+            {
+              "name": "MINONION",
+              "category": "visor"
+            }
+          ]
+        },
+        {
+          "requirement": "Sunday login — November 24",
+          "items": [
+            {
+              "name": "SECRET STALK",
+              "category": "hat"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "id": "LTEFall2021Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "SPOOKY",
+          "category": "palette"
+        },
+        {
+          "name": "SPOOKY",
+          "category": "visor"
+        },
+        {
+          "name": "PUMPKIN",
+          "category": "visor"
+        },
+        {
+          "name": "ENDLESS",
+          "category": "visor"
+        },
+        {
+          "name": "HALLOWED HELM",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "SalvageBundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "SALVAGE CHIC",
+          "category": "palette"
+        },
+        {
+          "name": "4ML A-TYRE",
+          "category": "hat"
+        },
+        {
+          "name": "TURRET-A-PORTER",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "LTEHoliday2021Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "TINSEL TOWN",
+          "category": "palette"
+        },
+        {
+          "name": "BAUBLEHEAD",
+          "category": "visor"
+        },
+        {
+          "name": "FESTIVE CHAPBOW",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTESpring2022Bundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "GOING GREEN",
+          "category": "palette"
+        },
+        {
+          "name": "WIRED",
+          "category": "hat"
+        }
+      ]
+    },
+    {
+      "id": "LTEAutomation2022Bundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "COPPER PLATE",
+          "category": "palette"
+        },
+        {
+          "name": "COGPIECE",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "LTESpring2023Bundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "SAFETY ORANGE",
+          "category": "palette"
+        },
+        {
+          "name": "CO-N3",
+          "category": "hat"
+        },
+        {
+          "name": "STOP SIGN",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "LTEAutomation2023Bundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "DOT COM",
+          "category": "palette"
+        },
+        {
+          "name": "FORGE AHEAD",
+          "category": "mask"
+        },
+        {
+          "name": "THINKING",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "LTEHoliday2023Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "CARBONATED",
+          "category": "palette"
+        },
+        {
+          "name": "SEASONAL ALLURE",
+          "category": "hat"
+        },
+        {
+          "name": "SHIVER",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "LTEAutomationBundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "METAL GEAR",
+          "category": "visor"
+        },
+        {
+          "name": "GEARHEAD",
+          "category": "hat"
+        },
+        {
+          "name": "VR VISION",
+          "category": "mask"
+        }
+      ]
+    },
+    {
+      "id": "LTEFall2023Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "POLLEN COUNT",
+          "category": "visor"
+        },
+        {
+          "name": "GALASTRO CAP",
+          "category": "hat"
+        },
+        {
+          "name": "LEAF LEAP",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "LTEFall2022Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "HONEST LIVING",
+          "category": "hat"
+        },
+        {
+          "name": "DANCE: GIDDYUP",
+          "category": "emote"
+        }
+      ]
+    },
+    {
+      "id": "LTEHoliday2022Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "BOREAL BEANIE",
+          "category": "hat"
+        },
+        {
+          "name": "PUDDING WARMER",
+          "category": "mask"
+        }
+      ]
+    }
+  ],
+  "unmatched_rewards": []
+}

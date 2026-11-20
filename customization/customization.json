@@ -231,7 +231,7 @@
     "category": "suit",
     "image": "img/AthleisureSuit.png",
     "menu_position": 29,
-    "obtainment_method": "Store",
+    "obtainment_method": "DLC",
     "obtained_through": "Unlocked by purchasing a special bundle from EXO Dynamics."
   },
   {
@@ -241,7 +241,7 @@
     "menu_position": 30,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "CAGE SUIT",
@@ -250,7 +250,7 @@
     "menu_position": 31,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "GALASTRO SUIT",
@@ -274,7 +274,8 @@
     "image": "img/LynSuit.png",
     "menu_position": 34,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP.",
+    "required_dlc": "Glitchwalkers"
   },
   {
     "name": "EXPEDITION SUIT",
@@ -480,7 +481,10 @@
     "image": "img/Palette_Character_Tropical.png",
     "menu_position": 23,
     "obtainment_method": "Store",
-    "obtained_through": "Purchased from EXO Outfitters Store."
+    "obtained_through": "Labeled as store unlock. Catalogue entry exists, but no price or unlock instructions.",
+    "additional_methods": [
+      "Unknown"
+    ]
   },
   {
     "name": "ROYAL FLUSH",
@@ -645,7 +649,7 @@
     "image": "img/Palette_Character_Sunrise.png",
     "menu_position": 43,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics.",
+    "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019.",
     "bundle_association": "SUMMER SUN BUNDLE"
   },
   {
@@ -654,7 +658,7 @@
     "image": "img/Palette_Character_Sunset.png",
     "menu_position": 44,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics.",
+    "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019.",
     "bundle_association": "SUMMER SUN BUNDLE"
   },
   {
@@ -673,15 +677,15 @@
     "menu_position": 46,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "VINTAGE RED",
     "category": "palette",
     "image": "img/Palette_Character_Vintage.png",
     "menu_position": 47,
-    "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+    "obtainment_method": "Event",
+    "obtained_through": "Originally unlocked by discovering the historic Apollo lander on Desolo during the 2019 Lunar Event."
   },
   {
     "name": "SALVAGE CHIC",
@@ -690,7 +694,7 @@
     "menu_position": 48,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -699,7 +703,7 @@
     "image": "img/Palette_Character_Noir.png",
     "menu_position": 49,
     "obtainment_method": "Unknown",
-    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
   },
   {
     "name": "TOXIC DINO",
@@ -707,7 +711,7 @@
     "image": "img/Palette_Character_Dino.png",
     "menu_position": 50,
     "obtainment_method": "Unknown",
-    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
   },
   {
     "name": "MUTED DARKNESS",
@@ -715,7 +719,7 @@
     "image": "img/Palette_Character_Muted.png",
     "menu_position": 51,
     "obtainment_method": "Unknown",
-    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
   },
   {
     "name": "VERO VIOLET",
@@ -723,7 +727,7 @@
     "image": "img/Palette_Character_Vero.png",
     "menu_position": 52,
     "obtainment_method": "Unknown",
-    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
   },
   {
     "name": "TOASTY",
@@ -738,8 +742,10 @@
     "category": "palette",
     "image": "img/Palette_Character_Floral_Bananas.png",
     "menu_position": 54,
-    "obtainment_method": "Store",
-    "obtained_through": "Purchased from EXO Outfitters Store."
+    "obtainment_method": "Unknown",
+    "obtained_through": "Availability and original source unknown.",
+    "obtainment_details": "Shares the Beach Ready display name with a different palette, but uses floral banana artwork. Absent from the inspected store and catalogue; whether it was ever publicly released is unconfirmed.",
+    "hide_store_offers": true
   },
   {
     "name": "GALACTIC",
@@ -819,7 +825,7 @@
     "image": "img/Palette_Character_Wanderer_Blue.png",
     "menu_position": 64,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Kepler Space Telescope, Sylva)"
   },
   {
     "name": "WANDERER TEAL",
@@ -827,7 +833,7 @@
     "image": "img/Palette_Character_Wanderer_Teal.png",
     "menu_position": 65,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Pioneer I, Glacio)"
   },
   {
     "name": "WANDERER GREEN",
@@ -835,7 +841,7 @@
     "image": "img/Palette_Character_Wanderer_Green.png",
     "menu_position": 66,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Sputnik Satellite, Atrox)"
   },
   {
     "name": "WANDERER YELLOW",
@@ -843,7 +849,7 @@
     "image": "img/Palette_Character_Wanderer_Yellow.png",
     "menu_position": 67,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (New Horizons Probe, Desolo)"
   },
   {
     "name": "WANDERER ORANGE",
@@ -851,7 +857,7 @@
     "image": "img/Palette_Character_Wanderer_Orange.png",
     "menu_position": 68,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Hubble Space Telescope, Calidor)"
   },
   {
     "name": "WANDERER RED",
@@ -859,7 +865,7 @@
     "image": "img/Palette_Character_Wanderer_Red.png",
     "menu_position": 69,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Mariner X, Novus)"
   },
   {
     "name": "WANDERER FUCHSIA",
@@ -867,7 +873,7 @@
     "image": "img/Palette_Character_Wanderer_Fuchsia.png",
     "menu_position": 70,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+    "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Voyager 2, Vesania)"
   },
   {
     "name": "WANDERER GREY",
@@ -900,7 +906,7 @@
     "menu_position": 74,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -984,7 +990,7 @@
     "menu_position": 84,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -1050,7 +1056,7 @@
     "menu_position": 92,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -1163,7 +1169,10 @@
     "image": "img/Palette_Character_Skate_Teal.png",
     "menu_position": 105,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "additional_methods": [
+      "Unknown"
+    ]
   },
   {
     "name": "DENIM DUDS",
@@ -1326,8 +1335,8 @@
     "category": "palette",
     "image": "img/Palette_Character_Leek.png",
     "menu_position": 124,
-    "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by logging in during a Leekend login event.",
     "bundle_association": "SECRET LEEKS"
   },
   {
@@ -1337,7 +1346,7 @@
     "menu_position": 125,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -1347,7 +1356,7 @@
     "menu_position": 126,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -1388,7 +1397,8 @@
     "image": "img/Palette_Character_Warmth.png",
     "menu_position": 131,
     "obtainment_method": "Store",
-    "obtained_through": "Purchased from EXO Outfitters Store."
+    "obtained_through": "Purchased from EXO Outfitters Store.",
+    "visible": false
   },
   {
     "name": "SPACE MAGIC",
@@ -1406,7 +1416,7 @@
     "menu_position": 133,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -1416,7 +1426,7 @@
     "menu_position": 134,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "ROCKSTAR",
@@ -1425,7 +1435,7 @@
     "menu_position": 135,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "CONTOUR",
@@ -1434,7 +1444,8 @@
     "menu_position": 136,
     "obtainment_method": "Code redemption",
     "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
-    "bundle_association": "OFF-PANEL BUNDLE"
+    "bundle_association": "OFF-PANEL BUNDLE",
+    "obtainment_details": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat."
   },
   {
     "name": "OLD GOLD",
@@ -1451,7 +1462,8 @@
     "menu_position": 138,
     "obtainment_method": "Special collection",
     "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
-    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+    "bundle_association": "EXTRA LIFE MK II BUNDLE",
+    "obtainment_details": "Released during System Era's November–December 2023 Extra Life fundraising campaign for Seattle Children's Hospital. A $5 USD donation unlocked the Extra Life visor; donations of $15 USD or more unlocked both the Extra Life visor and palette."
   },
   {
     "name": "LIMINAL LEAK",
@@ -1460,7 +1472,7 @@
     "menu_position": 139,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "DODGED A BULLET",
@@ -1478,7 +1490,7 @@
     "menu_position": 141,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "BEE'S KNEES",
@@ -1496,7 +1508,7 @@
     "menu_position": 143,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "CHROMATIC BLACK",
@@ -1539,7 +1551,7 @@
     "menu_position": 148,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "EXTRA LIFE MK II",
@@ -1548,7 +1560,8 @@
     "menu_position": 149,
     "obtainment_method": "Special collection",
     "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
-    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+    "bundle_association": "EXTRA LIFE MK II BUNDLE",
+    "obtainment_details": "Introduced in November 2024 as a new set for returning donors from the 2023 campaign. Featured during System Era's official Extra Life Charity Stream with Gina on November 16, 2024. Donations of $15 USD or more unlocked both the Extra Life MK II palette and visor."
   },
   {
     "name": "KNITLY FIBER",
@@ -1565,7 +1578,8 @@
     "image": "img/Palette_Character_Sacred_Pattern.png",
     "menu_position": 151,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP.",
+    "required_dlc": "Glitchwalkers"
   },
   {
     "name": "MAL-WEAR",
@@ -1590,7 +1604,7 @@
     "menu_position": 154,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "MOREL CODE",
@@ -1617,7 +1631,7 @@
     "menu_position": 157,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "BAD APPLE",
@@ -1626,7 +1640,7 @@
     "menu_position": 158,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "BOSSFERATU",
@@ -1643,8 +1657,8 @@
     "image": "img/Palette_Character_Jolly.png",
     "menu_position": 160,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtained_through": "Unlocked by earning 6,500 points during Project C.H.E.E.R. 2025.",
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "COLD SHOULDER",
@@ -1656,7 +1670,7 @@
     "bundle_association": "ALL-KNIGHTER"
   },
   {
-    "name": "Megatech",
+    "name": "Jewel Case",
     "category": "palette",
     "image": "img/Palette_Character_Megatech.png",
     "menu_position": 162,
@@ -1664,12 +1678,13 @@
     "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
   },
   {
-    "name": "COSMOPOLITAN",
+    "name": "Cosmopolitan",
     "category": "palette",
     "image": "img/Palette_Character_Skybox.png",
     "menu_position": 163,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by Printing the Orbital Platform."
+    "obtained_through": "Unlocked by launching the Stage 1 package for the Orbital Platform.",
+    "required_dlc": "Megatech"
   },
   {
     "name": "MIRROR GOLD",
@@ -1693,7 +1708,7 @@
     "image": "img/Visor_Sunrise.png",
     "menu_position": 3,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics.",
+    "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019.",
     "bundle_association": "SUMMER SUN BUNDLE"
   },
   {
@@ -1702,7 +1717,7 @@
     "image": "img/Visor_Sunset.png",
     "menu_position": 4,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by playing Astroneer during Summer 2019.",
+    "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019.",
     "bundle_association": "SUMMER SUN BUNDLE"
   },
   {
@@ -1752,7 +1767,7 @@
     "category": "visor",
     "image": "img/Visor_OrbitalsLogo_Blue.png",
     "menu_position": 10,
-    "obtainment_method": "Special collection",
+    "obtainment_method": "Code redemption",
     "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
     "bundle_association": "RECRUIT BUNDLE"
   },
@@ -1770,8 +1785,8 @@
     "category": "visor",
     "image": "img/Visor_Vintage.png",
     "menu_position": 12,
-    "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+    "obtainment_method": "Event",
+    "obtained_through": "Originally unlocked by discovering the historic Apollo lander on Desolo during the 2019 Lunar Event."
   },
   {
     "name": "PUMPKIN",
@@ -1789,7 +1804,7 @@
     "menu_position": 14,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "EXO BLUE",
@@ -1922,7 +1937,7 @@
     "menu_position": 30,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -1988,7 +2003,7 @@
     "menu_position": 38,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -2016,7 +2031,7 @@
     "menu_position": 41,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -2220,7 +2235,7 @@
     "image": "img/Visor_Spiral.png",
     "menu_position": 65,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a special item code."
   },
   {
     "name": "LORD LEO",
@@ -2228,7 +2243,7 @@
     "image": "img/Visor_Spots.png",
     "menu_position": 66,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a special item code."
   },
   {
     "name": "LORD CHECKERS",
@@ -2236,7 +2251,7 @@
     "image": "img/Visor_Checkers.png",
     "menu_position": 67,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a special item code."
   },
   {
     "name": "HUNTER",
@@ -2252,7 +2267,8 @@
     "image": "img/Visor_Skate_Stickers.png",
     "menu_position": 69,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "obtainment_details": "Rare promotional code included with select apparel purchase from the astroneer official merch store. Never promoted or documented in official sources. Availability unclear."
   },
   {
     "name": "DELTA WAVE",
@@ -2319,8 +2335,8 @@
     "category": "visor",
     "image": "img/Visor_Graphic_Leek.png",
     "menu_position": 77,
-    "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by logging in during a Leekend login event.",
     "bundle_association": "SECRET LEEKS"
   },
   {
@@ -2329,7 +2345,7 @@
     "image": "img/Visor_Dragon.png",
     "menu_position": 78,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a special item code."
   },
   {
     "name": "LORD HYPNO",
@@ -2337,7 +2353,7 @@
     "image": "img/Visor_Hypno.png",
     "menu_position": 79,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code."
+    "obtained_through": "Unlocked by redeeming a special item code."
   },
   {
     "name": "CLOUDY",
@@ -2354,7 +2370,7 @@
     "menu_position": 81,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -2364,7 +2380,8 @@
     "menu_position": 82,
     "obtainment_method": "Code redemption",
     "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
-    "bundle_association": "OFF-PANEL BUNDLE"
+    "bundle_association": "OFF-PANEL BUNDLE",
+    "obtainment_details": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat."
   },
   {
     "name": "EXTRA LIFE",
@@ -2373,7 +2390,8 @@
     "menu_position": 83,
     "obtainment_method": "Special collection",
     "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
-    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+    "bundle_association": "EXTRA LIFE MK II BUNDLE",
+    "obtainment_details": "Released during System Era's November–December 2023 Extra Life fundraising campaign for Seattle Children's Hospital. A $5 USD donation unlocked the Extra Life visor; donations of $15 USD or more unlocked both the Extra Life visor and palette."
   },
   {
     "name": "BAUBLEGUM",
@@ -2382,7 +2400,7 @@
     "menu_position": 84,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "BINARY VISION",
@@ -2400,7 +2418,7 @@
     "menu_position": 86,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "HONEYDEW",
@@ -2418,7 +2436,8 @@
     "menu_position": 88,
     "obtainment_method": "Special collection",
     "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
-    "bundle_association": "EXTRA LIFE MK II BUNDLE"
+    "bundle_association": "EXTRA LIFE MK II BUNDLE",
+    "obtainment_details": "Introduced in November 2024 as a new set for returning donors from the 2023 campaign. Featured during System Era's official Extra Life Charity Stream with Gina on November 16, 2024. Donations of $15 USD or more unlocked both the Extra Life MK II palette and visor."
   },
   {
     "name": "YARN WINDER",
@@ -2435,7 +2454,8 @@
     "image": "img/Visor_Sacred_Pattern.png",
     "menu_position": 90,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+    "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP.",
+    "required_dlc": "Glitchwalkers"
   },
   {
     "name": "CIPHER SIGHT",
@@ -2451,7 +2471,10 @@
     "image": "img/Visor_XGW.png",
     "menu_position": 92,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a special item code."
+    "obtained_through": "Unlocked by redeeming a special item code.",
+    "additional_methods": [
+      "Unknown"
+    ]
   },
   {
     "name": "ION-EYEZ",
@@ -2460,7 +2483,7 @@
     "menu_position": 93,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "SPORE VISION",
@@ -2487,7 +2510,7 @@
     "menu_position": 96,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "PICK YOUR POISON",
@@ -2496,7 +2519,7 @@
     "menu_position": 97,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "BLOODSHOT",
@@ -2513,11 +2536,11 @@
     "image": "img/Visor_Jolly.png",
     "menu_position": 99,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtained_through": "Unlocked by earning 3,500 points during Project C.H.E.E.R. 2025.",
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
-    "name": "Megatech",
+    "name": "En-Ambered",
     "category": "visor",
     "image": "img/Visor_Megatech.png",
     "menu_position": 100,
@@ -2530,7 +2553,8 @@
     "image": "img/Visor_Tableau.png",
     "menu_position": 101,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by Printing the Museum."
+    "obtained_through": "Unlocked by completing the final milestone for all four Museum Donation Stations.",
+    "required_dlc": "Megatech"
   },
   {
     "name": "NEXUS",
@@ -2575,7 +2599,7 @@
     "image": "img/Hat_Birthday_1.png",
     "menu_position": 3,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's first anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's first anniversary (2020)."
   },
   {
     "name": "ANNIVERSARY ITEM MK II",
@@ -2583,7 +2607,7 @@
     "image": "img/Hat_Birthday_2.png",
     "menu_position": 4,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's second anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's second anniversary (2021)."
   },
   {
     "name": "ANNIVERSARY ITEM MK III",
@@ -2591,7 +2615,7 @@
     "image": "img/Hat_Birthday_3.png",
     "menu_position": 5,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's third anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's third anniversary (2022)."
   },
   {
     "name": "ANNIVERSARY ITEM MK IV",
@@ -2599,7 +2623,7 @@
     "image": "img/Hat_Birthday_4.png",
     "menu_position": 6,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's fourth anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's fourth anniversary (2023)."
   },
   {
     "name": "ANNIVERSARY ITEM MK V",
@@ -2607,7 +2631,7 @@
     "image": "img/Hat_Birthday_5.png",
     "menu_position": 7,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's fifth anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's fifth anniversary (2024)."
   },
   {
     "name": "ANNIVERSARY ITEM MK VI",
@@ -2615,7 +2639,7 @@
     "image": "img/Hat_Birthday_6.png",
     "menu_position": 8,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's sixth anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's sixth anniversary (2025)."
   },
   {
     "name": "ANNIVERSARY ITEM MK VII",
@@ -2623,7 +2647,7 @@
     "image": "img/Hat_Birthday_7.png",
     "menu_position": 9,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by celebrating Astroneer's seventh anniversary."
+    "obtained_through": "Anniversary reward celebrating Astroneer's seventh anniversary (2026)."
   },
   {
     "name": "ANT-10A",
@@ -2777,7 +2801,10 @@
     "image": "img/Hat_Conical.png",
     "menu_position": 28,
     "obtainment_method": "Store",
-    "obtained_through": "Purchased from EXO Outfitters Store."
+    "obtained_through": "Labeled as store unlock. Catalogue entry exists, but no price or unlock instructions.",
+    "additional_methods": [
+      "Unknown"
+    ]
   },
   {
     "name": "FASTER BLASTER",
@@ -2802,7 +2829,7 @@
     "menu_position": 31,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -2845,7 +2872,7 @@
     "menu_position": 36,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -2871,7 +2898,7 @@
     "menu_position": 39,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -2897,7 +2924,7 @@
     "image": "img/Hat_Bow_Holiday.png",
     "menu_position": 42,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by achieving the EXO Dynamics community delivery goal.",
+    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -2949,7 +2976,7 @@
     "menu_position": 48,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -3031,7 +3058,8 @@
     "menu_position": 58,
     "obtainment_method": "Code redemption",
     "obtained_through": "Unlocked by redeeming a physical item code.",
-    "bundle_association": "WIP"
+    "bundle_association": "WIP",
+    "obtainment_details": "Included as a physical/digital redemption code with the Astroneer Original Soundtrack Vinyl (clear blue LP by Rutger Zuydervelt), released in June 2022."
   },
   {
     "name": "HONEST LIVING",
@@ -3040,7 +3068,7 @@
     "menu_position": 59,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -3090,7 +3118,7 @@
     "image": "img/Hat_Fez.png",
     "menu_position": 65,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+    "obtained_through": "Unlocked through the community rewards for Project C.H.E.E.R. 2021 and 2022.",
     "obtainment_details": "Exact event/date not specified."
   },
   {
@@ -3190,7 +3218,7 @@
     "menu_position": 77,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE, SNAIL FARMER"
   },
   {
@@ -3198,8 +3226,8 @@
     "category": "hat",
     "image": "img/Hat_Leek.png",
     "menu_position": 78,
-    "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming a physical item code.",
+    "obtainment_method": "Event",
+    "obtained_through": "Unlocked by logging in during a Leekend login event.",
     "bundle_association": "SECRET LEEKS"
   },
   {
@@ -3209,7 +3237,7 @@
     "menu_position": 79,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -3219,7 +3247,7 @@
     "menu_position": 80,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -3244,7 +3272,8 @@
     "image": "img/Hat_BrainSlug.png",
     "menu_position": 83,
     "obtainment_method": "Code redemption",
-    "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+    "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
+    "obtainment_details": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat."
   },
   {
     "name": "LITTLE PRINCE",
@@ -3261,7 +3290,7 @@
     "menu_position": 85,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "SEASONAL ALLURE",
@@ -3270,7 +3299,7 @@
     "menu_position": 86,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -3289,7 +3318,7 @@
     "menu_position": 88,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "FEELERS",
@@ -3307,7 +3336,7 @@
     "menu_position": 90,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "LOOKING SHARP",
@@ -3334,7 +3363,7 @@
     "menu_position": 93,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "HORN OF PLENTY",
@@ -3343,7 +3372,7 @@
     "menu_position": 94,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "LAB LEAK",
@@ -3352,7 +3381,7 @@
     "menu_position": 95,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "AMANITA MINUTE",
@@ -3379,7 +3408,7 @@
     "menu_position": 98,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "NIGHT COWL",
@@ -3396,8 +3425,8 @@
     "image": "img/Hat_Jolly.png",
     "menu_position": 100,
     "obtainment_method": "Event",
-    "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtained_through": "Unlocked by earning 10,000 points during Project C.H.E.E.R. 2025.",
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "ICEBREAKER",
@@ -3409,20 +3438,21 @@
     "bundle_association": "ALL-KNIGHTER"
   },
   {
-    "name": "Construction 2",
+    "name": "Pardon our Dust",
     "category": "hat",
     "image": "img/Hat_Construction_2.png",
     "menu_position": 102,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by Printing a second Megastructure."
+    "obtained_through": "Unlocked by completing Distribution Launcher System (DLS) missions"
   },
   {
-    "name": "Sunflower",
+    "name": "Under the Sun",
     "category": "hat",
     "image": "img/Hat_Sunflower.png",
     "menu_position": 103,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by Printing a Biodome."
+    "obtained_through": "Unlocked by Printing a Biodome.",
+    "required_dlc": "Megatech"
   },
   {
     "name": "NONE",
@@ -3439,7 +3469,7 @@
     "menu_position": 2,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "NO-SCOP3",
@@ -3528,7 +3558,7 @@
     "menu_position": 13,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -3586,7 +3616,7 @@
     "menu_position": 20,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -3621,7 +3651,7 @@
     "menu_position": 24,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -3776,7 +3806,7 @@
     "menu_position": 43,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -3851,7 +3881,7 @@
     "menu_position": 52,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -3886,7 +3916,7 @@
     "menu_position": 56,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "THE ONE",
@@ -3913,7 +3943,7 @@
     "menu_position": 59,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Documented event appearances and requirements are listed below."
   },
   {
     "name": "X-OUT",
@@ -3931,7 +3961,7 @@
     "menu_position": 61,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "CUTE-AS-A",
@@ -3957,7 +3987,7 @@
     "menu_position": 64,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified."
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
   },
   {
     "name": "BRAVE FACE",
@@ -3969,7 +3999,7 @@
     "bundle_association": "ALL-KNIGHTER"
   },
   {
-    "name": "Megatech",
+    "name": "Gear Shift",
     "category": "mask",
     "image": "img/Mask_Megatech.png",
     "menu_position": 66,
@@ -3977,12 +4007,13 @@
     "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
   },
   {
-    "name": "Wires",
+    "name": "Haywire",
     "category": "mask",
     "image": "img/Mask_Wires.png",
     "menu_position": 67,
     "obtainment_method": "In-game unlock",
-    "obtained_through": "Unlocked by completing the Interplanetary Megastructure Initiative Training Module!."
+    "obtained_through": "Unlocked by completing the Interplanetary Megastructure Initiative Training Module!.",
+    "required_dlc": "Megatech"
   },
   {
     "name": "JUMP FOR JOY",
@@ -4489,7 +4520,7 @@
     "menu_position": 63,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -4514,7 +4545,7 @@
     "image": "img/ThankYou.png",
     "menu_position": 66,
     "obtainment_method": "Store",
-    "obtained_through": "Purchased from EXO Outfitters Store."
+    "obtained_through": "Claimed free from EXO Outfitters Store."
   },
   {
     "name": "LAUGH AND CRY",
@@ -4531,7 +4562,7 @@
     "menu_position": 68,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "SALVAGE THROWBACK BUNDLE"
   },
   {
@@ -4541,7 +4572,7 @@
     "menu_position": 69,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Documented event appearances and requirements are listed below.",
     "bundle_association": "AMPP THROWBACK BUNDLE"
   },
   {
@@ -4559,7 +4590,7 @@
     "menu_position": 71,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "BIOFUEL THROWBACK BUNDLE"
   },
   {
@@ -4569,7 +4600,7 @@
     "menu_position": 72,
     "obtainment_method": "Event",
     "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-    "obtainment_details": "Exact event/date not specified.",
+    "obtainment_details": "Original release date not confirmed; documented event appearances are listed below.",
     "bundle_association": "HOLIDAY THROWBACK BUNDLE"
   },
   {
@@ -4577,14 +4608,17 @@
     "category": "emote",
     "image": "img/Dizzy.png",
     "menu_position": 73,
-    "obtainment_method": "Unknown",
-    "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+    "obtainment_method": "In-game unlock",
+    "obtained_through": "Unlocked by reaching maximum speed while inside a Gravity Globe."
   },
   {
     "name": "T POSE",
     "category": "emote",
     "image": "img/TPose.png",
     "obtainment_method": "Store",
-    "obtained_through": "Purchased from EXO Outfitters Store."
+    "obtained_through": "Labeled as store unlock. Catalogue entry exists, but no price or unlock instructions.",
+    "additional_methods": [
+      "Unknown"
+    ]
   }
 ]

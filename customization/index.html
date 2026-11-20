@@ -8,7 +8,7 @@
     <title>Customization List · Y.U.E.</title>
     <link rel="stylesheet" href="../site.css" />
     <link rel="stylesheet" href="customization.css" />
-      <link rel="canonical" href="https://yuexr.github.io/astro/customization/" />
+    <link rel="canonical" href="https://yuexr.github.io/astro/customization/" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="yuexr" />
     <meta property="og:title" content="Customization List · Y.U.E." />
@@ -22,9 +22,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2T80REG7Z2"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-2T80REG7Z2');
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-2T80REG7Z2");
     </script>
   </head>
   <body data-page="customization" data-root="../">
@@ -40,9 +42,12 @@
           <article class="paper catalog">
             <details>
               <summary>About this list</summary>
-              <p>I created this list because I could not find an up-to-date list of all ASTRONEER customization options and their obtainment method.</p>
-              <p>Installed-file evidence & personal research (i.e. I googled stuff). Not reflective of actual or current availability. Possible discrepancies.</p>
-              <p>A reminder that any mods that allows access to paid cosmetics/content is illegal.</p>
+              <p>I created this list because I could not find an up-to-date collection of all ASTRONEER customization options and their obtainment method. Many were outdated, missing key information, and didn't show alternate obtainment methods.</p>
+              <p>Installed-file evidence & personal research (i.e. I googled stuff). Cited official sources where possible. Not reflective of actual or current availability. Possible discrepancies. I did my best!</p>
+              <p><small>P.S. A reminder that any mods that allows access to paid cosmetics/content is illegal.</small></p>
+              <p>
+                <strong>Last updated 2026/11/19 for Astroneer 1.45.1.0.</strong>
+              </p>
             </details>
             <form class="list-filters customization-filters" role="search" aria-label="Filter customizations">
               <label class="list-search" for="search"
@@ -106,16 +111,15 @@
       </main>
     </div>
 
-    <dialog class="customization-popup" aria-labelledby="customization-title" aria-describedby="customization-description">
+    <dialog class="customization-popup" aria-labelledby="customization-title">
       <button class="customization-close" type="button" aria-label="Close item details" autofocus>×</button>
       <div class="customization-detail">
         <div id="customization-image"></div>
         <div>
           <span id="customization-type" class="customization-category"></span>
           <h2 id="customization-title"></h2>
-          <span id="customization-description"></span>
-          <p id="customization-obtainment-details" hidden></p>
           <dl id="customization-facts"></dl>
+          <section id="customization-history" class="customization-history" hidden></section>
           <section id="customization-bundles" hidden></section>
         </div>
       </div>

@@ -12,7 +12,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SWIFT SUIT",
@@ -26,7 +27,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "COMMANDER SUIT",
@@ -40,7 +42,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SCOUT SUIT",
@@ -54,7 +57,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FRAME SUIT",
@@ -68,7 +72,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FRONTIER SUIT",
@@ -82,7 +87,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "VINTAGE SUIT",
@@ -111,7 +117,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HYPER SUIT",
@@ -125,7 +132,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "AQUATIC SUIT",
@@ -139,7 +147,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "OLD SCHOOL SUIT",
@@ -153,7 +162,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MINI MECH SUIT",
@@ -167,7 +177,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CONDUCTOR SUIT",
@@ -183,7 +194,8 @@
         "suit",
         "missions",
         "client_grantable"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CADET SUIT",
@@ -197,7 +209,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "ATHLEISURE SUIT",
@@ -211,7 +224,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GALASTRO SUIT",
@@ -225,7 +239,8 @@
         "character_customization",
         "unlockable",
         "suit"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "COOLANT",
@@ -239,7 +254,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HAZMATTE",
@@ -253,7 +269,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "QP MIDNIGHT",
@@ -267,7 +284,8 @@
       ],
       "base_cost": 150,
       "cost_basis": "item",
-      "bundle_only": false
+      "bundle_only": false,
+      "availability": "always"
     },
     {
       "name": "AVALANCHE",
@@ -281,7 +299,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RETRO FIT",
@@ -295,7 +314,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "AUBERGINE SHEEN",
@@ -309,7 +329,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SHORTCAKE",
@@ -323,7 +344,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BEACH READY",
@@ -337,7 +359,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HOT SPOT",
@@ -351,7 +374,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TWILLION",
@@ -365,7 +389,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BRIGHT NITE",
@@ -379,7 +404,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CYBER STATE",
@@ -393,7 +419,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ROYAL FLUSH",
@@ -407,7 +434,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EARTHENWARE",
@@ -436,7 +464,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DAY PROWLER",
@@ -450,7 +479,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TEAL APPEAL",
@@ -464,7 +494,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SAFETY YELLOW",
@@ -478,7 +509,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TOMB WORTHY",
@@ -492,7 +524,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PATCHWORK",
@@ -506,7 +539,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "COBWEB",
@@ -520,7 +554,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CANDY CORN",
@@ -534,7 +569,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "INCANTATION",
@@ -548,7 +584,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "SANGUINE",
@@ -577,7 +614,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GRUNGE",
@@ -591,7 +629,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HIBERNATE",
@@ -605,7 +644,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FLANNEL",
@@ -619,18 +659,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
-    },
-    {
-      "name": "SPOOKY",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ASTRO RECRUIT",
@@ -695,18 +725,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
-    },
-    {
-      "name": "SALVAGE CHIC",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TOASTY",
@@ -720,7 +740,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "KITTEN CAMO",
@@ -734,7 +755,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SO EXOTIC",
@@ -748,21 +770,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
-    },
-    {
-      "name": "TINSEL TOWN",
-      "category": "palette",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SUGAR COATED",
@@ -776,7 +785,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CANDY CANE",
@@ -790,7 +800,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GLOW UP",
@@ -804,7 +815,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ARCADIA",
@@ -818,7 +830,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EVENING ATTIRE",
@@ -832,7 +845,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GLITTERATI",
@@ -846,7 +860,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "UNIT-01",
@@ -860,7 +875,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "UNIT-02",
@@ -874,7 +890,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SCALES",
@@ -888,18 +905,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
-    },
-    {
-      "name": "GOING GREEN",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "BOLTED",
@@ -913,7 +920,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GREEN SCHEME",
@@ -927,7 +935,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FUNGAL EMISSION",
@@ -941,7 +950,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SLICK",
@@ -955,7 +965,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CARBON FIBER",
@@ -969,7 +980,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SCARAB",
@@ -983,7 +995,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ON GRID",
@@ -997,18 +1010,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
-    },
-    {
-      "name": "COPPER PLATE",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO STRIPES",
@@ -1022,7 +1025,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "STREET WEAR",
@@ -1036,7 +1040,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CHROMA BLUE",
@@ -1050,7 +1055,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA PINK",
@@ -1064,7 +1070,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA GREEN",
@@ -1078,7 +1085,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA GREY",
@@ -1092,7 +1100,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA ORANGE",
@@ -1106,7 +1115,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA RED",
@@ -1120,7 +1130,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA TEAL",
@@ -1134,7 +1145,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMA YELLOW",
@@ -1148,7 +1160,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CUTIE PINK",
@@ -1162,7 +1175,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CUTIE BLUE",
@@ -1176,7 +1190,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DENIM DUDS",
@@ -1190,7 +1205,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ABYSS",
@@ -1219,7 +1235,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "OFF GRID",
@@ -1233,7 +1250,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO-426",
@@ -1248,7 +1266,8 @@
         "unlockable",
         "palette",
         "ne"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GRID LOCK",
@@ -1262,7 +1281,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "ECLIPSE",
@@ -1276,7 +1296,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GALACTIC GLAM",
@@ -1290,7 +1311,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CHILL OUT",
@@ -1435,30 +1457,6 @@
       ]
     },
     {
-      "name": "SAFETY ORANGE",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette",
-        "LTE"
-      ]
-    },
-    {
-      "name": "DOT COM",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette",
-        "LTE"
-      ]
-    },
-    {
       "name": "RETROGRADE",
       "category": "palette",
       "included_in_bundle": false,
@@ -1481,7 +1479,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RIVETING",
@@ -1495,7 +1494,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DAYDREAM",
@@ -1509,7 +1509,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SPACE MAGIC",
@@ -1520,17 +1521,6 @@
       "sold_in_bundle": true,
       "bundle_only": true,
       "priced_bundle": "Space Wizard Bundle",
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "palette"
-      ]
-    },
-    {
-      "name": "CARBONATED",
-      "category": "palette",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
       "tags": [
         "character_customization",
         "unlockable",
@@ -1549,7 +1539,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "DODGED A BULLET",
@@ -1578,7 +1569,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CHROMATIC BLACK",
@@ -1592,7 +1584,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CHROMATIC GREEN",
@@ -1621,7 +1614,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "H@ZARD!",
@@ -1665,7 +1659,8 @@
         "character_customization",
         "unlockable",
         "palette"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "MOREL CODE",
@@ -1752,17 +1747,6 @@
       ]
     },
     {
-      "name": "SPOOKY",
-      "category": "visor",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "visor"
-      ]
-    },
-    {
       "name": "FACE TIME",
       "category": "visor",
       "base_cost": 250,
@@ -1774,7 +1758,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ORBITAL BLUE",
@@ -1803,20 +1788,6 @@
       ]
     },
     {
-      "name": "PUMPKIN",
-      "category": "visor",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "visor"
-      ]
-    },
-    {
       "name": "FROSTY",
       "category": "visor",
       "base_cost": 200,
@@ -1828,7 +1799,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO BLUE",
@@ -1842,7 +1814,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO GREEN",
@@ -1856,7 +1829,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO GREY",
@@ -1870,7 +1844,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO ORANGE",
@@ -1884,7 +1859,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO FUCHSIA",
@@ -1898,7 +1874,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO RED",
@@ -1912,7 +1889,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO TEAL",
@@ -1926,7 +1904,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO YELLOW",
@@ -1940,7 +1919,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SYSTEM ERROR",
@@ -1954,7 +1934,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SIGNAL LOST",
@@ -1968,7 +1949,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EMERGENCY BROADCAST",
@@ -1982,7 +1964,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "AU-SOME",
@@ -1996,7 +1979,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "DYNAMIC VISION",
@@ -2010,7 +1994,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "SYSTEM ERA SUPPORTER",
@@ -2024,7 +2009,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "ESCAPE VELOCITY",
@@ -2038,18 +2024,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
-    },
-    {
-      "name": "METAL GEAR",
-      "category": "visor",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "PARTY ANIMAL",
@@ -2063,7 +2039,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SPOTTED VISION",
@@ -2077,7 +2054,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "OFFSIDER",
@@ -2091,7 +2069,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TOUCHDOWN",
@@ -2105,7 +2084,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HOMERUN",
@@ -2119,7 +2099,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FREETHROW",
@@ -2133,7 +2114,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RACKET",
@@ -2147,21 +2129,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
-    },
-    {
-      "name": "ENDLESS",
-      "category": "visor",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CRYSTAL BALL",
@@ -2175,7 +2144,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "REBOOT",
@@ -2186,20 +2156,6 @@
       "sold_in_bundle": true,
       "bundle_only": true,
       "priced_bundle": "AutomatonBundle",
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "visor"
-      ]
-    },
-    {
-      "name": "BAUBLEHEAD",
-      "category": "visor",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "bundle_only": false,
       "tags": [
         "character_customization",
         "unlockable",
@@ -2233,7 +2189,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BLACKOUT",
@@ -2247,7 +2204,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DISCO FEVER",
@@ -2261,7 +2219,8 @@
       ],
       "base_cost": 250,
       "cost_basis": "item",
-      "bundle_only": false
+      "bundle_only": false,
+      "availability": "always"
     },
     {
       "name": "FOMALHAUT",
@@ -2275,7 +2234,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PLASMA",
@@ -2289,7 +2249,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "Q-T",
@@ -2303,7 +2264,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LUCKY LOOK",
@@ -2317,7 +2279,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "SHELTER",
@@ -2331,7 +2294,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HIGH OCTANE",
@@ -2345,7 +2309,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DAMAGE REPORT",
@@ -2359,7 +2324,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CARAPACE",
@@ -2373,7 +2339,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ASEXUAL",
@@ -2486,7 +2453,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXO WRAP",
@@ -2500,7 +2468,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HUNTER",
@@ -2514,7 +2483,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DELTA WAVE",
@@ -2528,7 +2498,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DARK STAR",
@@ -2542,7 +2513,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BIOHAZARD",
@@ -2556,7 +2528,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ERROR CODE",
@@ -2570,7 +2543,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "SNOWGLOBE",
@@ -2599,7 +2573,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "VALUABLE VIEW",
@@ -2613,7 +2588,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "MINONION",
@@ -2638,7 +2614,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "LORD HYPNO",
@@ -2652,7 +2629,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CLOUDY",
@@ -2666,21 +2644,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
-    },
-    {
-      "name": "POLLEN COUNT",
-      "category": "visor",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "visor"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ZINE",
@@ -2694,7 +2659,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "EXTRA LIFE",
@@ -2708,7 +2674,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "BINARY VISION",
@@ -2722,7 +2689,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "HONEYDEW",
@@ -2751,7 +2719,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "YARN WINDER",
@@ -2765,7 +2734,8 @@
         "character_customization",
         "unlockable",
         "visor"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "SPORE VISION",
@@ -2813,34 +2783,6 @@
       ]
     },
     {
-      "name": "HOLIDAY TOP HAT",
-      "category": "hat",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": false,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
-    },
-    {
-      "name": "ANNIVERSARY ITEM MK V",
-      "category": "hat",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": false,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
-    },
-    {
       "name": "ANT-10A",
       "category": "hat",
       "base_cost": 250,
@@ -2852,7 +2794,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BESPOKE BUCKET",
@@ -2866,7 +2809,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "OUTFIELDER",
@@ -2880,7 +2824,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PURRFECTION",
@@ -2894,7 +2839,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CLUCKINATOR 500",
@@ -2908,7 +2854,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "UNDER CONSTRUCTION",
@@ -2922,7 +2869,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DEEP SPACE DESPERADO",
@@ -2966,7 +2914,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SEASONAL HELPER",
@@ -2980,7 +2929,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DEFENSIVE MEASURE",
@@ -2994,7 +2944,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ROBO RUDDER",
@@ -3008,7 +2959,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ROCK-IT SHIPPER",
@@ -3022,7 +2974,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LAUGH TRACK",
@@ -3036,7 +2989,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "STEERING STABILIZER",
@@ -3050,7 +3004,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ALPHA CENTURION",
@@ -3064,7 +3019,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "STUNT TEAM",
@@ -3078,7 +3034,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RAM ROD",
@@ -3092,7 +3049,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FASTER BLASTER",
@@ -3106,7 +3064,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HYDRATION DEFLECTOR",
@@ -3120,18 +3079,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
-    },
-    {
-      "name": "4ML A-TYRE",
-      "category": "hat",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BROADCAST BEACONS",
@@ -3145,7 +3094,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ARM-80",
@@ -3159,7 +3109,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GRAD-U-8",
@@ -3173,7 +3124,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "AVANT GARDENER",
@@ -3184,17 +3136,6 @@
       "sold_in_bundle": true,
       "bundle_only": true,
       "priced_bundle": "FlowerBundle",
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
-    },
-    {
-      "name": "GEARHEAD",
-      "category": "hat",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
       "tags": [
         "character_customization",
         "unlockable",
@@ -3213,7 +3154,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ECHO LOCATORS",
@@ -3227,18 +3169,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
-    },
-    {
-      "name": "HALLOWED HELM",
-      "category": "hat",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HOCUS POCUS",
@@ -3252,7 +3184,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "AFR-0",
@@ -3266,7 +3199,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FESTIVE CHAPBOW",
@@ -3281,7 +3215,8 @@
         "unlockable",
         "hat",
         "sale"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CANDY CROWN",
@@ -3310,7 +3245,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MOON RABBIT",
@@ -3324,7 +3260,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FINAL FORM",
@@ -3338,7 +3275,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LUNAR LAMP",
@@ -3352,7 +3290,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "WIRED",
@@ -3366,7 +3305,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "G2T-CHOPPER",
@@ -3380,7 +3320,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PRIME TIME",
@@ -3394,7 +3335,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TAILWIND",
@@ -3408,7 +3350,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MUTATION",
@@ -3422,7 +3365,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LONG HAUL",
@@ -3436,7 +3380,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HEAD LIGHTS",
@@ -3450,7 +3395,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CRUISE CONTROL",
@@ -3464,7 +3410,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "EXHAUSTED",
@@ -3478,7 +3425,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ASTRODOME",
@@ -3492,7 +3440,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "REMIX",
@@ -3521,7 +3470,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "ELEMENTARY",
@@ -3535,7 +3485,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GUIDING LITE",
@@ -3549,7 +3500,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "EMERGENCY LAMP",
@@ -3563,7 +3515,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FASCINATING",
@@ -3577,7 +3530,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "JACKED IN",
@@ -3591,7 +3545,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "THE FEZHANT",
@@ -3605,7 +3560,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CONTROL UNIT",
@@ -3619,7 +3575,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "ENCRYPTID CREEPERS",
@@ -3633,7 +3590,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "STRANGE SHELL",
@@ -3647,7 +3605,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SPICY SHELL",
@@ -3661,7 +3620,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LUNAR SHELL",
@@ -3675,7 +3635,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CHILLY SHELL",
@@ -3689,7 +3650,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SWEET SHELL",
@@ -3703,7 +3665,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FRIENDLY SHELL",
@@ -3717,7 +3680,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FANCY SHELL",
@@ -3731,7 +3695,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "WINTER COURTIER",
@@ -3760,7 +3725,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BOREAL BEANIE",
@@ -3779,43 +3745,6 @@
       ]
     },
     {
-      "name": "SECRET STALK",
-      "category": "hat",
-      "base_cost": 0,
-      "cost_basis": "item",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "bundle_only": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
-    },
-    {
-      "name": "CO-N3",
-      "category": "hat",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat",
-        "LTE"
-      ]
-    },
-    {
-      "name": "GALASTRO CAP",
-      "category": "hat",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
-    },
-    {
       "name": "EXHAUST PORT",
       "category": "hat",
       "base_cost": 500,
@@ -3827,7 +3756,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "QUICK THINKING",
@@ -3841,7 +3771,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BRAIN BUDDY",
@@ -3855,18 +3786,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
-    },
-    {
-      "name": "SEASONAL ALLURE",
-      "category": "hat",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "ASTROLABE",
@@ -3880,7 +3801,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "FEELERS",
@@ -3894,7 +3816,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "LOOKING SHARP",
@@ -3908,7 +3831,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "HAKR HAWK",
@@ -3922,7 +3846,8 @@
         "character_customization",
         "unlockable",
         "hat"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "AMANITA MINUTE",
@@ -3996,7 +3921,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "NO-SCOP3",
@@ -4010,7 +3936,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SPORT PORT",
@@ -4024,7 +3951,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PURRFESSOR",
@@ -4038,7 +3966,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "THE BEAKER",
@@ -4052,7 +3981,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "QUACKERS",
@@ -4066,7 +3996,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MOUTH BREATHER",
@@ -4080,7 +4011,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RAY GONNS",
@@ -4094,7 +4026,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SECRET STASHE",
@@ -4108,7 +4041,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SHADOW SCIENCE",
@@ -4122,7 +4056,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "NOT-A-TUBA",
@@ -4136,7 +4071,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FORGE AHEAD",
@@ -4150,7 +4086,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "OVR-9000",
@@ -4164,7 +4101,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SUN OUT / FUN OUT",
@@ -4178,7 +4116,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "10,000 BC",
@@ -4192,7 +4131,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "WILD HUNT",
@@ -4206,7 +4146,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MICRO MANAGER",
@@ -4220,7 +4161,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SAFETY PROTOCOL",
@@ -4234,18 +4176,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
-    },
-    {
-      "name": "TURRET-A-PORTER",
-      "category": "mask",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ESCAPE PATCH",
@@ -4259,7 +4191,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CORRECTIVE VISION",
@@ -4273,7 +4206,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SOLAR POWER",
@@ -4284,17 +4218,6 @@
       "sold_in_bundle": true,
       "bundle_only": true,
       "priced_bundle": "FlowerBundle",
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "mask"
-      ]
-    },
-    {
-      "name": "VR VISION",
-      "category": "mask",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
       "tags": [
         "character_customization",
         "unlockable",
@@ -4313,7 +4236,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BUGGED OUT",
@@ -4327,7 +4251,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SPACE COWBOY",
@@ -4356,7 +4281,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FACE CUDDLER",
@@ -4370,7 +4296,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PERSONAL GROWTH",
@@ -4384,7 +4311,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SNOWDRIFTERS",
@@ -4398,7 +4326,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FESTIVE FRINGE",
@@ -4412,7 +4341,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "R.S.V.P",
@@ -4426,7 +4356,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "APERTURE",
@@ -4440,7 +4371,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GUARDIAN",
@@ -4454,7 +4386,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FANDOM",
@@ -4468,7 +4401,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANGER ZONE",
@@ -4482,7 +4416,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DUAL MONITOR",
@@ -4496,7 +4431,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CONTAINMENT BREACH",
@@ -4510,7 +4446,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HORNED",
@@ -4524,7 +4461,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SPIKED",
@@ -4538,7 +4476,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RECRUIT",
@@ -4552,18 +4491,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
-    },
-    {
-      "name": "COGPIECE",
-      "category": "mask",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CLOSER LOOK",
@@ -4577,7 +4506,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "WHEAT TWEAT",
@@ -4591,7 +4521,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GRAZERS",
@@ -4605,7 +4536,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "QUID PRO QUO",
@@ -4619,7 +4551,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "3X3 EYE",
@@ -4633,7 +4566,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "SAFETY NET",
@@ -4647,7 +4581,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FRIENDLY FACE",
@@ -4661,7 +4596,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LANDING LIGHT",
@@ -4675,19 +4611,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
-    },
-    {
-      "name": "PUDDING WARMER",
-      "category": "mask",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "mask",
-        "LTE"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "COW PLOW",
@@ -4701,7 +4626,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MECHA SNAIL",
@@ -4715,7 +4641,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HEAVEN-SCENT",
@@ -4729,7 +4656,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "THE ONE",
@@ -4743,7 +4671,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "FIREBREATHER",
@@ -4757,7 +4686,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "X-OUT",
@@ -4771,7 +4701,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "CUTE-AS-A",
@@ -4785,7 +4716,8 @@
         "character_customization",
         "unlockable",
         "mask"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "BRAVE FACE",
@@ -4814,7 +4746,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "ROCK/PAPER/SCISSORS",
@@ -4828,7 +4761,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FACE PALM",
@@ -4842,7 +4776,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: FIST PUMP",
@@ -4856,7 +4791,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FORWARD FLIP",
@@ -4870,7 +4806,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SELFIE",
@@ -4884,7 +4821,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: RAG DOLL",
@@ -4899,7 +4837,8 @@
         "unlockable",
         "dance",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: ROBOT",
@@ -4914,7 +4853,8 @@
         "unlockable",
         "dance",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TA-DA!",
@@ -4929,7 +4869,8 @@
         "unlockable",
         "emote",
         "gesture"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "KITTY CLEANING",
@@ -4943,7 +4884,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "POSE OF POWER",
@@ -4957,7 +4899,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DAB",
@@ -4971,7 +4914,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FINGER GUNS",
@@ -5000,7 +4944,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "JUMP SHOT",
@@ -5014,7 +4959,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "TOUCHDOWN",
@@ -5028,7 +4974,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "RED CARD",
@@ -5042,7 +4989,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "JUMP SCARE",
@@ -5056,7 +5004,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "DANCE: AIR BASS",
@@ -5071,7 +5020,8 @@
         "unlockable",
         "emote",
         "dance"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: AIR DRUMS",
@@ -5086,7 +5036,8 @@
         "unlockable",
         "emote",
         "dance"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: AIR GUITAR",
@@ -5101,7 +5052,8 @@
         "unlockable",
         "emote",
         "dance"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: AIR UKULELE",
@@ -5116,7 +5068,8 @@
         "unlockable",
         "emote",
         "dance"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HIGH FIVE",
@@ -5130,7 +5083,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "PEEKA-BOO!",
@@ -5144,7 +5098,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "APPLAUSE",
@@ -5158,7 +5113,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MIND BLOWN",
@@ -5172,7 +5128,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GIDDY CLAPPING",
@@ -5186,7 +5143,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "MAKE SOME NOISE!",
@@ -5200,7 +5158,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "POWER UP",
@@ -5214,7 +5173,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LUNAR SALUTE",
@@ -5228,7 +5188,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SENTAI",
@@ -5242,7 +5203,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FLAG WAVE",
@@ -5256,7 +5218,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "KAIJU KICK",
@@ -5270,7 +5233,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "CHEST THUMP",
@@ -5284,7 +5248,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "HEART",
@@ -5298,7 +5263,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "SILLY SALUTE",
@@ -5312,7 +5278,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GUN SHOW",
@@ -5326,7 +5293,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "IMAGINATE!",
@@ -5340,7 +5308,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "FISH",
@@ -5354,7 +5323,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: CHILD SHOW",
@@ -5369,7 +5339,8 @@
         "unlockable",
         "emote",
         "dance"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "BROOM SWEEP",
@@ -5383,7 +5354,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "DANCE: GIDDYUP",
@@ -5398,7 +5370,8 @@
         "unlockable",
         "emote",
         "dance"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "RIGHT IN THE FEELS",
@@ -5412,7 +5385,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "GREET THE DAWN",
@@ -5426,7 +5400,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "THANKS",
@@ -5440,7 +5415,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
+      ],
+      "availability": "limited_time"
     },
     {
       "name": "LAUGH AND CRY",
@@ -5454,30 +5430,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
-    },
-    {
-      "name": "STOP SIGN",
-      "category": "emote",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "emote",
-        "LTE"
-      ]
-    },
-    {
-      "name": "THINKING",
-      "category": "emote",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "emote"
-      ]
+      ],
+      "availability": "always"
     },
     {
       "name": "LEAF LEAP",
@@ -5491,18 +5445,8 @@
         "character_customization",
         "unlockable",
         "emote"
-      ]
-    },
-    {
-      "name": "SHIVER",
-      "category": "emote",
-      "included_in_bundle": true,
-      "sold_in_bundle": false,
-      "tags": [
-        "character_customization",
-        "unlockable",
-        "emote"
-      ]
+      ],
+      "availability": "limited_time"
     }
   ],
   "bundles": [
@@ -5525,6 +5469,12 @@
         {
           "name": "DANCE: ROBOT",
           "category": "emote"
+        }
+      ],
+      "history": [
+        {
+          "description": "Introduced with EXO Outfitters on June 24, 2020, containing Frame Suit, Robot Dance and Happy Blue visor.",
+          "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2528157400350449108"
         }
       ]
     },
@@ -5563,7 +5513,8 @@
           "name": "RETROGRADE",
           "category": "palette"
         }
-      ]
+      ],
+      "included_qbits": 750
     },
     {
       "id": "FlowerBundle",
@@ -5584,6 +5535,12 @@
         {
           "name": "SOLAR POWER",
           "category": "mask"
+        }
+      ],
+      "history": [
+        {
+          "description": "Historical offer: advertised August 19, 2020, available until September 7, 2020.",
+          "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2755594256621661496"
         }
       ]
     },
@@ -5607,34 +5564,11 @@
           "name": "HOCUS POCUS",
           "category": "hat"
         }
-      ]
-    },
-    {
-      "id": "LTEFall2021Bundle",
-      "name": "BIOFUEL THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
+      ],
+      "history": [
         {
-          "name": "SPOOKY",
-          "category": "palette"
-        },
-        {
-          "name": "SPOOKY",
-          "category": "visor"
-        },
-        {
-          "name": "PUMPKIN",
-          "category": "visor"
-        },
-        {
-          "name": "ENDLESS",
-          "category": "visor"
-        },
-        {
-          "name": "HALLOWED HELM",
-          "category": "hat"
+          "description": "Historical offer: advertised October 19, 2020, available until November 16, 2020.",
+          "source_url": "https://steamcommunity.com/games/361420/announcements/detail/4622341472303813443"
         }
       ]
     },
@@ -5654,6 +5588,12 @@
           "name": "ORBITAL BLUE",
           "category": "visor"
         }
+      ],
+      "history": [
+        {
+          "description": "Free in EXO Outfitters on March 24–25, 2020 to encourage players to stay indoors and follow public health guidelines during the COVID-19 pandemic.",
+          "source_url": "https://www.facebook.com/astroneergame/posts/3138049552872841/"
+        }
       ]
     },
     {
@@ -5662,7 +5602,7 @@
       "base_cost": 0,
       "sale_tagged": false,
       "payment": "qbits",
-      "availability": "always",
+      "availability": "limited_time",
       "included_items": [
         {
           "name": "SUNRISE",
@@ -5701,48 +5641,6 @@
       ]
     },
     {
-      "id": "SalvageBundle",
-      "name": "SALVAGE THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "SALVAGE CHIC",
-          "category": "palette"
-        },
-        {
-          "name": "4ML A-TYRE",
-          "category": "hat"
-        },
-        {
-          "name": "TURRET-A-PORTER",
-          "category": "mask"
-        }
-      ]
-    },
-    {
-      "id": "LTEHoliday2021Bundle",
-      "name": "HOLIDAY THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "TINSEL TOWN",
-          "category": "palette"
-        },
-        {
-          "name": "BAUBLEHEAD",
-          "category": "visor"
-        },
-        {
-          "name": "FESTIVE CHAPBOW",
-          "category": "hat"
-        }
-      ]
-    },
-    {
       "id": "GingerbreadBundle",
       "name": "GINGERBREAD BUNDLE",
       "base_cost": 900,
@@ -5761,6 +5659,12 @@
         {
           "name": "CANDY CROWN",
           "category": "hat"
+        }
+      ],
+      "history": [
+        {
+          "description": "Advertised December 7, 2020 as a limited-time store bundle; no exact end date was stated.",
+          "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2913229756378320979"
         }
       ]
     },
@@ -5783,40 +5687,6 @@
         {
           "name": "LUNAR LAMP",
           "category": "hat"
-        }
-      ]
-    },
-    {
-      "id": "LTESpring2022Bundle",
-      "name": "SALVAGE THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "GOING GREEN",
-          "category": "palette"
-        },
-        {
-          "name": "WIRED",
-          "category": "hat"
-        }
-      ]
-    },
-    {
-      "id": "LTEAutomation2022Bundle",
-      "name": "AMPP THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "COPPER PLATE",
-          "category": "palette"
-        },
-        {
-          "name": "COGPIECE",
-          "category": "mask"
         }
       ]
     },
@@ -5904,6 +5774,12 @@
           "name": "CONTROL UNIT",
           "category": "hat"
         }
+      ],
+      "history": [
+        {
+          "description": "Previously advertised as a limited-time EXO Outfitters bundle.",
+          "source_url": "https://blog.astroneer.space/p/controls-update/"
+        }
       ]
     },
     {
@@ -5964,6 +5840,12 @@
           "name": "ROYAL REGALIA",
           "category": "palette"
         }
+      ],
+      "history": [
+        {
+          "description": "Previously advertised as a limited-time EXO Outfitters bundle.",
+          "source_url": "https://blog.astroneer.space/p/xenobiology-update/"
+        }
       ]
     },
     {
@@ -6004,49 +5886,10 @@
           "name": "SECRET STALK",
           "category": "hat"
         }
-      ]
-    },
-    {
-      "id": "LTESpring2023Bundle",
-      "name": "SALVAGE THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "SAFETY ORANGE",
-          "category": "palette"
-        },
-        {
-          "name": "CO-N3",
-          "category": "hat"
-        },
-        {
-          "name": "STOP SIGN",
-          "category": "emote"
-        }
-      ]
-    },
-    {
-      "id": "LTEAutomation2023Bundle",
-      "name": "AMPP THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "DOT COM",
-          "category": "palette"
-        },
-        {
-          "name": "FORGE AHEAD",
-          "category": "mask"
-        },
-        {
-          "name": "THINKING",
-          "category": "emote"
-        }
-      ]
+      ],
+      "available_from": "2026-10-14T10:00:00-07:00",
+      "available_until": "2026-10-27T23:59:00-07:00",
+      "source_url": "https://blog.astroneer.space/patch-notes/patch-45/"
     },
     {
       "id": "Space Wizard Bundle",
@@ -6068,26 +5911,11 @@
           "name": "HEAVEN-SCENT",
           "category": "mask"
         }
-      ]
-    },
-    {
-      "id": "LTEHoliday2023Bundle",
-      "name": "HOLIDAY THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
+      ],
+      "history": [
         {
-          "name": "CARBONATED",
-          "category": "palette"
-        },
-        {
-          "name": "SEASONAL ALLURE",
-          "category": "hat"
-        },
-        {
-          "name": "SHIVER",
-          "category": "emote"
+          "description": "Previously advertised as a limited-time EXO Outfitters bundle.",
+          "source_url": "https://blog.astroneer.space/p/awakening/"
         }
       ]
     },
@@ -6352,33 +6180,12 @@
       ]
     },
     {
-      "id": "LTEAutomationBundle",
-      "name": "AMPP THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "METAL GEAR",
-          "category": "visor"
-        },
-        {
-          "name": "GEARHEAD",
-          "category": "hat"
-        },
-        {
-          "name": "VR VISION",
-          "category": "mask"
-        }
-      ]
-    },
-    {
       "id": "PrideVisorBundle",
       "name": "PRIDE VISORS BUNDLE",
       "base_cost": 0,
       "sale_tagged": false,
       "payment": "qbits",
-      "availability": "always",
+      "availability": "limited_time",
       "included_items": [
         {
           "name": "ASEXUAL",
@@ -6408,7 +6215,8 @@
           "name": "LGBTQIA+",
           "category": "visor"
         }
-      ]
+      ],
+      "source_url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
     },
     {
       "id": "PrideVisor2Bundle",
@@ -6416,7 +6224,7 @@
       "base_cost": 0,
       "sale_tagged": false,
       "payment": "qbits",
-      "availability": "always",
+      "availability": "limited_time",
       "included_items": [
         {
           "name": "ALLY",
@@ -6425,27 +6233,6 @@
         {
           "name": "PROGRESS",
           "category": "visor"
-        }
-      ]
-    },
-    {
-      "id": "LTEFall2023Bundle",
-      "name": "BIOFUEL THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "POLLEN COUNT",
-          "category": "visor"
-        },
-        {
-          "name": "GALASTRO CAP",
-          "category": "hat"
-        },
-        {
-          "name": "LEAF LEAP",
-          "category": "emote"
         }
       ]
     },
@@ -6487,24 +6274,8 @@
           "name": "REMIX",
           "category": "hat"
         }
-      ]
-    },
-    {
-      "id": "LTEFall2022Bundle",
-      "name": "BIOFUEL THROWBACK BUNDLE",
-      "sale_tagged": false,
-      "payment": "qbits",
-      "availability": "limited_time",
-      "included_items": [
-        {
-          "name": "HONEST LIVING",
-          "category": "hat"
-        },
-        {
-          "name": "DANCE: GIDDYUP",
-          "category": "emote"
-        }
-      ]
+      ],
+      "visible": false
     },
     {
       "id": "SnailFarmerBundle",
@@ -6521,11 +6292,246 @@
       ]
     },
     {
-      "id": "LTEHoliday2022Bundle",
-      "name": "HOLIDAY THROWBACK BUNDLE",
-      "sale_tagged": false,
+      "id": "SalvageBundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "SALVAGE CHIC",
+          "category": "palette"
+        },
+        {
+          "name": "4ML A-TYRE",
+          "category": "hat"
+        },
+        {
+          "name": "TURRET-A-PORTER",
+          "category": "mask"
+        }
+      ],
+      "base_cost": 0,
       "payment": "qbits",
       "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEHoliday2021Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "TINSEL TOWN",
+          "category": "palette"
+        },
+        {
+          "name": "BAUBLEHEAD",
+          "category": "visor"
+        },
+        {
+          "name": "FESTIVE CHAPBOW",
+          "category": "hat"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTESpring2023Bundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "SAFETY ORANGE",
+          "category": "palette"
+        },
+        {
+          "name": "CO-N3",
+          "category": "hat"
+        },
+        {
+          "name": "STOP SIGN",
+          "category": "emote"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEFall2021Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "SPOOKY",
+          "category": "palette"
+        },
+        {
+          "name": "SPOOKY",
+          "category": "visor"
+        },
+        {
+          "name": "PUMPKIN",
+          "category": "visor"
+        },
+        {
+          "name": "ENDLESS",
+          "category": "visor"
+        },
+        {
+          "name": "HALLOWED HELM",
+          "category": "hat"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTESpring2022Bundle",
+      "name": "SALVAGE THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "GOING GREEN",
+          "category": "palette"
+        },
+        {
+          "name": "WIRED",
+          "category": "hat"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEAutomation2022Bundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "COPPER PLATE",
+          "category": "palette"
+        },
+        {
+          "name": "COGPIECE",
+          "category": "mask"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEAutomation2023Bundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "DOT COM",
+          "category": "palette"
+        },
+        {
+          "name": "FORGE AHEAD",
+          "category": "mask"
+        },
+        {
+          "name": "THINKING",
+          "category": "emote"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEHoliday2023Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "CARBONATED",
+          "category": "palette"
+        },
+        {
+          "name": "SEASONAL ALLURE",
+          "category": "hat"
+        },
+        {
+          "name": "SHIVER",
+          "category": "emote"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEAutomationBundle",
+      "name": "AMPP THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "METAL GEAR",
+          "category": "visor"
+        },
+        {
+          "name": "GEARHEAD",
+          "category": "hat"
+        },
+        {
+          "name": "VR VISION",
+          "category": "mask"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEFall2023Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "POLLEN COUNT",
+          "category": "visor"
+        },
+        {
+          "name": "GALASTRO CAP",
+          "category": "hat"
+        },
+        {
+          "name": "LEAF LEAP",
+          "category": "emote"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEFall2022Bundle",
+      "name": "BIOFUEL THROWBACK BUNDLE",
+      "included_items": [
+        {
+          "name": "HONEST LIVING",
+          "category": "hat"
+        },
+        {
+          "name": "DANCE: GIDDYUP",
+          "category": "emote"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    },
+    {
+      "id": "LTEHoliday2022Bundle",
+      "name": "HOLIDAY THROWBACK BUNDLE",
       "included_items": [
         {
           "name": "BOREAL BEANIE",
@@ -6533,6 +6539,33 @@
         },
         {
           "name": "PUDDING WARMER",
+          "category": "mask"
+        }
+      ],
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "availability_note": "Exact offer dates are unknown."
+    }
+  ],
+  "offers": [
+    {
+      "id": "frosty-free-claim",
+      "name": "FROSTY BUNDLE",
+      "base_cost": 0,
+      "payment": "qbits",
+      "availability": "limited_time",
+      "included_items": [
+        {
+          "name": "FROSTY",
+          "category": "palette"
+        },
+        {
+          "name": "FROSTY",
+          "category": "visor"
+        },
+        {
+          "name": "FROSTY",
           "category": "mask"
         }
       ]

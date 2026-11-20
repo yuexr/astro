@@ -1,4 +1,8 @@
-/* Filters */
+/* Default text and filters */
+
+.paper.catalog {
+  font-size: calc(13px + 1pt);
+}
 
 .customization-filters {
   grid-template-columns: minmax(110px, 1fr) minmax(145px, 1fr) minmax(165px, 1fr) 100px auto;
@@ -111,7 +115,6 @@
     sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-
 }
 
 .paper .customization-card h3 {
@@ -121,6 +124,8 @@
   padding-bottom: 4px;
   overflow-wrap: anywhere;
 }
+
+/* Source tags */
 
 .customization-methods {
   display: flex;
@@ -180,12 +185,17 @@
   color: #206fa8;
 }
 
+.customization-method[data-method='Limited Offer'] {
+  background: #fff0d6;
+  color: #8c641d;
+}
+
 .customization-method[data-method='DLC'] {
   background: #ffe5d6;
   color: #995125;
 }
 
-/* Item details */
+/* Item popup */
 
 .customization-popup {
   width: min(760px, calc(100vw - 40px));
@@ -253,7 +263,7 @@
 }
 
 .customization-popup h2 {
-  margin: 2px 0 12px 0;
+  margin: 2px 0 12px;
   color: var(--navy);
   font-size: 28px;
 }
@@ -290,6 +300,43 @@
   margin: 0;
 }
 
+.customization-popup dd p {
+  margin: 6px 0 0;
+}
+
+.customization-source-links {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+}
+
+/* Event history and offers */
+
+.customization-history {
+  margin-top: 16px;
+}
+
+.customization-history summary,
+.customization-offer-contents > summary {
+  color: var(--blue);
+  cursor: pointer;
+}
+
+.customization-history summary h3 {
+  display: inline;
+  margin: 0;
+}
+
+.customization-history p {
+  margin: 10px 0 0;
+}
+
+.customization-history small,
+.customization-bundle small {
+  display: block;
+  color: #81899a;
+}
+
 .customization-bundle {
   margin-bottom: 8px;
   padding: 10px 12px;
@@ -308,9 +355,44 @@
   margin: 0;
 }
 
-.customization-bundle small {
-  display: block;
-  color: #81899a;
+.customization-price-qbits {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-right: 4px;
+  vertical-align: -2px;
+  background: var(--blue);
+  mask: url('img/ui_icon_store_qbits.png') center / contain no-repeat;
+}
+
+.customization-bundle .customization-availability {
+  position: relative;
+  display: inline-block;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+  cursor: help;
+}
+
+.customization-tooltip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 0;
+  z-index: 1;
+  width: 270px;
+  max-width: calc(100vw - 80px);
+  padding: 9px 12px;
+  background: var(--navy);
+  color: white;
+  font-size: 12px;
+  line-height: 18px;
+  box-shadow: 0 3px 12px #33517e26;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.customization-availability:hover .customization-tooltip,
+.customization-availability:focus .customization-tooltip {
+  visibility: visible;
 }
 
 .customization-bundle > a {
@@ -322,10 +404,7 @@
   margin-top: 8px;
 }
 
-.customization-offer-contents > summary {
-  color: var(--blue);
-  cursor: pointer;
-}
+/* Bundle contents and included currency */
 
 .customization-bundle-items {
   display: grid;
@@ -347,7 +426,7 @@
   line-height: 16px;
   text-align: left;
   overflow-wrap: anywhere;
-  cursor: pointer;
+  cursor: default;
 }
 
 .customization-bundle-item strong {
@@ -355,18 +434,28 @@
   font-weight: 700;
 }
 
-.customization-bundle-item:hover {
+button.customization-bundle-item {
+  cursor: pointer;
+}
+
+button.customization-bundle-item:hover {
   background: var(--purple);
   color: white;
 }
 
-.customization-bundle-item:hover small {
+button.customization-bundle-item:hover small {
   color: inherit;
 }
 
 .customization-bundle-item:focus-visible {
   outline: 2px solid var(--purple);
   outline-offset: 2px;
+}
+
+.customization-qbits {
+  flex: 0 0 40px;
+  height: 40px;
+  background: url('img/ui_store_currency_sm_square.png') center / contain no-repeat;
 }
 
 .customization-popup .customization-bundle-item .customization-art {

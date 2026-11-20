@@ -6,19 +6,16 @@
     "url": "https://store.steampowered.com/app/4144820/",
     "included_items": [
       {
-        "name": "Megatech",
-        "category": "palette",
-        "display_name": "JEWEL CASE"
+        "name": "Jewel Case",
+        "category": "palette"
       },
       {
-        "name": "Megatech",
-        "category": "visor",
-        "display_name": "EN-AMBERED"
+        "name": "En-Ambered",
+        "category": "visor"
       },
       {
-        "name": "Megatech",
-        "category": "mask",
-        "display_name": "GEAR SHIFT"
+        "name": "Gear Shift",
+        "category": "mask"
       }
     ]
   },

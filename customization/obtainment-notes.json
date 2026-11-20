@@ -1,15 +1,53 @@
 {
   "notes": {
-    "ASTRO RECRUIT": "Code redemption from PAX East 2019.",
-    "P.A.L.": "Code redemption from purchasing Astroneer merchandise at PAX West 2019.",
-    "SUNRISE": "Logging into the game between 2019/06/20 and 2019/11/15.",
-    "SUNSET": "Logging into the game between 2019/06/20 and 2019/11/15.",
+    "ASTRO RECRUIT": "Code redemption from PAX East 2019. Patch 1.0.15 on April 12, 2019 enabled code redemption and specifically mentioned Recruit Bundle codes.",
+    "P.A.L.": "Code redemption from purchasing Astroneer merchandise at PAX West 2019. The P.A.L. set was also given to attendees of the Gearbox panel on August 30, 2019 at 1:30 PM.",
     "PARTY TIME": "Code redemption from purchasing the Party City collaboration \"Astroneer Inflatable Bubble Suit Costume\", released in Halloween 2019.",
-    "SAFETY FIRST": "Code redemption from PAX West 2025.",
+    "SAFETY FIRST": "Code redemption from PAX West 2025. Redemption cards were distributed to SES booth visitors, while supplies lasted, August 29–September 1, 2025. No merchandise purchase was required.",
     "LEGENDARY GREEN": "Code redemption from the limited edition Nintendo Switch Physical Retail Edition in 2022.",
-    "VALUABLE VIEW": "Code redemption from the limited edition Nintendo Switch Physical Retail Edition in 2022."
+    "VALUABLE VIEW": "Code redemption from the limited edition Nintendo Switch Physical Retail Edition in 2022.",
+    "SECRET STALK": "Login rewards documented in February and November 2024. The hat was also distributed through promotional codes to selected Community Roundup and Little Victories contributors; selection was not guaranteed.",
+    "OLD GOLD": "Complete the game with Limit Respawns active, Default Respawn Count 0, and Free Oxygen off.",
+    "EXPEDITION SUIT": "Free login unlock announced in Patch 1.39.5 on April 15, 2026 for the following few weeks. An exact end date was not stated. The first Steam login-unlock announcement was March 31, 2026. A June 11 announcement again offered it free on login for the STARSEEKER launch. No exact final cutoff was stated.",
+    "ANNIVERSARY ITEM MK V": "Claimed free in EXO Outfitters during February 2024.",
+    "ANNIVERSARY ITEM MK VI": "Claimed in EXO Outfitters during the anniversary promotion announced February 26, 2025, for the following 30 days.",
+    "HACKER SUIT": "Complete the Glitchwalkers expansion missions. DLC ownership is required to receive these exclusive rewards, including when playing as a guest.",
+    "CODED COUTURE": "Complete the Glitchwalkers expansion missions. DLC ownership is required to receive these exclusive rewards, including when playing as a guest.",
+    "ETERNAL REVIEW": "Complete the Glitchwalkers expansion missions. DLC ownership is required to receive these exclusive rewards, including when playing as a guest.",
+    "THE FEZHANT": "Documented event appearances are listed below.",
+    "THANKS": "Called the Thank You emote in the Awakening notes. The post gives no end date for the free store claim.",
+    "FESTIVE CHAPBOW": "The 2020 Project C.H.E.E.R. reward required 3,500 individual recovery points. Holiday Top Hat, rather than Festive Chapbow, was the 2019 community delivery-goal reward.",
+    "COG-NITION": "Nintendo Switch players could also unlock all three 2024 A.M.P.P. rewards automatically by logging in from August 28 through the end of September 2024, following the delayed Roadtrip Update.",
+    "RESPIR-8": "Nintendo Switch players could also unlock all three 2024 A.M.P.P. rewards automatically by logging in from August 28 through the end of September 2024, following the delayed Roadtrip Update.",
+    "SCRAP WRAP": "Nintendo Switch players could also unlock all three 2024 A.M.P.P. rewards automatically by logging in from August 28 through the end of September 2024, following the delayed Roadtrip Update.",
+    "ANNIVERSARY ITEM MK I": "The claim method and availability dates have not been confirmed.",
+    "ANNIVERSARY ITEM MK II": "Claimed free by logging in during the anniversary promotion. Rollout began February 1, 2021; the end date was not stated.",
+    "ANNIVERSARY ITEM MK III": "Claimed free by logging in during the anniversary promotion in February 2022. Exact claim dates were not stated.",
+    "ANNIVERSARY ITEM MK IV": "Claimed free by logging in during February 2023.",
+    "ANNIVERSARY ITEM MK VII": "The claim method and availability dates have not been confirmed.",
+    "LORD CHECKERS": "Originally offered through the Community Initiative. Players submitted themed screenshots or clips with the Community Initiative flair. Selected contributors featured in an Astroneer Community Roundup received a code for a Marble Visor of their choice.",
+    "LORD DRAGON": "Originally offered through the Community Initiative. Players submitted themed screenshots or clips with the Community Initiative flair. Selected contributors featured in an Astroneer Community Roundup received a code for a Marble Visor of their choice.",
+    "LORD HYPNO": "Originally offered through the Community Initiative. Players submitted themed screenshots or clips with the Community Initiative flair. Selected contributors featured in an Astroneer Community Roundup received a code for a Marble Visor of their choice.",
+    "LORD LEO": "Originally offered through the Community Initiative. Players submitted themed screenshots or clips with the Community Initiative flair. Selected contributors featured in an Astroneer Community Roundup received a code for a Marble Visor of their choice.",
+    "LORD ZEBRA": "Originally offered through the Community Initiative. Players submitted themed screenshots or clips with the Community Initiative flair. Selected contributors featured in an Astroneer Community Roundup received a code for a Marble Visor of their choice.",
+    "CONTOUR": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat.",
+    "ZINE": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat.",
+    "NOSEGRIND": "Rare promotional code included with select apparel purchase from the astroneer official merch store. Never promoted or documented in official sources. Availability unclear.",
+    "REMIX": "Included as a physical/digital redemption code with the Astroneer Original Soundtrack Vinyl (clear blue LP by Rutger Zuydervelt), released in June 2022.",
+    "BRAIN BUDDY": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat.",
+    "EXTRA LIFE": "Released during System Era's November–December 2023 Extra Life fundraising campaign for Seattle Children's Hospital. A $5 USD donation unlocked the Extra Life visor; donations of $15 USD or more unlocked both the Extra Life visor and palette.",
+    "EXTRA LIFE MK II": "Introduced in November 2024 as a new set for returning donors from the 2023 campaign. Featured during System Era's official Extra Life Charity Stream with Gina on November 16, 2024. Donations of $15 USD or more unlocked both the Extra Life MK II palette and visor.",
+    "ORBITAL BLUE": "Code redemption from PAX East 2019. Patch 1.0.15 on April 12, 2019 enabled code redemption and specifically mentioned Recruit Bundle codes.",
+    "ON F-L33K": "Login rewards documented in February and November 2024. See Event history for the recorded promotions.",
+    "MINONION": "Login rewards documented in February and November 2024. See Event history for the recorded promotions."
   },
   "origins": [
+    {
+      "name": "ATHLEISURE SUIT",
+      "category": "suit",
+      "obtainment_method": "DLC",
+      "obtained_through": "Unlocked by purchasing a special bundle from EXO Dynamics."
+    },
     {
       "name": "EXO SUIT",
       "category": "suit",
@@ -99,14 +137,14 @@
       "category": "suit",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "CAGE SUIT",
       "category": "suit",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "CHRONOS SUIT",
@@ -118,7 +156,8 @@
       "name": "HACKER SUIT",
       "category": "suit",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP.",
+      "required_dlc": "Glitchwalkers"
     },
     {
       "name": "EXPEDITION SUIT",
@@ -220,13 +259,13 @@
       "name": "SUNRISE",
       "category": "palette",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics."
+      "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019."
     },
     {
       "name": "SUNSET",
       "category": "palette",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics."
+      "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019."
     },
     {
       "name": "P.A.L.",
@@ -239,44 +278,44 @@
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "VINTAGE RED",
       "category": "palette",
-      "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+      "obtainment_method": "Event",
+      "obtained_through": "Originally unlocked by discovering the historic Apollo lander on Desolo during the 2019 Lunar Event."
     },
     {
       "name": "SALVAGE CHIC",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "NOIR",
       "category": "palette",
       "obtainment_method": "Unknown",
-      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+      "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
     },
     {
       "name": "TOXIC DINO",
       "category": "palette",
       "obtainment_method": "Unknown",
-      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+      "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
     },
     {
       "name": "MUTED DARKNESS",
       "category": "palette",
       "obtainment_method": "Unknown",
-      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+      "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
     },
     {
       "name": "VERO VIOLET",
       "category": "palette",
       "obtainment_method": "Unknown",
-      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+      "obtained_through": "Catalogue entry exists, but no price or unlock instructions."
     },
     {
       "name": "GALACTIC",
@@ -336,43 +375,43 @@
       "name": "WANDERER BLUE",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Kepler Space Telescope, Sylva)"
     },
     {
       "name": "WANDERER TEAL",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Pioneer I, Glacio)"
     },
     {
       "name": "WANDERER GREEN",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Sputnik Satellite, Atrox)"
     },
     {
       "name": "WANDERER YELLOW",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (New Horizons Probe, Desolo)"
     },
     {
       "name": "WANDERER ORANGE",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Hubble Space Telescope, Calidor)"
     },
     {
       "name": "WANDERER RED",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Mariner X, Novus)"
     },
     {
       "name": "WANDERER FUCHSIA",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe."
+      "obtained_through": "Unlocked by using the Probe Scanner to find a certain Vintage Probe. (Voyager 2, Vesania)"
     },
     {
       "name": "WANDERER GREY",
@@ -385,27 +424,30 @@
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "GOING GREEN",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "COPPER PLATE",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "POP CULTURE",
       "category": "palette",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a physical item code.",
+      "additional_methods": [
+        "Unknown"
+      ]
     },
     {
       "name": "POWER SUITED",
@@ -422,49 +464,50 @@
     {
       "name": "ON F-L33K",
       "category": "palette",
-      "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by logging in during a Leekend login event."
     },
     {
       "name": "SAFETY ORANGE",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "DOT COM",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "CARBONATED",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "JEWEL",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "ROCKSTAR",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "CONTOUR",
       "category": "palette",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
+      "obtainment_details": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat."
     },
     {
       "name": "OLD GOLD",
@@ -476,47 +519,50 @@
       "name": "EXTRA LIFE",
       "category": "palette",
       "obtainment_method": "Special collection",
-      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+      "obtainment_details": "Released during System Era's November–December 2023 Extra Life fundraising campaign for Seattle Children's Hospital. A $5 USD donation unlocked the Extra Life visor; donations of $15 USD or more unlocked both the Extra Life visor and palette."
     },
     {
       "name": "LIMINAL LEAK",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "ECONEER",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "THATCH 2.0",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "SCRAP WRAP",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "EXTRA LIFE MK II",
       "category": "palette",
       "obtainment_method": "Special collection",
-      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+      "obtainment_details": "Introduced in November 2024 as a new set for returning donors from the 2023 campaign. Featured during System Era's official Extra Life Charity Stream with Gina on November 16, 2024. Donations of $15 USD or more unlocked both the Extra Life MK II palette and visor."
     },
     {
       "name": "CODED COUTURE",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP.",
+      "required_dlc": "Glitchwalkers"
     },
     {
       "name": "SAFETY FIRST",
@@ -529,34 +575,35 @@
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "DIAMOND IN THE BUFF",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "BAD APPLE",
       "category": "palette",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "JOLLY GOOD",
       "category": "palette",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtained_through": "Unlocked by earning 6,500 points during Project C.H.E.E.R. 2025.",
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
-      "name": "COSMOPOLITAN",
+      "name": "Cosmopolitan",
       "category": "palette",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by Printing the Orbital Platform."
+      "obtained_through": "Unlocked by launching the Stage 1 package for the Orbital Platform.",
+      "required_dlc": "Megatech"
     },
     {
       "name": "MIRROR GOLD",
@@ -574,13 +621,13 @@
       "name": "SUNRISE",
       "category": "visor",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by claiming a special summertime collection from EXO Dynamics."
+      "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019."
     },
     {
       "name": "SUNSET",
       "category": "visor",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by playing Astroneer during Summer 2019."
+      "obtained_through": "Unlocked by logging in during the summer 2019 promotion, with an announced deadline of August 31, 2019."
     },
     {
       "name": "DESOLO",
@@ -609,7 +656,7 @@
     {
       "name": "ORBITAL BLUE",
       "category": "visor",
-      "obtainment_method": "Special collection",
+      "obtainment_method": "Code redemption",
       "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
     },
     {
@@ -621,8 +668,8 @@
     {
       "name": "VINTAGE EMBLEM",
       "category": "visor",
-      "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by making contact with a historic spacecraft on Desolo."
+      "obtainment_method": "Event",
+      "obtained_through": "Originally unlocked by discovering the historic Apollo lander on Desolo during the 2019 Lunar Event."
     },
     {
       "name": "PUMPKIN",
@@ -635,52 +682,53 @@
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "METAL GEAR",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "ENDLESS",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "BAUBLEHEAD",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "LORD ZEBRA",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a special item code."
     },
     {
       "name": "LORD LEO",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a special item code."
     },
     {
       "name": "LORD CHECKERS",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a special item code."
     },
     {
       "name": "NOSEGRIND",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a physical item code.",
+      "obtainment_details": "Rare promotional code included with select apparel purchase from the astroneer official merch store. Never promoted or documented in official sources. Availability unclear."
     },
     {
       "name": "BNTY-HNTR",
@@ -697,105 +745,113 @@
     {
       "name": "MINONION",
       "category": "visor",
-      "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by logging in during a Leekend login event."
     },
     {
       "name": "LORD DRAGON",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a special item code."
     },
     {
       "name": "LORD HYPNO",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a special item code."
     },
     {
       "name": "POLLEN COUNT",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "ZINE",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
+      "obtainment_details": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat."
     },
     {
       "name": "EXTRA LIFE",
       "category": "visor",
       "obtainment_method": "Special collection",
-      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+      "obtainment_details": "Released during System Era's November–December 2023 Extra Life fundraising campaign for Seattle Children's Hospital. A $5 USD donation unlocked the Extra Life visor; donations of $15 USD or more unlocked both the Extra Life visor and palette."
     },
     {
       "name": "BAUBLEGUM",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "ENVISION",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "EXTRA LIFE MK II",
       "category": "visor",
       "obtainment_method": "Special collection",
-      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics."
+      "obtained_through": "Unlocked by claiming a special collection from EXO Dynamics.",
+      "obtainment_details": "Introduced in November 2024 as a new set for returning donors from the 2023 campaign. Featured during System Era's official Extra Life Charity Stream with Gina on November 16, 2024. Donations of $15 USD or more unlocked both the Extra Life MK II palette and visor."
     },
     {
       "name": "ETERNAL REVIEW",
       "category": "visor",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP."
+      "obtained_through": "Unlocked by stopping Bl!tZ from destroying the ATP.",
+      "required_dlc": "Glitchwalkers"
     },
     {
       "name": "GLITCH NEXUS",
       "category": "visor",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a special item code."
+      "obtained_through": "Unlocked by redeeming a special item code.",
+      "additional_methods": [
+        "Unknown"
+      ]
     },
     {
       "name": "ION-EYEZ",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "SPARKLE SIGHT",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "PICK YOUR POISON",
       "category": "visor",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "COSMOSIS",
       "category": "visor",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtained_through": "Unlocked by earning 3,500 points during Project C.H.E.E.R. 2025.",
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "Tableau",
       "category": "visor",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by Printing the Museum."
+      "obtained_through": "Unlocked by completing the final milestone for all four Museum Donation Stations.",
+      "required_dlc": "Megatech"
     },
     {
       "name": "NEXUS",
@@ -831,96 +887,97 @@
       "name": "ANNIVERSARY ITEM MK I",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's first anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's first anniversary (2020)."
     },
     {
       "name": "ANNIVERSARY ITEM MK II",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's second anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's second anniversary (2021)."
     },
     {
       "name": "ANNIVERSARY ITEM MK III",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's third anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's third anniversary (2022)."
     },
     {
       "name": "ANNIVERSARY ITEM MK IV",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's fourth anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's fourth anniversary (2023)."
     },
     {
       "name": "ANNIVERSARY ITEM MK V",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's fifth anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's fifth anniversary (2024)."
     },
     {
       "name": "ANNIVERSARY ITEM MK VI",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's sixth anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's sixth anniversary (2025)."
     },
     {
       "name": "ANNIVERSARY ITEM MK VII",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by celebrating Astroneer's seventh anniversary."
+      "obtained_through": "Anniversary reward celebrating Astroneer's seventh anniversary (2026)."
     },
     {
       "name": "4ML A-TYRE",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "GEARHEAD",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "HALLOWED HELM",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "FESTIVE CHAPBOW",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by achieving the EXO Dynamics community delivery goal."
+      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal."
     },
     {
       "name": "WIRED",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "REMIX",
       "category": "hat",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtained_through": "Unlocked by redeeming a physical item code.",
+      "obtainment_details": "Included as a physical/digital redemption code with the Astroneer Original Soundtrack Vinyl (clear blue LP by Rutger Zuydervelt), released in June 2022."
     },
     {
       "name": "HONEST LIVING",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "THE FEZHANT",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
+      "obtained_through": "Unlocked through the community rewards for Project C.H.E.E.R. 2021 and 2022.",
       "obtainment_details": "Exact event/date not specified."
     },
     {
@@ -928,33 +985,34 @@
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "SECRET STALK",
       "category": "hat",
-      "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming a physical item code."
+      "obtainment_method": "Event",
+      "obtained_through": "Unlocked by logging in during a Leekend login event."
     },
     {
       "name": "CO-N3",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "GALASTRO CAP",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "BRAIN BUDDY",
       "category": "hat",
       "obtainment_method": "Code redemption",
-      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code."
+      "obtained_through": "Unlocked by redeeming Astroneer: Countdown item code.",
+      "obtainment_details": "Included as a redemption reward with the physical graphic novel \"Astroneer: Countdown\". The Countdown rewards include the CONTOUR palette, ZINE visor, and BRAIN BUDDY hat."
     },
     {
       "name": "LITTLE PRINCE",
@@ -967,75 +1025,76 @@
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "SEASONAL ALLURE",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "EXPLOSIVE PERSONALITY",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "CAPTAIN'S C01-F",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "COG-NITION",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "HORN OF PLENTY",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "LAB LEAK",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "STEM THE TIDE",
       "category": "hat",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "LIGHT HEADED",
       "category": "hat",
       "obtainment_method": "Event",
-      "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtained_through": "Unlocked by earning 10,000 points during Project C.H.E.E.R. 2025.",
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
-      "name": "Construction 2",
+      "name": "Pardon our Dust",
       "category": "hat",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by Printing a second Megastructure."
+      "obtained_through": "Unlocked by completing Distribution Launcher System (DLS) missions"
     },
     {
-      "name": "Sunflower",
+      "name": "Under the Sun",
       "category": "hat",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by Printing a Biodome."
+      "obtained_through": "Unlocked by Printing a Biodome.",
+      "required_dlc": "Megatech"
     },
     {
       "name": "NONE",
@@ -1048,76 +1107,77 @@
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "FORGE AHEAD",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "TURRET-A-PORTER",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "VR VISION",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "COGPIECE",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "PUDDING WARMER",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "V TECH",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "RESPIR-8",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "SUR+",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "MULTI-FACETED",
       "category": "mask",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
-      "name": "Wires",
+      "name": "Haywire",
       "category": "mask",
       "obtainment_method": "In-game unlock",
-      "obtained_through": "Unlocked by completing the Interplanetary Megastructure Initiative Training Module!."
+      "obtained_through": "Unlocked by completing the Interplanetary Megastructure Initiative Training Module!.",
+      "required_dlc": "Megatech"
     },
     {
       "name": "JUMP FOR JOY",
@@ -1250,21 +1310,21 @@
       "category": "emote",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "STOP SIGN",
       "category": "emote",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "THINKING",
       "category": "emote",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Documented event appearances and requirements are listed below."
     },
     {
       "name": "TRAIN WHISTLE",
@@ -1277,20 +1337,20 @@
       "category": "emote",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "SHIVER",
       "category": "emote",
       "obtainment_method": "Event",
       "obtained_through": "Unlocked by achieving an EXO Dynamics special event goal.",
-      "obtainment_details": "Exact event/date not specified."
+      "obtainment_details": "Original release date not confirmed; documented event appearances are listed below."
     },
     {
       "name": "DIZZY",
       "category": "emote",
-      "obtainment_method": "Unknown",
-      "obtained_through": "Unknown — no readable acquisition requirement found in this definition."
+      "obtainment_method": "In-game unlock",
+      "obtained_through": "Unlocked by reaching maximum speed while inside a Gravity Globe."
     },
     {
       "name": "EVO SUIT",
@@ -1305,7 +1365,7 @@
       "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
     },
     {
-      "name": "Megatech",
+      "name": "Jewel Case",
       "category": "palette",
       "obtainment_method": "DLC",
       "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
@@ -1317,7 +1377,7 @@
       "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
     },
     {
-      "name": "Megatech",
+      "name": "En-Ambered",
       "category": "visor",
       "obtainment_method": "DLC",
       "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
@@ -1329,10 +1389,1380 @@
       "obtained_through": "Included in ASTRONEER: Glitchwalkers - Deluxe Cosmetic Pack."
     },
     {
-      "name": "Megatech",
+      "name": "Gear Shift",
       "category": "mask",
       "obtainment_method": "DLC",
       "obtained_through": "Included in Astroneer: Megatech - Deluxe Cosmetic Pack."
+    },
+    {
+      "name": "THANKS",
+      "category": "emote",
+      "obtainment_method": "Store",
+      "obtained_through": "Claimed free from EXO Outfitters Store."
+    },
+    {
+      "name": "PETAL PUSHER",
+      "category": "palette",
+      "obtainment_method": "Store",
+      "obtained_through": "Labeled as store unlock. Catalogue entry exists, but no price or unlock instructions.",
+      "additional_methods": [
+        "Unknown"
+      ]
+    },
+    {
+      "name": "SOLAR SHIELD",
+      "category": "hat",
+      "obtainment_method": "Store",
+      "obtained_through": "Labeled as store unlock. Catalogue entry exists, but no price or unlock instructions.",
+      "additional_methods": [
+        "Unknown"
+      ]
+    },
+    {
+      "name": "T POSE",
+      "category": "emote",
+      "obtainment_method": "Store",
+      "obtained_through": "Labeled as store unlock. Catalogue entry exists, but no price or unlock instructions.",
+      "additional_methods": [
+        "Unknown"
+      ]
+    }
+  ],
+  "store_overrides": {
+    "exclude_individual_items": [
+      {
+        "name": "TINSEL TOWN",
+        "category": "palette"
+      },
+      {
+        "name": "BAUBLEHEAD",
+        "category": "visor"
+      },
+      {
+        "name": "SPOOKY",
+        "category": "palette"
+      },
+      {
+        "name": "SALVAGE CHIC",
+        "category": "palette"
+      },
+      {
+        "name": "GOING GREEN",
+        "category": "palette"
+      },
+      {
+        "name": "COPPER PLATE",
+        "category": "palette"
+      },
+      {
+        "name": "SAFETY ORANGE",
+        "category": "palette"
+      },
+      {
+        "name": "DOT COM",
+        "category": "palette"
+      },
+      {
+        "name": "CARBONATED",
+        "category": "palette"
+      },
+      {
+        "name": "SPOOKY",
+        "category": "visor"
+      },
+      {
+        "name": "PUMPKIN",
+        "category": "visor"
+      },
+      {
+        "name": "METAL GEAR",
+        "category": "visor"
+      },
+      {
+        "name": "ENDLESS",
+        "category": "visor"
+      },
+      {
+        "name": "POLLEN COUNT",
+        "category": "visor"
+      },
+      {
+        "name": "HOLIDAY TOP HAT",
+        "category": "hat"
+      },
+      {
+        "name": "4ML A-TYRE",
+        "category": "hat"
+      },
+      {
+        "name": "GEARHEAD",
+        "category": "hat"
+      },
+      {
+        "name": "HALLOWED HELM",
+        "category": "hat"
+      },
+      {
+        "name": "CO-N3",
+        "category": "hat"
+      },
+      {
+        "name": "GALASTRO CAP",
+        "category": "hat"
+      },
+      {
+        "name": "SEASONAL ALLURE",
+        "category": "hat"
+      },
+      {
+        "name": "TURRET-A-PORTER",
+        "category": "mask"
+      },
+      {
+        "name": "VR VISION",
+        "category": "mask"
+      },
+      {
+        "name": "COGPIECE",
+        "category": "mask"
+      },
+      {
+        "name": "PUDDING WARMER",
+        "category": "mask"
+      },
+      {
+        "name": "STOP SIGN",
+        "category": "emote"
+      },
+      {
+        "name": "THINKING",
+        "category": "emote"
+      },
+      {
+        "name": "SHIVER",
+        "category": "emote"
+      },
+      {
+        "name": "SECRET STALK",
+        "category": "hat"
+      },
+      {
+        "name": "ANNIVERSARY ITEM MK V",
+        "category": "hat"
+      }
+    ],
+    "bundle_availability": {
+      "SummerBundle": "limited_time"
+    },
+    "exclude_bundles": [],
+    "bundle_details": {
+      "EXOTechBundle": {
+        "history": [
+          {
+            "description": "Previously advertised as a limited-time EXO Outfitters bundle.",
+            "source_url": "https://blog.astroneer.space/p/controls-update/"
+          }
+        ]
+      },
+      "SnailPaletteBundle": {
+        "history": [
+          {
+            "description": "Previously advertised as a limited-time EXO Outfitters bundle.",
+            "source_url": "https://blog.astroneer.space/p/xenobiology-update/"
+          }
+        ]
+      },
+      "Space Wizard Bundle": {
+        "history": [
+          {
+            "description": "Previously advertised as a limited-time EXO Outfitters bundle.",
+            "source_url": "https://blog.astroneer.space/p/awakening/"
+          }
+        ]
+      },
+      "LeekBundle": {
+        "available_from": "2026-10-14T10:00:00-07:00",
+        "available_until": "2026-10-27T23:59:00-07:00",
+        "source_url": "https://blog.astroneer.space/patch-notes/patch-45/"
+      },
+      "PrideVisorBundle": {
+        "source_url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
+      },
+      "FlowerBundle": {
+        "history": [
+          {
+            "description": "Historical offer: advertised August 19, 2020, available until September 7, 2020.",
+            "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2755594256621661496"
+          }
+        ]
+      },
+      "Wizard Bundle": {
+        "history": [
+          {
+            "description": "Historical offer: advertised October 19, 2020, available until November 16, 2020.",
+            "source_url": "https://steamcommunity.com/games/361420/announcements/detail/4622341472303813443"
+          }
+        ]
+      },
+      "GingerbreadBundle": {
+        "history": [
+          {
+            "description": "Advertised December 7, 2020 as a limited-time store bundle; no exact end date was stated.",
+            "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2913229756378320979"
+          }
+        ]
+      },
+      "RobotBundle": {
+        "history": [
+          {
+            "description": "Introduced with EXO Outfitters on June 24, 2020, containing Frame Suit, Robot Dance and Happy Blue visor.",
+            "source_url": "https://steamcommunity.com/games/361420/announcements/detail/2528157400350449108"
+          }
+        ]
+      },
+      "SalvageBundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEHoliday2021Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTESpring2023Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEFall2021Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTESpring2022Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEAutomation2022Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEAutomation2023Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEHoliday2023Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEAutomationBundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEFall2023Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEFall2022Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "LTEHoliday2022Bundle": {
+        "base_cost": 0,
+        "payment": "qbits",
+        "availability": "limited_time",
+        "availability_note": "Exact offer dates are unknown."
+      },
+      "starter-bundle": {
+        "included_qbits": 750
+      },
+      "AstroRecruitBundle": {
+        "history": [
+          {
+            "description": "Free in EXO Outfitters on March 24–25, 2020 to encourage players to stay indoors and follow public health guidelines during the COVID-19 pandemic.",
+            "source_url": "https://www.facebook.com/astroneergame/posts/3138049552872841/"
+          }
+        ]
+      },
+      "HeadphoneLofiBundle": {
+        "visible": false
+      }
+    },
+    "item_details": {}
+  },
+  "sources": {
+    "hat:HOLIDAY TOP HAT": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "The Holiday Update is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3790273541465622918"
+      }
+    ],
+    "palette:CARBONATED": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2024",
+        "url": "https://blog.astroneer.space/p/cheer2024/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2023",
+        "url": "https://blog.astroneer.space/p/project-cheer-delivery-event/"
+      },
+      {
+        "label": "Holiday Event 2022",
+        "url": "https://blog.astroneer.space/p/holiday-event-2022/"
+      }
+    ],
+    "emote:SHIVER": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2024",
+        "url": "https://blog.astroneer.space/p/cheer2024/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2023",
+        "url": "https://blog.astroneer.space/p/project-cheer-delivery-event/"
+      },
+      {
+        "label": "Holiday Event 2022",
+        "url": "https://blog.astroneer.space/p/holiday-event-2022/"
+      }
+    ],
+    "hat:SEASONAL ALLURE": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2024",
+        "url": "https://blog.astroneer.space/p/cheer2024/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2023",
+        "url": "https://blog.astroneer.space/p/project-cheer-delivery-event/"
+      },
+      {
+        "label": "Holiday Event 2022",
+        "url": "https://blog.astroneer.space/p/holiday-event-2022/"
+      }
+    ],
+    "hat:BOREAL BEANIE": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Holiday Event 2022",
+        "url": "https://blog.astroneer.space/p/holiday-event-2022/"
+      },
+      {
+        "label": "Holiday / Project C.H.E.E.R. 2021",
+        "url": "https://blog.astroneer.space/p/holiday-update-003/"
+      }
+    ],
+    "mask:PUDDING WARMER": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Holiday Event 2022",
+        "url": "https://blog.astroneer.space/p/holiday-event-2022/"
+      },
+      {
+        "label": "Holiday / Project C.H.E.E.R. 2021",
+        "url": "https://blog.astroneer.space/p/holiday-update-003/"
+      }
+    ],
+    "palette:TINSEL TOWN": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Holiday / Project C.H.E.E.R. 2021",
+        "url": "https://blog.astroneer.space/p/holiday-update-003/"
+      },
+      {
+        "label": "The Holiday Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2913229756378320979"
+      }
+    ],
+    "visor:BAUBLEHEAD": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Holiday / Project C.H.E.E.R. 2021",
+        "url": "https://blog.astroneer.space/p/holiday-update-003/"
+      },
+      {
+        "label": "The Holiday Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2913229756378320979"
+      }
+    ],
+    "hat:FESTIVE CHAPBOW": [
+      {
+        "label": "Project C.H.E.E.R. 2026",
+        "url": "https://blog.astroneer.space/p/project-c-h-e-e-r-2026-is-here/"
+      },
+      {
+        "label": "Holiday / Project C.H.E.E.R. 2021",
+        "url": "https://blog.astroneer.space/p/holiday-update-003/"
+      },
+      {
+        "label": "The Holiday Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2913229756378320979"
+      },
+      {
+        "label": "The Holiday Update is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3790273541465622918"
+      }
+    ],
+    "hat:GALASTRO CAP": [
+      {
+        "label": "EXO F.A.R.M. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-farm/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2023",
+        "url": "https://blog.astroneer.space/p/exo-farm-lte-2023/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2022",
+        "url": "https://blog.astroneer.space/p/update-1-26/"
+      }
+    ],
+    "emote:LEAF LEAP": [
+      {
+        "label": "EXO F.A.R.M. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-farm/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2023",
+        "url": "https://blog.astroneer.space/p/exo-farm-lte-2023/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2022",
+        "url": "https://blog.astroneer.space/p/update-1-26/"
+      }
+    ],
+    "visor:POLLEN COUNT": [
+      {
+        "label": "EXO F.A.R.M. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-farm/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2023",
+        "url": "https://blog.astroneer.space/p/exo-farm-lte-2023/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2022",
+        "url": "https://blog.astroneer.space/p/update-1-26/"
+      }
+    ],
+    "hat:FIRST IMPACT": [
+      {
+        "label": "EXO F.A.R.M. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-farm/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2023",
+        "url": "https://blog.astroneer.space/p/exo-farm-lte-2023/"
+      }
+    ],
+    "visor:BAUBLEGUM": [
+      {
+        "label": "EXO F.A.R.M. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-farm/"
+      },
+      {
+        "label": "Breakdown Event 2024",
+        "url": "https://blog.astroneer.space/p/anniversary-event/"
+      }
+    ],
+    "palette:SPOOKY": [
+      {
+        "label": "EXO F.A.R.M. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-farm/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      }
+    ],
+    "palette:DOT COM": [
+      {
+        "label": "EXO A.M.P.P. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2023",
+        "url": "https://blog.astroneer.space/p/exo-automated-mass-production-protocol/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2022",
+        "url": "https://blog.astroneer.space/p/rails-update/"
+      }
+    ],
+    "emote:THINKING": [
+      {
+        "label": "EXO A.M.P.P. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2023",
+        "url": "https://blog.astroneer.space/p/exo-automated-mass-production-protocol/"
+      },
+      {
+        "label": "Rails Update — EXO A.M.P.P. 2022",
+        "url": "https://blog.astroneer.space/p/rails-update/"
+      }
+    ],
+    "mask:FORGE AHEAD": [
+      {
+        "label": "EXO A.M.P.P. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2023",
+        "url": "https://blog.astroneer.space/p/exo-automated-mass-production-protocol/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2022",
+        "url": "https://blog.astroneer.space/p/rails-update/"
+      }
+    ],
+    "mask:V TECH": [
+      {
+        "label": "EXO A.M.P.P. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2023",
+        "url": "https://blog.astroneer.space/p/exo-automated-mass-production-protocol/"
+      }
+    ],
+    "palette:LIMINAL LEAK": [
+      {
+        "label": "EXO A.M.P.P. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/"
+      },
+      {
+        "label": "Breakdown Event 2024",
+        "url": "https://blog.astroneer.space/p/anniversary-event/"
+      }
+    ],
+    "suit:CAGE SUIT": [
+      {
+        "label": "EXO A.M.P.P. 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-ampp/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2023",
+        "url": "https://blog.astroneer.space/p/exo-automated-mass-production-protocol/"
+      }
+    ],
+    "hat:CO-N3": [
+      {
+        "label": "EXO Cares Initiative 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-cares/"
+      },
+      {
+        "label": "EXO Salvage Initiative 2022",
+        "url": "https://blog.astroneer.space/p/controls-update/"
+      }
+    ],
+    "emote:STOP SIGN": [
+      {
+        "label": "EXO Cares Initiative 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-cares/"
+      },
+      {
+        "label": "EXO Salvage Initiative 2022",
+        "url": "https://blog.astroneer.space/p/controls-update/"
+      }
+    ],
+    "palette:SAFETY ORANGE": [
+      {
+        "label": "EXO Cares Initiative 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-cares/"
+      },
+      {
+        "label": "EXO Salvage Initiative 2022",
+        "url": "https://blog.astroneer.space/p/controls-update/"
+      }
+    ],
+    "palette:JEWEL": [
+      {
+        "label": "EXO Cares Initiative 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-cares/"
+      }
+    ],
+    "palette:SALVAGE CHIC": [
+      {
+        "label": "EXO Cares Initiative 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-cares/"
+      },
+      {
+        "label": "EXO Salvage Initiative 2021",
+        "url": "https://blog.astroneer.space/p/the-mission-compass-and-power-update-patch-notes/"
+      },
+      {
+        "label": "The Salvage Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2220779751689206973"
+      },
+      {
+        "label": "The Salvage Initiative Patch Notes",
+        "url": "https://www.reddit.com/r/Astroneer/comments/g193wu/the_salvage_initiative_patch_notes/"
+      }
+    ],
+    "suit:HARD SUIT": [
+      {
+        "label": "EXO Cares Initiative 2026",
+        "url": "https://blog.astroneer.space/p/lte-guide-exo-cares/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2024",
+        "url": "https://blog.astroneer.space/p/cheer2024/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2023",
+        "url": "https://blog.astroneer.space/p/project-cheer-delivery-event/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2023",
+        "url": "https://blog.astroneer.space/p/exo-farm-lte-2023/"
+      }
+    ],
+    "visor:PICK YOUR POISON": [
+      {
+        "label": "EXO F.A.R.M. 2025",
+        "url": "https://blog.astroneer.space/p/exo-farm-2025-lte/"
+      }
+    ],
+    "hat:STEM THE TIDE": [
+      {
+        "label": "EXO F.A.R.M. 2025",
+        "url": "https://blog.astroneer.space/p/exo-farm-2025-lte/"
+      }
+    ],
+    "palette:BAD APPLE": [
+      {
+        "label": "EXO F.A.R.M. 2025",
+        "url": "https://blog.astroneer.space/p/exo-farm-2025-lte/"
+      }
+    ],
+    "visor:SPARKLE SIGHT": [
+      {
+        "label": "EXO A.M.P.P. 2025",
+        "url": "https://blog.astroneer.space/p/how-to-complete-automated-mass-production-protocol-event-2025/"
+      }
+    ],
+    "mask:MULTI-FACETED": [
+      {
+        "label": "EXO A.M.P.P. 2025",
+        "url": "https://blog.astroneer.space/p/how-to-complete-automated-mass-production-protocol-event-2025/"
+      }
+    ],
+    "palette:DIAMOND IN THE BUFF": [
+      {
+        "label": "EXO A.M.P.P. 2025",
+        "url": "https://blog.astroneer.space/p/how-to-complete-automated-mass-production-protocol-event-2025/"
+      }
+    ],
+    "hat:LAB LEAK": [
+      {
+        "label": "EXO C.A.R.E.S. 2025",
+        "url": "https://blog.astroneer.space/p/spring-lte-2025/"
+      }
+    ],
+    "palette:RADIOACTION": [
+      {
+        "label": "EXO C.A.R.E.S. 2025",
+        "url": "https://blog.astroneer.space/p/spring-lte-2025/"
+      }
+    ],
+    "visor:ION-EYEZ": [
+      {
+        "label": "EXO C.A.R.E.S. 2025",
+        "url": "https://blog.astroneer.space/p/spring-lte-2025/"
+      }
+    ],
+    "palette:ROCKSTAR": [
+      {
+        "label": "Project C.H.E.E.R. 2024",
+        "url": "https://blog.astroneer.space/p/cheer2024/"
+      },
+      {
+        "label": "Project C.H.E.E.R. 2023",
+        "url": "https://blog.astroneer.space/p/project-cheer-delivery-event/"
+      }
+    ],
+    "mask:SUR+": [
+      {
+        "label": "EXO F.A.R.M. 2024",
+        "url": "https://blog.astroneer.space/p/exo-farm-2024/"
+      }
+    ],
+    "hat:HORN OF PLENTY": [
+      {
+        "label": "EXO F.A.R.M. 2024",
+        "url": "https://blog.astroneer.space/p/exo-farm-2024/"
+      }
+    ],
+    "palette:THATCH 2.0": [
+      {
+        "label": "EXO F.A.R.M. 2024",
+        "url": "https://blog.astroneer.space/p/exo-farm-2024/"
+      }
+    ],
+    "hat:COG-NITION": [
+      {
+        "label": "EXO A.M.P.P. 2024",
+        "url": "https://blog.astroneer.space/p/ampp-2024/"
+      },
+      {
+        "label": "Automated Mass Production Protocol Event",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4372515892059319052"
+      },
+      {
+        "label": "AMPP Event Reminder + The long awaited Roadtrip Update for Nintendo Switch!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1f3mb34/ampp_event_reminder_the_long_awaited_roadtrip/"
+      },
+      {
+        "label": "Automated Mass Production Protocol Event is live now!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1e5ncfv/automated_mass_production_protocol_event_is_live/"
+      }
+    ],
+    "mask:RESPIR-8": [
+      {
+        "label": "EXO A.M.P.P. 2024",
+        "url": "https://blog.astroneer.space/p/ampp-2024/"
+      },
+      {
+        "label": "Automated Mass Production Protocol Event",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4372515892059319052"
+      },
+      {
+        "label": "AMPP Event Reminder + The long awaited Roadtrip Update for Nintendo Switch!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1f3mb34/ampp_event_reminder_the_long_awaited_roadtrip/"
+      },
+      {
+        "label": "Automated Mass Production Protocol Event is live now!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1e5ncfv/automated_mass_production_protocol_event_is_live/"
+      }
+    ],
+    "palette:SCRAP WRAP": [
+      {
+        "label": "EXO A.M.P.P. 2024",
+        "url": "https://blog.astroneer.space/p/ampp-2024/"
+      },
+      {
+        "label": "Automated Mass Production Protocol Event",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4372515892059319052"
+      },
+      {
+        "label": "AMPP Event Reminder + The long awaited Roadtrip Update for Nintendo Switch!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1f3mb34/ampp_event_reminder_the_long_awaited_roadtrip/"
+      },
+      {
+        "label": "Automated Mass Production Protocol Event is live now!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1e5ncfv/automated_mass_production_protocol_event_is_live/"
+      }
+    ],
+    "hat:CAPTAIN'S C01-F": [
+      {
+        "label": "EXO Cares Initiative 2024",
+        "url": "https://blog.astroneer.space/p/exo-cares-initiative/"
+      }
+    ],
+    "palette:ECONEER": [
+      {
+        "label": "EXO Cares Initiative 2024",
+        "url": "https://blog.astroneer.space/p/exo-cares-initiative/"
+      }
+    ],
+    "visor:ENVISION": [
+      {
+        "label": "EXO Cares Initiative 2024",
+        "url": "https://blog.astroneer.space/p/exo-cares-initiative/"
+      }
+    ],
+    "hat:EXPLOSIVE PERSONALITY": [
+      {
+        "label": "Breakdown Event 2024",
+        "url": "https://blog.astroneer.space/p/anniversary-event/"
+      }
+    ],
+    "emote:DANCE: GIDDYUP": [
+      {
+        "label": "EXO F.A.R.M. 2022",
+        "url": "https://blog.astroneer.space/p/update-1-26/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      }
+    ],
+    "hat:HONEST LIVING": [
+      {
+        "label": "EXO F.A.R.M. 2022",
+        "url": "https://blog.astroneer.space/p/update-1-26/"
+      },
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      }
+    ],
+    "mask:COGPIECE": [
+      {
+        "label": "EXO A.M.P.P. 2022",
+        "url": "https://blog.astroneer.space/p/rails-update/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2021",
+        "url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
+      }
+    ],
+    "palette:COPPER PLATE": [
+      {
+        "label": "EXO A.M.P.P. 2022",
+        "url": "https://blog.astroneer.space/p/rails-update/"
+      },
+      {
+        "label": "EXO A.M.P.P. 2021",
+        "url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
+      }
+    ],
+    "palette:GOING GREEN": [
+      {
+        "label": "EXO Salvage Initiative 2022",
+        "url": "https://blog.astroneer.space/p/controls-update/"
+      },
+      {
+        "label": "EXO Salvage Initiative 2021",
+        "url": "https://blog.astroneer.space/p/the-mission-compass-and-power-update-patch-notes/"
+      }
+    ],
+    "hat:WIRED": [
+      {
+        "label": "EXO Salvage Initiative 2022",
+        "url": "https://blog.astroneer.space/p/controls-update/"
+      },
+      {
+        "label": "EXO Salvage Initiative 2021",
+        "url": "https://blog.astroneer.space/p/the-mission-compass-and-power-update-patch-notes/"
+      }
+    ],
+    "hat:HALLOWED HELM": [
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      },
+      {
+        "label": "The Biofuel Obtainment Operation (B.O.O) Update is live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4622341472303813443"
+      }
+    ],
+    "visor:SPOOKY": [
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      }
+    ],
+    "visor:PUMPKIN": [
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      }
+    ],
+    "visor:ENDLESS": [
+      {
+        "label": "EXO F.A.R.M. 2021",
+        "url": "https://blog.astroneer.space/p/the-fall-update-patch-notes/"
+      },
+      {
+        "label": "The Biofuel Obtainment Operation (B.O.O) Update is live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4622341472303813443"
+      }
+    ],
+    "mask:VR VISION": [
+      {
+        "label": "EXO A.M.P.P. 2021",
+        "url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
+      },
+      {
+        "label": "The Automation Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2528157400350449108"
+      }
+    ],
+    "hat:GEARHEAD": [
+      {
+        "label": "EXO A.M.P.P. 2021",
+        "url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
+      },
+      {
+        "label": "The Automation Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2528157400350449108"
+      }
+    ],
+    "visor:METAL GEAR": [
+      {
+        "label": "EXO A.M.P.P. 2021",
+        "url": "https://blog.astroneer.space/p/the-jet-powered-update-patch-notes/"
+      },
+      {
+        "label": "The Automation Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2528157400350449108"
+      }
+    ],
+    "mask:TURRET-A-PORTER": [
+      {
+        "label": "EXO Salvage Initiative 2021",
+        "url": "https://blog.astroneer.space/p/the-mission-compass-and-power-update-patch-notes/"
+      },
+      {
+        "label": "The Salvage Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2220779751689206973"
+      },
+      {
+        "label": "The Salvage Initiative Patch Notes",
+        "url": "https://www.reddit.com/r/Astroneer/comments/g193wu/the_salvage_initiative_patch_notes/"
+      }
+    ],
+    "hat:4ML A-TYRE": [
+      {
+        "label": "EXO Salvage Initiative 2021",
+        "url": "https://blog.astroneer.space/p/the-mission-compass-and-power-update-patch-notes/"
+      },
+      {
+        "label": "The Salvage Update Is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/2220779751689206973"
+      },
+      {
+        "label": "The Salvage Initiative Patch Notes",
+        "url": "https://www.reddit.com/r/Astroneer/comments/g193wu/the_salvage_initiative_patch_notes/"
+      }
+    ],
+    "palette:P.A.L.": [
+      {
+        "label": "PAX West 2019",
+        "url": "https://blog.astroneer.space/p/astroneer-pax-west-2019/"
+      }
+    ],
+    "visor:P.A.L.": [
+      {
+        "label": "PAX West 2019",
+        "url": "https://blog.astroneer.space/p/astroneer-pax-west-2019/"
+      }
+    ],
+    "palette:SAFETY FIRST": [
+      {
+        "label": "PAX West 2025",
+        "url": "https://blog.astroneer.space/p/pax-week-is-coming-ses-community-update-8-25/"
+      }
+    ],
+    "hat:SECRET STALK": [
+      {
+        "label": "Community Update August 2025",
+        "url": "https://blog.astroneer.space/p/pax-week-is-coming-ses-community-update-8-25/"
+      },
+      {
+        "label": "Leek Weeks 2026",
+        "url": "https://blog.astroneer.space/patch-notes/patch-45/"
+      },
+      {
+        "label": "Secret Leeks login-event announcement (X)",
+        "url": "https://x.com/astroneergame/status/1757495181773816208"
+      },
+      {
+        "label": "Leekend daily login rewards — System Era response, November 2024",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1gxfel8/leekend_is_back_login_daily_this_weekend_to/"
+      }
+    ],
+    "palette:OLD GOLD": [
+      {
+        "label": "Custom Games patch notes",
+        "url": "https://blog.astroneer.space/p/custom-games/"
+      }
+    ],
+    "suit:EXPEDITION SUIT": [
+      {
+        "label": "Patch 1.39.5",
+        "url": "https://blog.astroneer.space/patch-notes/patch-39/"
+      },
+      {
+        "label": "STARSEEKER Expedition Suit Available for Free in Astroneer!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/517490598955975863"
+      },
+      {
+        "label": "Patch 1.39.5",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/524247085597330402"
+      },
+      {
+        "label": "STARSEEKER Launches Today - Grab your Expedition Suit in Astroneer to celebrate!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/615450776305664974"
+      }
+    ],
+    "hat:ANNIVERSARY ITEM MK V": [
+      {
+        "label": "Breakdown Event 2024",
+        "url": "https://blog.astroneer.space/p/anniversary-event/"
+      }
+    ],
+    "hat:ANNIVERSARY ITEM MK VI": [
+      {
+        "label": "Aeoluz Unlocked update",
+        "url": "https://blog.astroneer.space/p/glitchwalkers-aeoluz-unlocked-update/"
+      }
+    ],
+    "visor:Tableau": [
+      {
+        "label": "Megatech patch notes",
+        "url": "https://blog.astroneer.space/patch-notes/megatech-update/"
+      }
+    ],
+    "suit:HACKER SUIT": [
+      {
+        "label": "Glitchwalkers patch notes",
+        "url": "https://blog.astroneer.space/p/astroneer-glitchwalkers/"
+      },
+      {
+        "label": "The Glitchwalkers Expansion Update Out Now",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4447961970261360687"
+      }
+    ],
+    "palette:CODED COUTURE": [
+      {
+        "label": "Glitchwalkers patch notes",
+        "url": "https://blog.astroneer.space/p/astroneer-glitchwalkers/"
+      },
+      {
+        "label": "The Glitchwalkers Expansion Update Out Now",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4447961970261360687"
+      }
+    ],
+    "visor:ETERNAL REVIEW": [
+      {
+        "label": "Glitchwalkers patch notes",
+        "url": "https://blog.astroneer.space/p/astroneer-glitchwalkers/"
+      },
+      {
+        "label": "The Glitchwalkers Expansion Update Out Now",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4447961970261360687"
+      }
+    ],
+    "palette:ON F-L33K": [
+      {
+        "label": "Leek Weeks 2026",
+        "url": "https://blog.astroneer.space/patch-notes/patch-45/"
+      },
+      {
+        "label": "Secret Leeks login-event announcement (X)",
+        "url": "https://x.com/astroneergame/status/1757495181773816208"
+      },
+      {
+        "label": "Leekend daily login rewards — System Era response, November 2024",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1gxfel8/leekend_is_back_login_daily_this_weekend_to/"
+      }
+    ],
+    "visor:MINONION": [
+      {
+        "label": "Leek Weeks 2026",
+        "url": "https://blog.astroneer.space/patch-notes/patch-45/"
+      },
+      {
+        "label": "Secret Leeks login-event announcement (X)",
+        "url": "https://x.com/astroneergame/status/1757495181773816208"
+      },
+      {
+        "label": "Leekend daily login rewards — System Era response, November 2024",
+        "url": "https://www.reddit.com/r/Astroneer/comments/1gxfel8/leekend_is_back_login_daily_this_weekend_to/"
+      }
+    ],
+    "hat:THE FEZHANT": [
+      {
+        "label": "Holiday Update 2021",
+        "url": "https://blog.astroneer.space/p/holiday-update-003/"
+      },
+      {
+        "label": "Holiday Event 2022",
+        "url": "https://blog.astroneer.space/p/holiday-event-2022/"
+      }
+    ],
+    "emote:THANKS": [
+      {
+        "label": "Awakening patch notes",
+        "url": "https://blog.astroneer.space/p/awakening/"
+      },
+      {
+        "label": "An Awakening",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3664276023005523802"
+      }
+    ],
+    "visor:FROSTY": [
+      {
+        "label": "The Holiday Update is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3790273541465622918"
+      }
+    ],
+    "palette:FROSTY": [
+      {
+        "label": "The Holiday Update is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3790273541465622918"
+      }
+    ],
+    "mask:FROSTY": [
+      {
+        "label": "The Holiday Update is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3790273541465622918"
+      }
+    ],
+    "palette:VINTAGE RED": [
+      {
+        "label": "The Lunar Update is live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/1618399198861530526"
+      }
+    ],
+    "visor:VINTAGE EMBLEM": [
+      {
+        "label": "The Lunar Update is live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/1618399198861530526"
+      }
+    ],
+    "palette:SUNRISE": [
+      {
+        "label": "Summer Update Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/1620648463920020409"
+      }
+    ],
+    "palette:SUNSET": [
+      {
+        "label": "Summer Update Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/1620648463920020409"
+      }
+    ],
+    "visor:SUNRISE": [
+      {
+        "label": "Summer Update Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/1620648463920020409"
+      }
+    ],
+    "visor:SUNSET": [
+      {
+        "label": "Summer Update Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/1620648463920020409"
+      }
+    ],
+    "hat:ANNIVERSARY ITEM MK II": [
+      {
+        "label": "Update 1.18 is Live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/4239543758035215362"
+      },
+      {
+        "label": "Lunar New Year and Update 1.18 hotfixes!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3048343641189009158"
+      },
+      {
+        "label": "Update 1.18 Patch Notes!",
+        "url": "https://www.reddit.com/r/Astroneer/comments/l0r46x/update_118_patch_notes/"
+      }
+    ],
+    "hat:ANNIVERSARY ITEM MK IV": [
+      {
+        "label": "An Awakening",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3664276023005523802"
+      }
+    ],
+    "palette:ASTRO RECRUIT": [
+      {
+        "label": "Patch 1.0.15 is live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3291477678294060445"
+      }
+    ],
+    "hat:ANNIVERSARY ITEM MK III": [
+      {
+        "label": "Third Anniversary Celebration 2022",
+        "url": "https://blog.astroneer.space/p/xenobiology-update/"
+      }
+    ],
+    "visor:LORD CHECKERS": [
+      {
+        "label": "Community Initiative — Earn a Marble Visor",
+        "url": "https://www.reddit.com/r/Astroneer/comments/phgi7u/community_initiative_earn_a_marble_visor/"
+      }
+    ],
+    "visor:LORD DRAGON": [
+      {
+        "label": "Community Initiative — Earn a Marble Visor",
+        "url": "https://www.reddit.com/r/Astroneer/comments/phgi7u/community_initiative_earn_a_marble_visor/"
+      }
+    ],
+    "visor:LORD HYPNO": [
+      {
+        "label": "Community Initiative — Earn a Marble Visor",
+        "url": "https://www.reddit.com/r/Astroneer/comments/phgi7u/community_initiative_earn_a_marble_visor/"
+      }
+    ],
+    "visor:LORD LEO": [
+      {
+        "label": "Community Initiative — Earn a Marble Visor",
+        "url": "https://www.reddit.com/r/Astroneer/comments/phgi7u/community_initiative_earn_a_marble_visor/"
+      }
+    ],
+    "visor:LORD ZEBRA": [
+      {
+        "label": "Community Initiative — Earn a Marble Visor",
+        "url": "https://www.reddit.com/r/Astroneer/comments/phgi7u/community_initiative_earn_a_marble_visor/"
+      }
+    ],
+    "palette:Cosmopolitan": [
+      {
+        "label": "Megatech patch notes",
+        "url": "https://blog.astroneer.space/patch-notes/megatech-update/"
+      }
+    ],
+    "visor:ZINE": [
+      {
+        "label": "Astroneer: Countdown announcement (X)",
+        "url": "https://x.com/astroneergame/status/1641139914627481619"
+      },
+      {
+        "label": "Astroneer: Countdown announcement (Facebook)",
+        "url": "https://www.facebook.com/watch/?v=1620746888376616"
+      }
+    ],
+    "palette:CONTOUR": [
+      {
+        "label": "Astroneer: Countdown announcement (X)",
+        "url": "https://x.com/astroneergame/status/1641139914627481619"
+      },
+      {
+        "label": "Astroneer: Countdown announcement (Facebook)",
+        "url": "https://www.facebook.com/watch/?v=1620746888376616"
+      }
+    ],
+    "palette:PARTY TIME": [
+      {
+        "label": "Party Time code redemption announcement (X)",
+        "url": "https://x.com/astroneergame/status/1164652420598652929"
+      }
+    ],
+    "hat:REMIX": [
+      {
+        "label": "Astroneer Original Soundtrack Vinyl — Black Screen Records",
+        "url": "https://blackscreenrecords.com/products/astroneer"
+      }
+    ],
+    "hat:BRAIN BUDDY": [
+      {
+        "label": "Astroneer: Countdown announcement (X)",
+        "url": "https://x.com/astroneergame/status/1641139914627481619"
+      },
+      {
+        "label": "Astroneer: Countdown announcement (Facebook)",
+        "url": "https://www.facebook.com/watch/?v=1620746888376616"
+      }
+    ],
+    "palette:EXTRA LIFE": [
+      {
+        "label": "Extra Life 2023 donation rewards announcement (X)",
+        "url": "https://x.com/astroneergame/status/1732107901907632545"
+      }
+    ],
+    "visor:EXTRA LIFE": [
+      {
+        "label": "Extra Life 2023 donation rewards announcement (X)",
+        "url": "https://x.com/astroneergame/status/1732107901907632545"
+      }
+    ],
+    "visor:ORBITAL BLUE": [
+      {
+        "label": "Patch 1.0.15 is live!",
+        "url": "https://steamcommunity.com/games/361420/announcements/detail/3291477678294060445"
+      }
+    ],
+    "palette:POWER SUITED": [
+      {
+        "label": "Official Nintendo Switch release and bonus announcement",
+        "url": "https://blog.astroneer.space/p/astroneer-nintendo-switch-release-date-pre-orders-are-live/"
+      }
+    ],
+    "visor:BNTY-HNTR": [
+      {
+        "label": "Official Nintendo Switch release and bonus announcement",
+        "url": "https://blog.astroneer.space/p/astroneer-nintendo-switch-release-date-pre-orders-are-live/"
+      }
+    ],
+    "palette:LEGENDARY GREEN": [
+      {
+        "label": "Official Nintendo Switch release and bonus announcement",
+        "url": "https://blog.astroneer.space/p/astroneer-nintendo-switch-release-date-pre-orders-are-live/"
+      }
+    ],
+    "visor:VALUABLE VIEW": [
+      {
+        "label": "Official Nintendo Switch release and bonus announcement",
+        "url": "https://blog.astroneer.space/p/astroneer-nintendo-switch-release-date-pre-orders-are-live/"
+      }
+    ]
+  },
+  "renames": {
+    "hat:Construction 2": "Pardon our Dust",
+    "palette:Megatech": "Jewel Case",
+    "palette:COSMOPOLITAN": "Cosmopolitan",
+    "hat:Pardon Our Dust": "Pardon our Dust",
+    "hat:Sunflower": "Under the Sun",
+    "mask:Megatech": "Gear Shift",
+    "mask:Wires": "Haywire",
+    "visor:Megatech": "En-Ambered",
+    "palette:Cosmospolitan": "Cosmopolitan"
+  },
+  "entry_overrides": [
+    {
+      "name": "BEACH READY",
+      "category": "palette",
+      "menu_position": 54,
+      "obtainment_method": "Unknown",
+      "obtained_through": "Availability and original source unknown.",
+      "obtainment_details": "Shares the Beach Ready display name with a different palette, but uses floral banana artwork. Absent from the inspected store and catalogue; whether it was ever publicly released is unconfirmed.",
+      "hide_store_offers": true
+    },
+    {
+      "name": "TOASTY",
+      "category": "palette",
+      "menu_position": 131,
+      "visible": false
     }
   ]
 }
